@@ -1,5 +1,7 @@
 # 🪷 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE
 
+![AMATERASU: THE NEW DAWN ARISES](jin_order_amaterasu_new_dawn.jpg)
+
 ### **『生と死の狭間で、自分の価値を見出した時、世界は再生を始める』**
 ### *(When one finds their own value in the space between life and death, the world begins to regenerate.)*
 
