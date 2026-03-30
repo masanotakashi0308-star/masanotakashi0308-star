@@ -30,13 +30,13 @@ The system governing the surface is entirely corrupted by the bugs of bloodlines
 ### 🌓 PHASE 2: EXECUTION（作戦執行：螺旋の計）
 物理的インフラの無効化と、搾取されたグローバルサウスを救済するためのマスタープラン。
 
-* 📂 **[GOVERNANCE_OF_ABYSS](https://github.com/masanotakashi0308-star/GOVERNANCE_OF_ABYSS)**
+* 📂 **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)**
   深淵の統治：インフラ破壊戦略「螺旋の計」と国別救済プラン
 
 ### 🌕 PHASE 3: NEW PARADIGM & REBIRTH（新世界の構築とJIN-OS）
 破壊の後に訪れる「愛（仁焔）」による再構築。新たな通貨、倫理、そして市民権の実装。
 
-* 📂 **[JIN-OS-Citizen-Shield](https://github.com/masanotakashi0308-star/JIN-OS-Citizen-Shield)**
+* 📂 **[JIN-OS-Citizen-Shield](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield)**
   JIN-OS憲章：デジタル市民証と新通貨「JIN」の全貌
 * 📂 **[Creating-a-new-paradigm](https://github.com/masanotakashi0308-star/Creating-a-new-paradigm)**
   次世代の技術と社会パラダイムの設計図
