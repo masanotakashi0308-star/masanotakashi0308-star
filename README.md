@@ -58,7 +58,7 @@ The system governing the surface is entirely corrupted by the bugs of bloodlines
 
 If you wish to use JIN-ORDER designs, concepts, or data for commercial purposes or implement them into other projects, you must contact our official desk in advance. Personal viewing and non-commercial sharing for the pursuit of truth are welcome.
 
-✉️ **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+### ✉️ **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
 
 ※デザイン等の使用に関する報酬やライセンス契約については、JIN-ORDERのCFO（最高財務責任者）が直接協議・審査を行います。無断転用はJIN-OSのプロトコルにより固く禁じます。
 
