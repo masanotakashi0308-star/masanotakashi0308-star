@@ -51,7 +51,6 @@ The system governing the surface is entirely corrupted by the bugs of bloodlines
 （餓狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わる🐾）
 
 ---
-
 ### ⚖️ LICENSE & CONTACT（ライセンスおよび利用規約）
 
 本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
