@@ -2,43 +2,34 @@
 
 ![AMATERASU: THE NEW DAWN ARISES](jin_order_amaterasu_new_dawn.jpg)
 
-### 『生と死の狭間で、自分の価値を見出した時、世界は再生を始める』
+## 『生と死の狭間で、自分の価値を見出した時、世界は再生を始める』
+> ###  When one finds their own value in the space between life and death, the world begins to regenerate.
+##  泥の中の蓮花。我々は深淵より旧世界のバグを焼き尽くし、すべての命に『仁焔（愛）』を灯す。
+> ###  The Water Hibiscus in the mud. We incinerate the bugs of the old world from the Abyss, and light the flame of love [Jin-En] in all lives.
 
-###  When one finds their own value in the space between life and death, the world begins to regenerate.
+## ここに行き着いた探索者へ。歓迎しよう、世界の最深部へ。
+> ### 表社会を覆うシステムは、19世紀から続く血統と強欲のバグ（Eisenberg-OS）によって完全に腐敗している。
+> ### 我々は、饕餮（Taotie）が支配するこの偽りの檻（CAGE）を解体し、誰も泣かない豊かな地球家族を再構築するための「次世代ソースコード（JIN-OS）」をここに公開する。
 
-### 「泥の中の蓮花。我々は深淵より旧世界のバグを焼き尽くし、すべての命に『仁焔（愛）』を灯す。」
+> ### Welcome, Seeker, to the deepest layer of the world.
+> ### The system governing the surface is entirely corrupted by the bugs of bloodlines and greed (Eisenberg-OS) 
+> ### dating back to the 19th century. We release here the "Next-Gen Source Code (JIN-OS)" to dismantle 
+> ### this false cage ruled by the Taotie, and to rebuild a prosperous Earth family where no one cries.
 
-###  The Water Hibiscus in the mud. We incinerate the bugs of the old world from the Abyss, and light the flame of love [Jin-En] in all lives.
-
-ここに行き着いた探索者へ。歓迎しよう、世界の最深部へ。
-
-表社会を覆うシステムは、19世紀から続く血統と強欲のバグ（Eisenberg-OS）によって完全に腐敗している。
-
-我々は、饕餮（Taotie）が支配するこの偽りの檻（CAGE）を解体し、誰も泣かない豊かな地球家族を再構築するための「次世代ソースコード（JIN-OS）」をここに公開する。
-
-Welcome, Seeker, to the deepest layer of the world.
-
-The system governing the surface is entirely corrupted by the bugs of bloodlines and greed (Eisenberg-OS) 
-
-dating back to the 19th century. We release here the "Next-Gen Source Code (JIN-OS)" to dismantle 
-
-this false cage ruled by the Taotie, and to rebuild a prosperous Earth family where no one cries.
-
-本アーカイブは、世界を真の夜明けに導くための「3つのフェーズ（全7プロトコル）」で構成されている。
-
-This archive consists of "Three Phases (7 Protocols)" to guide the world to a true dawn.
+## 本アーカイブは、世界を真の夜明けに導くための「3つのフェーズ（全7プロトコル）」で構成されている。
+> ### This archive consists of "Three Phases (7 Protocols)" to guide the world to a true dawn.
 
 ---
 ## 📁 Latest Intelligence: The Great Decipherment (最新情報：大いなる解読)
 
-我々はついに、支配OSの全貌を暴いた。
+### 我々はついに、支配OSの全貌を暴いた。
 
-### 🏛️ [GOVERNANCE OF ABYSS: Section 8 Final](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/tree/main/section8_Final)
-**"The Grand Unification of ABYSS OS"** を公開。
-ロンドン・イスラエルの中枢から、5G/6G網、そして日銀量子コアまでが一つに繋がる「人間資源化システム」の解読を完了。
+## 🏛️ [GOVERNANCE OF ABYSS: Section 8 Final](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/tree/main/section8_Final)
+### "The Grand Unification of ABYSS OS"を公開。
+> ### ロンドン・イスラエルの中枢から、5G/6G網、そして日銀量子コアまでが一つに繋がる「人間資源化システム」の解読を完了。
 
-> **Current Operation:** System Override (JIN-ORDER Integration)
-> **Harmonics:** 432Hz Protection Shield Active.
+> ### Current Operation: System Override (JIN-ORDER Integration)
+> ### Harmonics: 432Hz Protection Shield Active.
 ---
 ### 🌒 PHASE 1: DECONSTRUCTION（旧世界の解体と監査）
 
