@@ -1,5 +1,9 @@
 # 🪷 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE
 
+![System Status](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/JIN--ORDER-v1.0-blue?style=for-the-badge)
+![Protocol](https://img.shields.io/badge/Protocol-432Hz_Harmony-purple?style=for-the-badge)
+
 ![AMATERASU: THE NEW DAWN ARISES](jin_order_amaterasu_new_dawn.jpg)
 
 > **『生と死の狭間で、自分の価値を見出した時、世界は再生を始める』**
