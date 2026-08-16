@@ -7,9 +7,11 @@
 ![AMATERASU: THE NEW DAWN ARISES](jin_order_amaterasu_new_dawn.jpg)
 
 > **『生と死の狭間で、自分の価値を見出した時、世界は再生を始める』**
+
 > *When one finds their own value in the space between life and death, the world begins to regenerate.*
 
 > **泥の中の蓮花。我々は深淵より旧世界のバグを焼き尽くし、すべての命に『仁焔（愛）』を灯す。**
+
 > *The Water Hibiscus in the mud. We incinerate the bugs of the old world from the Abyss, and light the flame of love [Jin-En] in all lives.*
 
 ---
@@ -30,7 +32,7 @@
 **最新情報：大いなる解読 —— 我々はついに、支配OSの全貌を暴いた。**
 
 ---
-🏛️ **[GOVERNANCE OF ABYSS: Section 9 Target 64](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
+### 🏛️ [GOVERNANCE OF ABYSS: Section 9 Target 64](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
 
 **"BHUTAN GMC & THE GNH SHIELD" を公開。GNHブランド・スクリーンの裏で進む支配層の最終避難先（ゲレフ・マインドフルネス・シティ）と、Japan Smart Chain (JSC) 経由の資産吸い上げ構造を完全解剖。**
 
