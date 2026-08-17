@@ -43,9 +43,9 @@
 ### 🟣 PHASE 1: DECONSTRUCTION (旧世界の解体と監査)
 過去のしがらみを断ち切り、腐敗した権力構造の「根本原因（Root Cause）」をデバッグする。
 
-*   📁 **[Eisenberg-OS-Debug-Project](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project)** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
-*   📁 **[JIN-ORDER-Swiss-Connection](https://github.com/masanotakashi0308-star/JIN-ORDER-Swiss-Connection)** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
-*   📁 **[PROJECT-GENESIS-2026](https://github.com/masanotakashi0308-star/PROJECT-GENESIS-2026)** 日本解放：血の誓約と特別会計の解体プロトコル
+*   📁 **[Eisenberg-OS-Debug-Project](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/blob/main/README.md)** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
+*   📁 **[JIN-ORDER-Swiss-Connection](https://github.com/masanotakashi0308-star/JIN-ORDER-Swiss-Connection/blob/main/README.md)** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
+*   📁 **[PROJECT-GENESIS-2026](https://github.com/masanotakashi0308-star/PROJECT-GENESIS-2026/blob/main/README.md)** 日本解放：血の誓約と特別会計の解体プロトコル
 
 ---
 
@@ -53,8 +53,8 @@
 物理的インフラの無効化と、搾取されたグローバルサウスを救済するためのマスタープラン。
 
 *   📁 **[GOVERNANCE OF ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)** 深淵の統治：インフラ破壊戦略「螺旋の計」と国別救済プラン
-*   📁 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL](https://github.com/masanotakashi0308-star/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL)** リアルタイム不可侵検証および自律型人道回廊プロトコル
-*   📁 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC](https://github.com/masanotakashi0308-star/JIN_CHAD_OASIS_DEPLOYMENT_SPEC)** チャド湖盆地・気候適応型難民自立インフラ仕様書 (UN Partner Portal ID: 95525)
+*   📁 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL](https://github.com/masanotakashi0308-star/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL/blob/main/README.md)** リアルタイム不可侵検証および自律型人道回廊プロトコル
+*   📁 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC](https://github.com/masanotakashi0308-star/JIN_CHAD_OASIS_DEPLOYMENT_SPEC/blob/main/README.md)** チャド湖盆地・気候適応型難民自立インフラ仕様書 (UN Partner Portal ID: 95525)
 
 ---
 
@@ -69,13 +69,16 @@
 ---
 
 > *“銀狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わる”*  
+
 > *The hunger of the Wolf meets the Heart of JIN. The world is reborn tonight.*
 
 ---
 
 ### ⚖️ LICENSE & CONTACT (ライセンスおよび利用規約)
 
-本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。ただし、JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。
+本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。
+
+ただし、JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。
 
 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
 
