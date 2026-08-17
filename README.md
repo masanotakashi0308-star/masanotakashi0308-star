@@ -68,11 +68,11 @@
 ### 🟠 PHASE 3: NEW PARADIGM & REBIRTH (新世界の構築とJIN-OS)
 破壊の後に訪れる「愛（仁焔）」による再構築。新たな通貨、倫理、そして市民権の実装。
 
-*   📁 **[JIN-OS-Citizen-Shield](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield)** JIN-OS憲章：デジタル市民証と新通貨「JIN」の全貌
+*   📁 **[JIN-OS-Citizen-Shield](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/README.md)** JIN-OS憲章：デジタル市民証と新通貨「JIN」の全貌
 
 *   📁 **[JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md)** 多通貨人道送金・戦争資本中和プロトコル
 
-*   📁 **[Creating-a-new-paradigm](https://github.com/masanotakashi0308-star/Creating-a-new-paradigm/blob/main/README.md)* 次世代の技術と社会パラダイムの設計図
+*   📁 **[Creating-a-new-paradigm](https://github.com/masanotakashi0308-star/Creating-a-new-paradigm/blob/main/README.md)** 次世代の技術と社会パラダイムの設計図
 
 *   📁 **[JIN-Project](https://github.com/masanotakashi0308-star/JIN-Project/blob/main/README.md)** 法の再構築と、次世代へ遺す「真実のアーカイブ」
 
