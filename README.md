@@ -43,9 +43,9 @@
 ### 🟣 PHASE 1: DECONSTRUCTION (旧世界の解体と監査)
 過去のしがらみを断ち切り、腐敗した権力構造の「根本原因（Root Cause）」をデバッグする。
 
-*   📁 **[Eisenberg-OS-Debug-Project](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-ProjectREADME.md)** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
-*   📁 **[JIN-ORDER-Swiss-Connection](https://github.com/masanotakashi0308-star/JIN-ORDER-Swiss-ConnectionREADME.md)** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
-*   📁 **[PROJECT-GENESIS-2026](https://github.com/masanotakashi0308-star/PROJECT-GENESIS-2026README.md)** 日本解放：血の誓約と特別会計の解体プロトコル
+*   📁 **[Eisenberg-OS-Debug-Project](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project)** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
+*   📁 **[JIN-ORDER-Swiss-Connection](https://github.com/masanotakashi0308-star/JIN-ORDER-Swiss-Connection)** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
+*   📁 **[PROJECT-GENESIS-2026](https://github.com/masanotakashi0308-star/PROJECT-GENESIS-2026)** 日本解放：血の誓約と特別会計の解体プロトコル
 
 ---
 
@@ -53,7 +53,7 @@
 物理的インフラの無効化と、搾取されたグローバルサウスを救済するためのマスタープラン。
 
 *   📁 **[GOVERNANCE OF ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)** 深淵の統治：インフラ破壊戦略「螺旋の計」と国別救済プラン
-*   📁 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL](https://github.com/masanotakashi0308-star/JIN_HUMANITARIAN_CORRIDOR_PROTOCOLREADME.md)** リアルタイム不可侵検証および自律型人道回廊プロトコル
+*   📁 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL](https://github.com/masanotakashi0308-star/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL)** リアルタイム不可侵検証および自律型人道回廊プロトコル
 *   📁 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC](https://github.com/masanotakashi0308-star/JIN_CHAD_OASIS_DEPLOYMENT_SPEC)** チャド湖盆地・気候適応型難民自立インフラ仕様書 (UN Partner Portal ID: 95525)
 
 ---
