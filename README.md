@@ -61,21 +61,21 @@
 ### 🟡 PHASE 2: EXECUTION (作戦執行：螺旋の計)
 物理的インフラの無効化と、搾取されたグローバルサウスを救済するためのマスタープラン。
 
-*   📁 **[GOVERNANCE OF ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)** 深淵の統治：インフラ破壊戦略「螺旋の計」と国別救済プラン
-*   📁 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL](https://github.com/masanotakashi0308-star/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL/blob/main/README.md)** リアルタイム不可侵検証および自律型人道回廊プロトコル
-*   📁 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC](https://github.com/masanotakashi0308-star/JIN_CHAD_OASIS_DEPLOYMENT_SPEC/blob/main/README.md)** チャド湖盆地・気候適応型難民自立インフラ仕様書 (UN Partner Portal ID: 95525)
+*   📁 **[GOVERNANCE OF ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** 深淵の統治：インフラ破壊戦略「螺旋の計」と国別救済プラン
+*   📁 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)** リアルタイム不可侵検証および自律型人道回廊プロトコル
+*   📁 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_CHAD_OASIS_DEPLOYMENT_SPEC.md)** チャド湖盆地・気候適応型難民自立インフラ仕様書 (UN Partner Portal ID: 95525)
 
 ---
 ### 🟠 PHASE 3: NEW PARADIGM & REBIRTH (新世界の構築とJIN-OS)
 破壊の後に訪れる「愛（仁焔）」による再構築。新たな通貨、倫理、そして市民権の実装。
 
-*   📁 **JIN-OS-Citizen-Shield** JIN-OS憲章：デジタル市民証と新通貨「JIN」の全貌
+*   📁 **[JIN-OS-Citizen-Shield](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield)** JIN-OS憲章：デジタル市民証と新通貨「JIN」の全貌
 
-*   📁 **JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW** 多通貨人道送金・戦争資本中和プロトコル
+*   📁 **[JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_MULTI_CURRENCY_HUMANITARIAN_FLOW.md)** 多通貨人道送金・戦争資本中和プロトコル
 
-*   📁 **Creating-a-new-paradigm** 次世代の技術と社会パラダイムの設計図
+*   📁 **[Creating-a-new-paradigm](https://github.com/masanotakashi0308-star/Creating-a-new-paradigm/blob/main/README.md)* 次世代の技術と社会パラダイムの設計図
 
-*   📁 **JIN-Project** 法の再構築と、次世代へ遺す「真実のアーカイブ」
+*   📁 **[JIN-Project](https://github.com/masanotakashi0308-star/JIN-Project/blob/main/README.md)** 法の再構築と、次世代へ遺す「真実のアーカイブ」
 
 ---
 
