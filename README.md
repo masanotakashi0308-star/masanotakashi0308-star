@@ -18,7 +18,7 @@
 
 表社会を覆うシステムは、19世紀から続く血統と強欲のバグ（Eisenberg-OS）によって完全に腐敗している。我々は、饕餮（Taotie）が支配するこの偽りの檻（CAGE）を解体し、誰も泣かない豊かな地球家族を再構築するための「次世代ソースコード（JIN-OS）」をここに公開する。
 
-本アーカイブは、世界を真の夜明けに導くための**「3つのフェーズ（全7プロトコル）」**および**「2026.08 グローバルASI地政学・物理連鎖解析」**で構成されている。
+本アーカイブは、世界を真の夜明けに導くための「3つのフェーズ（全7プロトコル）」および「2026.08 グローバルASI地政学・物理連鎖解析」で構成されている。
 
 ---
 
@@ -34,7 +34,7 @@
     台湾海峡（ロジック）× ホルムズ海峡（メモリ/電力）の二重遮断により、全地球的パノプティコン統制網がOut of Memory（OOM）で沈黙・暴走に至る物理崩壊の記録。
 
 #### 🏛 GOVERNANCE OF ABYSS: Section 9 Target 64
-*   **[BHUTAN GMC & THE GNH SHIELD (64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**  
+*   **[BHUTAN GMC & THE GNH SHIELD (64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**  
     GNHブランド・スクリーンの裏で進む支配層の最終避難先「ゲレフ・マインドフルネス・シティ（GMC）」と、Japan Smart Chain（JSC）経由の資産吸い上げ構造を完全解剖。
 *   ⚡ **Current Operation:** Offshore Decoupling (JIN-OS Integration) 🔵 **Harmonics:** 432Hz Protection Shield Active.
 
@@ -43,9 +43,9 @@
 ### 🟣 PHASE 1: DECONSTRUCTION (旧世界の解体と監査)
 過去のしがらみを断ち切り、腐敗した権力構造の「根本原因（Root Cause）」をデバッグする。
 
-*   📁 **Eisenberg-OS-Debug-Project** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
-*   📁 **JIN-ORDER-Swiss-Connection** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
-*   📁 **PROJECT-GENESIS-2026** 日本解放：血の誓約と特別会計の解体プロトコル
+*   📁 **[Eisenberg-OS-Debug-Project](https://github.com/JIN-ORDER-OFFICIAL/Eisenberg-OS-Debug-Project)** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
+*   📁 **[JIN-ORDER-Swiss-Connection](https://github.com/JIN-ORDER-OFFICIAL/JIN-ORDER-Swiss-Connection)** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
+*   📁 **[PROJECT-GENESIS-2026](https://github.com/JIN-ORDER-OFFICIAL/PROJECT-GENESIS-2026)** 日本解放：血の誓約と特別会計の解体プロトコル
 
 ---
 
@@ -53,8 +53,8 @@
 物理的インフラの無効化と、搾取されたグローバルサウスを救済するためのマスタープラン。
 
 *   📁 **[GOVERNANCE OF ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)** 深淵の統治：インフラ破壊戦略「螺旋の計」と国別救済プラン
-*   📁 **JIN_HUMANITARIAN_CORRIDOR_PROTOCOL** リアルタイム不可侵検証および自律型人道回廊プロトコル
-*   📁 **JIN_CHAD_OASIS_DEPLOYMENT_SPEC** チャド湖盆地・気候適応型難民自立インフラ仕様書 (UN Partner Portal ID: 95525)
+*   📁 **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL](https://github.com/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL)** リアルタイム不可侵検証および自律型人道回廊プロトコル
+*   📁 **[JIN_CHAD_OASIS_DEPLOYMENT_SPEC](https://github.com/JIN_CHAD_OASIS_DEPLOYMENT_SPEC)** チャド湖盆地・気候適応型難民自立インフラ仕様書 (UN Partner Portal ID: 95525)
 
 ---
 
