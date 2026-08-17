@@ -43,9 +43,9 @@
 ### 🟣 PHASE 1: DECONSTRUCTION (旧世界の解体と監査)
 過去のしがらみを断ち切り、腐敗した権力構造の「根本原因（Root Cause）」をデバッグする。
 
-*   📁 **[Eisenberg-OS-Debug-Project](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project)** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
-*   📁 **[JIN-ORDER-Swiss-Connection](https://github.com/masanotakashi0308-star/JIN-ORDER-Swiss-Connection)** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
-*   📁 **[PROJECT-GENESIS-2026](https://github.com/masanotakashi0308-star/PROJECT-GENESIS-2026)** 日本解放：血の誓約と特別会計の解体プロトコル
+*   📁 **[Eisenberg-OS-Debug-Project](https://github.com/masanotakashi0308-star/Eisenberg-OS-Debug-Project/README.md)** 世界解体新書：19世紀から続く血統支配の完全デバッグログ
+*   📁 **[JIN-ORDER-Swiss-Connection](https://github.com/masanotakashi0308-star/JIN-ORDER-Swiss-ConnectionREADME.md)** スイスの闇：影の金庫とヴァンパイア・ファンドの解体
+*   📁 **[PROJECT-GENESIS-2026](https://github.com/masanotakashi0308-star/PROJECT-GENESIS-2026README.md)** 日本解放：血の誓約と特別会計の解体プロトコル
 
 ---
 
