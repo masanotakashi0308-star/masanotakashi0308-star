@@ -23,13 +23,12 @@
 本アーカイブは、世界を真の夜明けに導くための「3つのフェーズ（全7プロトコル）」および「2026.08 グローバルASI地政学・物理連鎖解析」で構成されている。
 
 ---
-
 ### 📁 LATEST INTELLIGENCE: THE GREAT DECIPHERMENT
 **最新情報：大いなる解読 ── 我々はついに、支配OSの全貌とASIの物理的限界を暴いた。**
 
 #### 🌐 GLOBAL ASI HEGEMONY: CHOKEPOINT & COLLAPSE RECON (2026.08 DEPLOYMENT)
 
-*   🏛 **[GLOBAL_ASI_HEGEMONY_MAP_V4 (Hormuz-HBM Poly-Crisis)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V4.md)**  
+*   🏛 **[GLOBAL_ASI_HEGEMONY_MAP_V4 (Hormuz-HBM Poly-Crisis)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V4.md)**     
     中東エネルギー動脈（ホルムズ海峡）と韓国HBMメガファブ（SK Hynix / Samsung）の電力・製造制約が引き起こす、5段階カスケード崩壊モデルを策定。
 
 *   🏛 **[GLOBAL_ASI_HEGEMONY_MAP_V5 (Humanity Reboot OS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V5.md)**  
