@@ -55,7 +55,7 @@
 
 🏛️ **GOVERNANCE OF ABYSS: Section 9 Target 64**
 
-* 🏛️ [BHUTAN GMC & THE GNH SHIELD (64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)
+* 🏛️ [BHUTAN GMC & THE GNH SHIELD (64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)
 
   GNHブランド・スクリーンの裏で進む支配層の最終避難先「ゲレフ・マインドフルネス・シティ（GMC）」と、Japan Smart Chain（JSC）経由の資産吸い上げ構造を完全解剖。
 
