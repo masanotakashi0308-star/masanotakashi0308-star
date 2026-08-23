@@ -29,7 +29,7 @@
 
 最新情報：日本再生計画と大いなる解析——我々はついに、支配OSの全貌とASIの物理的限界を暴いた。
 
-* 🏛️ [Section 9: section9_Geopolitics / 03_ASIA_GEOPOLITICAL_RECON.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/ection9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)
+* 🏛️ [Section 9: section9_Geopolitics / 03_ASIA_GEOPOLITICAL_RECON.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)
   * アジア最新地政学リコン（2026.08最新現況）。
   * 米朝軸（米国の内情と北朝鮮の核戦力57発保有）、ロシア・日本軸の歴史的摩擦マトリックス、そして中国を中心とした東南アジアにおける防衛協力・ミサイル工場ネットワークの全貌を実証。
 
