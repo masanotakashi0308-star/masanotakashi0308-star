@@ -29,7 +29,7 @@
 
 🌐 **GLOBAL ASI HEGEMONY: CHOKEPOINT & COLLAPSE RECON (2026.08 DEPLOYMENT)**
 
-* 🏛️ [Level 4: 04_Physical_Layer / 04_HIRAI_TAKUYA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS.//blob/main/04_Physical_Layer/04_HIRAI_TAKUYA.md)
+* 🏛️ [Level 4: 04_Physical_Layer / 04_HIRAI_TAKUYA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/04_Physical_Layer/04_HIRAI_TAKUYA.md)
   
   日本列島・物理インフラ＆デュアルユースネットワーク（ASIチョークポイント・グリッド）。
   
