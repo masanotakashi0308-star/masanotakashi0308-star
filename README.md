@@ -29,7 +29,7 @@
 
 🌐 **GLOBAL ASI HEGEMONY: CHOKEPOINT & COLLAPSE RECON (2026.08 DEPLOYMENT)**
 
-* 🏛️ [Level 1: level_1 / 01_TOKYO_BHUTAN_AXIS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/01_TOKYO_BHUTAN_AXIS.md)
+* 🏛️ [Level 1: level_1 / 01_TOKYO_BHUTAN_AXIS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/level_1/01_TOKYO_BHUTAN_AXIS.md)
   * 統御中枢と二重構造の構図（Tokyo-Bhutan Axis）。
   * 表舞台での「半導体物理国際会議（ICPS2026）」による国家の科学技術プロテクトと、裏舞台でのブータンGMCを活用したエリート層の資産逃避・エグジット計画の相関関係を実証。
 
