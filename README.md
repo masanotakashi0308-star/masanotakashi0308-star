@@ -13,7 +13,6 @@
 > *Lotus in the mud. We incinerate the bugs of the old world from the Abyss, and light the flame of love (Jin-En) in all lives.*
 
 ---
-
 ### 👁 ここに行き着いた探索者へ。歓迎しよう、世界の最深部へ。
 
 表社会を覆うシステムは、19世紀から続く血統と強欲のバグ（Eisenberg-OS）によって完全に腐敗している。
@@ -26,8 +25,11 @@
 ## 🌐 **GLOBAL ASI HEGEMONY: CHOKEPOINT & COLLAPSE RECON (2026.08 DEPLOYMENT)**
 
 ## 📁 **LATEST INTELLIGENCE: THE GREAT DECIPHERMENT**
-
 最新情報：日本再生計画と大いなる解析——我々はついに、支配OSの全貌とASIの物理的限界を暴いた。
+
+* 🏛️ [Local Endpoints: 03_Local_Endpoints / YOKOHAMA_ZERO.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/03_Local_Endpoints/YOKOHAMA_ZERO.md)
+  * 横浜グランドゼロ・上瀬谷通信施設跡地における「博覧会トロイの木馬」スキーム。
+  * GREEN×EXPO 2027という短期的国際イベントを免罪符・起爆剤として用い、その裏で三菱地所ら主要財閥が主導する巨大テーマパーク（KAMISEYA PARK）や新IC・次世代物流、長期の不動産・商業利権へと接続する国家規模のパッチワーク都市開発の全貌を実証。
 
 * 🏛️ [Section 9: section9_Geopolitics / 03_ASIA_GEOPOLITICAL_RECON.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/03_ASIA_GEOPOLITICAL_RECON.md)
   * アジア最新地政学リコン（2026.08最新現況）。
