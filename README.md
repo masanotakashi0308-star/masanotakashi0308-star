@@ -27,6 +27,12 @@
 ## 📁 **LATEST INTELLIGENCE: THE GREAT DECIPHERMENT**
 最新情報：日本再生計画と大いなる解析——我々はついに、支配OSの全貌とASIの物理的限界を暴いた。
 
+* 🏛️ [Protocol Layer / 02_Protocol_Layer / MASAYOSHI_SON_STARGATE_DECEPTION.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/02_Protocol_Layer/MASAYOSHI_SON_STARGATE_DECEPTION.md)
+  * 孫正義氏のスターゲイト計画、苫小牧・堺のAI拠点、エプスタイン人脈、および選挙インフラ（ムサシ）を巡るデジタル独裁の構造を解析。
+
+* 🏛️ [Physical Layer / 04_Physical_Layer / FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/04_Physical_Layer/FIT_RENEWABLE_ENERGY_SURCHARGE_HARVEST.md)
+  * FIT制度の権利ビジネス、上海電力日本のインフラ浸透、ソフトバンクのイグジット、そして累計25兆円を超える再エネ賦課金の収奪構造を実証[cite: 2]。
+
 * 🏛️ [Physical Layer / 04_Physical_Layer / POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/04_Physical_Layer/POWERR_GX_INFRASTRUCTURE_DEPLOYMENT.md)
   * 政府の「パワーGX（エネルギー需給構造の強靱化総合パッケージ）」の裏と表の二重構造を解析。
   * 原子力・再エネ・AIデータセンターを外部特権資本の管理下に接続する「システム・パッチ」の全貌を実証。
