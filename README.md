@@ -26,6 +26,9 @@
 ## 📁 **LATEST INTELLIGENCE: THE GREAT DECIPHERMENT**
 最新情報：日本再生計画と大いなる解析——我々はついに、支配OSの全貌とASIの物理的限界を暴いた。
 
+*  🏛️ [Local Endpoints / 03_Local_Endpoints / TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/03_Local_Endpoints/TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md)
+   * 小池百合子都政とグローバル・エリート（WEF等）を結ぶ利権ハブ、都市再開発の利権、および生命・資産の収奪サプライチェーンを解析。
+
 * 🏛️ [Physical Layer / 04_Physical_Layer / YOKOHAMA_PORT_DON_NETWORK_HARVEST.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/04_Physical_Layer/YOKOHAMA_PORT_DON_NETWORK_HARVEST.md)
   * 横浜港・山下ふ頭の再開発を巡るYHR、藤木企業、および「横浜のドン」古参支配ネットワークによる港湾利権と市政圧力の構造を解析。
 
