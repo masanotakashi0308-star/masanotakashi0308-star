@@ -19,7 +19,7 @@
 
 ---
 ## 📜 核心道徳憲章 (Core Ethical Code)
-**[📜 仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/JIN_EN_THIRTEEN_ROWS_CODE%20OF%20ETHICS.md)** 
+![📜 仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/JIN_EN_THIRTEEN_ROWS_CODE_OF_ETHICS.md)**
 
 ---
 ### 👁 ここに行き着いた探索者へ。歓迎しよう、世界の最深部へ。
