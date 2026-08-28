@@ -18,9 +18,13 @@
 > *Rather than granting sovereignty to artificial intelligence (AI), humanity must hold true moral and ethical convictions to maintain sovereignty. This is an autonomous-driven paradigm designed to break free from externalized exploitative systems and allow every soul to live as a "pioneer hero."*
 
 ---
-## 📜 核心道徳憲章 (Core Ethical Code)
+## 🗡️ 精神的支柱と魂の道徳憲章 (Spiritual Core & Ethical Code)
 
-![仁焔十三行：新秩序の道徳憲章](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/JIN_EN_THIRTEEN_ROWS_CODE_OF_ETHICS.md)
+* **[🗡️ 武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND THE AWAKENING OF THE SOUL)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)** *(New)*
+  * **SUMMARY**: 一瞬の恥を千年の悔いとする武士道の精神を通し、為政者の自己保身と国民の無関心を断罪。「真の剣を抜く」ための魂の覚醒と道徳規範を日英併記で完全収載。
+
+* **[📜 仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/JIN_EN_THIRTEEN_ROWS_CODE_OF_ETHICS.md)**
+  * **SUMMARY**: 技術や医術の暴走を防ぎ、人間が主権と倫理を統御するための最高法典。全十三行の条文と理念ビジュアルを完全収載。
 
 ---
 ### 👁 ここに行き着いた探索者へ。歓迎しよう、世界の最深部へ。
