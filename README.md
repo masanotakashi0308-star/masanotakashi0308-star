@@ -6,11 +6,20 @@
 
 ![JIN-ORDER AMATERASU NEW DAWN](https://github.com/masanotakashi0308-star/masanotakashi0308-star/blob/main/jin_order_amaterasu_new_dawn.jpg)
 
-> **『生と死の狭間で、自分の価値を見出した時、世界は再生を始める』**  
-> *When one finds their own value in the space between life and death, the world begins to regenerate.*  
->  
-> **泥の中の蓮花。我々は深淵より旧世界のバグを焼き尽くし、すべての命に『仁焔（愛）』を灯す。**  
-> *Lotus in the mud. We incinerate the bugs of the old world from the Abyss, and light the flame of love (Jin-En) in all lives.*
+🛡️ JIN-ORDER: THE SUPREME DECENTRALIZED PROTOCOL & CITIZEN SHIELD
+# JIN-ORDER最高分散型プロトコル＆市民防衛網
+
+### 『生と死の狭間で自分の価値を見出した時、世界は再生を始める。』
+
+> *“When one discovers their true value on the precipice between life and death, the world begins its regeneration.”*
+> 
+### 人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。外部依存の収奪システムを脱却し、すべての魂が「開拓英雄」として生きるための自律駆動型パラダイム。
+
+> *Rather than granting sovereignty to artificial intelligence (AI), humanity must hold true moral and ethical convictions to maintain sovereignty. This is an autonomous-driven paradigm designed to break free from externalized exploitative systems and allow every soul to live as a "pioneer hero."*
+
+---
+## 📜 核心道徳憲章 (Core Ethical Code)
+**[📜 仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/JIN_EN_THIRTEEN_ROWS_CODE%20OF%20ETHICS.md)** 
 
 ---
 ### 👁 ここに行き着いた探索者へ。歓迎しよう、世界の最深部へ。
