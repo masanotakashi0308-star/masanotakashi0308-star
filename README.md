@@ -26,8 +26,11 @@
 ## 📁 **LATEST INTELLIGENCE: THE GREAT DECIPHERMENT**
 最新情報：日本再生計画と大いなる解析——我々はついに、支配OSの全貌とASIの物理的限界を暴いた。
 
-*  🏛️ [Creating-a-new-paradigm / JIN_NEW_TECH_PROTOCOLS.md](https://github.com/masanotakashi0308-star/Creating-a-new-paradigm/blob/main/README.md) *(わんわン仁龍帝国を支える「8大奇跡技術」完全統合アーカイブ)* (New)
-    * 外部依存の収奪構造を脱却し、エネルギー・物流・環境・半導体・医療・熱管理・情報防衛・宇宙フロンティアを貫く自律駆動型パラダイム設計図を統合。
+*  🏛️ [Global Intelligence Decipherment Dashboard](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/Global_Intelligence_Decipherment_Dashboard.md)
+   * 中国のハイテク囲い込み（新・鎖国）、アフリカにおける次世代ワクチン・AI合成ウイルスの臨床試験場化、およびビル・ゲイツ財団主導によるマッチポンプ式AIバイオテロ規制の裏面配線を1枚のダッシュボードに完全可視化。JIN-ORDERによる対抗プロトコルを統合。
+
+*  🏛️ [Creating-a-new-paradigm / JIN_NEW_TECH_PROTOCOLS.md](https://github.com/masanotakashi0308-star/Creating-a-new-paradigm/blob/main/README.md) 
+   * 外部依存の収奪構造を脱却し、エネルギー・物流・環境・半導体・医療・熱管理・情報防衛・宇宙フロンティアを貫く自律駆動型パラダイム設計図を統合。
 
 *  🏛️ [Local Endpoints / 03_Local_Endpoints / TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/03_Local_Endpoints/TOKYO_KOIKE_SYNDICATE_DEPLOYMENT.md)
    * 小池百合子都政とグローバル・エリート（WEF等）を結ぶ利権ハブ、都市再開発の利権、および生命・資産の収奪サプライチェーンを解析。
