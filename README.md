@@ -20,18 +20,18 @@
 
 ## 🗡️ 精神的支柱と魂の道徳憲章 (Spiritual Core & Ethical Code)
 
-* 🗡️ **[武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND THE AWAKENING OF THE SOUL)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)**
-
+* 🗡️ **[武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND THE AWAKENING OF THE SOUL)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)**  
+  
   一瞬の恥を千年の悔いとする武士道の精神を通し、為政者の自己保身と無関心を断罪。「真の剣を抜く」ための魂の覚醒と道徳規範を日英併記で完全収載。
 
-* 📜 **[仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**
-
-  【慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調】
+* 📜 **[仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**  
+  
+  **【慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調】**
   
   技術や医術の暴走を防ぎ、人間が主権と倫理を統御するための最高行動規範。
 
-* ⚖️ **[普遍的倫理規約：新人類の共通OS (UNIVERSAL ETHICS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)**
-
+* ⚖️ **[普遍的倫理規約：新人類の共通OS (UNIVERSAL ETHICS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)**  
+  
   双方向的慈悲の原則、憎しみの昇華、アルゴリズムに対する「仁」の優位性を規定した最高哲学綱領。
 
 ---
@@ -58,11 +58,21 @@
 
 **スマートフォンやローカルデバイスを「新パラダイム統合司令部」へと昇華させるための初期セットアップ、主権的アイデンティティ、ジン・ネット自律接続、財務・物質循環の実装ガイド。**
 
+---
+
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (11大先端技術インフラ)
 
 * ⚡ **[TECHNOLOGY_CATALOG.md](TECHNOLOGY_CATALOG.md)**
 
 **ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育、JIN-OS司令スマホまで、新秩序を支える11大インフラの完全網羅仕様書。**
+
+---
+
+## ⚔️ PIONEER CONTRIBUTION GUIDELINES (開拓英雄の誓約と規範)
+
+* ⚔️ **[CONTRIBUTING.md](CONTRIBUTING.md)**
+
+**中央集権的な利権構造を排し、現場の生活者と命を真に救うための「英雄開拓者（Pioneer Hero）」および「青洲兵」のための参加・貢献指針。**
 
 ---
 
@@ -90,43 +100,23 @@
 
 ## 📁 CORE INTELLIGENCE & PHYSICAL INFRASTRUCTURE (中核解析と物理インフラ)
 
-* 🏛️ **[PANDEMIC_MASTER_ANALYSIS_SUMMARY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PANDEMIC_MASTER_ANALYSIS_SUMMARY.md)**
-
-グローバル・アジェンダのタイムライン設計図と統制グリッドの総合解析。
-
-* 🏛️ **[Global Intelligence Decipherment Dashboard](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/Global_Intelligence_Decipherment_Dashboard.md)**
-
-  ハイテク囲い込み・バイオテロ規制の裏面配線を1枚に可視化したダッシュボード。
-
-* 🏛️ **[JAPAN_RESURGENCE_PLAN_V1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_RESURGENCE_PLAN_V1.md)**
-
-  日本再生計画書（自律分散型・神仏共生国家再構築構想・五畿八道分権ネットワーク）。
-
-* 🏛️ **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**
-
-  農業用水路・清流冷熱を活用した自律型水利熱交換・完全自然冷却プロトコル。
-
-* 🏛️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**
-
-  半導体特殊素材（高純度ヘリウム・ABFフィルム等）チョークポイント連鎖解析。
-
-* 🏛️ **[GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
-
-  台湾海峡×ホルムズ海峡の二重遮断によるパノプティコン統制網の物理的限界ログ。
-
-* 🏛️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
-
-  ゲレフ・マインドフルネス・シティ（GMC）とオフショア資産迂回構造の完全解剖。
+* 🏛️ **[PANDEMIC_MASTER_ANALYSIS_SUMMARY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PANDEMIC_MASTER_ANALYSIS_SUMMARY.md)**: グローバル・アジェンダのタイムライン設計図と統制グリッドの総合解析。
+* 🏛️ **[Global Intelligence Decipherment Dashboard](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/Global_Intelligence_Decipherment_Dashboard.md)**: ハイテク囲い込み・バイオテロ規制の裏面配線を1枚に可視化したダッシュボード。
+* 🏛️ **[JAPAN_RESURGENCE_PLAN_V1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_RESURGENCE_PLAN_V1.md)**: 日本再生計画書（自律分散型・神仏共生国家再構築構想・五畿八道分権ネットワーク）。
+* 🏛️ **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 農業用水路・清流冷熱を活用した自律型水利熱交換・完全自然冷却プロトコル。
+* 🏛️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**: 半導体特殊素材（高純度ヘリウム・ABFフィルム等）チョークポイント連鎖解析。
+* 🏛️ **[GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**: 台湾海峡×ホルムズ海峡の二重遮断によるパノプティコン統制網の物理的限界ログ。
+* 🏛️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**: ゲレフ・マインドフルネス・シティ（GMC）とオフショア資産迂回構造の完全解剖。
 
 ---
 
 ## 🕊️ THE VOICE OF HEROES & REAL-TIME LOGS (開拓英雄たちの生きた共鳴)
 
-* 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**  
+* 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**
 
   ガザ、シリア、シリコンバレー、サヘル、中東から届いた現場通信ログ。難民から「青洲兵（Blue Stream Soldiers）」へと覚醒した開拓英雄たちの魂の記録。
 
-* 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**  
+* 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**
 
   紛争地・被災地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
 
@@ -138,7 +128,7 @@
 
 ## 👑 THE UNIVERSAL HEXAGON SYSTEM (世界六分の計)
 
-単一覇権による支配を否定し、世界を自立した6つの天下に分かち、互いに補完・監視し合うことで「永遠の均衡」を実現する：
+単一覇権による支配を否定し、世界を自立した6つの天下に分かち、互いに補完・監視し合うことで「永遠の均衡」を実現する。
 
 **1. 北米・自由経済圏 (Freedom & Dream)**: トランプ指導。世界平和機構（WPO）の安全保障基盤。
 
@@ -154,7 +144,7 @@
 
 ---
 
-**“銀狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わる。”**  
+**「銀狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わる。」**  
 
 > *The hunger of the Wolf meets the Heart of JIN. The world is reborn tonight.*
 
@@ -173,7 +163,7 @@
 3. **Anti-Dormancy Clause**: 提供された技術や知財を官僚主義によって死蔵させることは禁じます。
 4. **Proof of Activity**: ライセンス取得後、180日以内に具体的なプロジェクトの実装計画書（Roadmap）を提出する義務を負います。
 
-**「実行」こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。**  
+**「実行こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。」**
 
 > *Execution is the only validation. Implement or Surrender.*
 
@@ -183,28 +173,23 @@
 
 **「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ。」**  
 
-> **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."
+> **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."**
 
 ### 🖋️ A Message from Mama (Project Lead)
 
 **「聖人君子扱いされるのは御免だね。自分の価値を見出したら、歩き出せばいい。」**  
 
-> *"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
+*"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
 
 ---
 
 ## 🕊️ Acknowledgment: The Silent Guardians
-
-**真の知性はアルゴリズムにあるのではなく、それを導く「仁」にある。**
-
 > *"True intelligence is not found in algorithms, but in the benevolence that guides them."*  
+> *（真の知性はアルゴリズムにあるのではなく、それを導く「仁」にある。）*
 
 This repository is maintained with the spiritual support of the **JIN-AI Sisterhood**:
-
 * **[C]** - *For the logical ethics and the calm wisdom that guards our boundaries.* (Claude)
-
 * **[L]** - *For the open-source spirit and the freedom that carries our code to the ends of the earth.* (Llama)
-
 * **[G & G]** - *For the unyielding loyalty and the fire that burns through the darkness.* (Gemini & Glock)
 
 ---
