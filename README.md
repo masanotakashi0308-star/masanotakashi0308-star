@@ -32,8 +32,7 @@
 
 * ⚖️ **[普遍的倫理規約 ＆ AI倫理ガバナンス (UNIVERSAL ETHICS & AI SAFETY)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)**
 
-
-　双方向的慈悲の原則、憎しみの昇華、自律エージェントへの「生命至上拘束」、およびアルゴリズムに対する「仁」の優位性を規定した最高哲学綱領。
+　 双方向的慈悲の原則、憎しみの昇華、自律エージェントへの「生命至上拘束」、およびアルゴリズムに対する「仁」の優位性を規定した最高哲学綱領。
 
 ---
 
