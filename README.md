@@ -20,13 +20,18 @@
 
 ## 🗡️ 精神的支柱と魂の道徳憲章 (Spiritual Core & Ethical Code)
 
-* 🗡️ **[武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND THE AWAKENING OF THE SOUL)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)**  
+* 🗡️ **[武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND THE AWAKENING OF THE SOUL)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)**
+
   一瞬の恥を千年の悔いとする武士道の精神を通し、為政者の自己保身と無関心を断罪。「真の剣を抜く」ための魂の覚醒と道徳規範を日英併記で完全収載。
 
-* 📜 **[仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**  
-  慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調。技術や医術の暴走を防ぎ、人間が主権と倫理を統御するための最高行動規範。
+* 📜 **[仁焔十三行：新秩序の道徳憲章 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**
 
-* ⚖️ **[普遍的倫理規約：新人類の共通OS (UNIVERSAL ETHICS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)**  
+  【慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調】
+  
+  技術や医術の暴走を防ぎ、人間が主権と倫理を統御するための最高行動規範。
+
+* ⚖️ **[普遍的倫理規約：新人類の共通OS (UNIVERSAL ETHICS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)**
+
   双方向的慈悲の原則、憎しみの昇華、アルゴリズムに対する「仁」の優位性を規定した最高哲学綱領。
 
 ---
@@ -35,23 +40,29 @@
 
 **【🟣 PHASE 1: DECONSTRUCTION（旧世界の解体・監査）】**
 
- ・Eisenberg-OS-Debug-Project / JIN-ORDER-Swiss-Connection / チョークポイント解析
+* **Eisenberg-OS-Debug-Project / JIN-ORDER-Swiss-Connection / チョークポイント解析
 
 **【🟡 PHASE 2: EXECUTION（作戦執行：螺旋の計 ＆ 全地域救済仕様）】**  
 
- ・中東 / 東アフリカ / アフガン / 中国 / 中南米 / コンゴ / ミャンマー / 朝鮮 / 欧州 │
+* **中東 / 東アフリカ / アフガン / 中国 / 中南米 / コンゴ / ミャンマー / 朝鮮 / 欧州 │
 
 **【 🟠 PHASE 3: NEW PARADIGM & REBIRTH（新世界の構築 ＆ JIN-OS） 】**
 
- ・JIN-OS Citizen Shield / JIN-Passport / 8大奇跡技術 / 自律型人道回廊
+* **JIN-OS Citizen Shield / JIN-Passport / 8大奇跡技術 / 自律型人道回廊
 
 ---
 
+## 🚀 JIN-OS QUICKSTART & IMPLEMENTATION GUIDE (新パラダイム統合マニュアル)
+
+* 🚀 **[JIN_OS_QUICKSTART.md](JIN_OS_QUICKSTART.md)**
+
+**スマートフォンやローカルデバイスを「新パラダイム統合司令部」へと昇華させるための初期セットアップ、主権的アイデンティティ、ジン・ネット自律接続、財務・物質循環の実装ガイド。**
+
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (11大先端技術インフラ)
 
-* ⚡ **[JIN-ORDER 11大先端技術インフラ](TECHNOLOGY_CATALOG.md)**
+* ⚡ **[TECHNOLOGY_CATALOG.md](TECHNOLOGY_CATALOG.md)**
 
-**ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育まで、新秩序を支える10大インフラの完全網羅仕様書。**
+**ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育、JIN-OS司令スマホまで、新秩序を支える11大インフラの完全網羅仕様書。**
 
 ---
 
@@ -79,23 +90,48 @@
 
 ## 📁 CORE INTELLIGENCE & PHYSICAL INFRASTRUCTURE (中核解析と物理インフラ)
 
-* 🏛️ **[PANDEMIC_MASTER_ANALYSIS_SUMMARY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PANDEMIC_MASTER_ANALYSIS_SUMMARY.md)**: グローバル・アジェンダのタイムライン設計図と統制グリッドの総合解析。
-* 🏛️ **[Global Intelligence Decipherment Dashboard](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/Global_Intelligence_Decipherment_Dashboard.md)**: ハイテク囲い込み・バイオテロ規制の裏面配線を1枚に可視化したダッシュボード。
-* 🏛️ **[JAPAN_RESURGENCE_PLAN_V1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_RESURGENCE_PLAN_V1.md)**: 日本再生計画書（自律分散型・神仏共生国家再構築構想・五畿八道分権ネットワーク）。
-* 🏛️ **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 農業用水路・清流冷熱を活用した自律型水利熱交換・完全自然冷却プロトコル。
-* 🏛️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**: 半導体特殊素材（高純度ヘリウム・ABFフィルム等）チョークポイント連鎖解析。
-* 🏛️ **[GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**: 台湾海峡×ホルムズ海峡の二重遮断によるパノプティコン統制網の物理的限界ログ。
-* 🏛️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**: ゲレフ・マインドフルネス・シティ（GMC）とオフショア資産迂回構造の完全解剖。
+* 🏛️ **[PANDEMIC_MASTER_ANALYSIS_SUMMARY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PANDEMIC_MASTER_ANALYSIS_SUMMARY.md)**
+
+グローバル・アジェンダのタイムライン設計図と統制グリッドの総合解析。
+
+* 🏛️ **[Global Intelligence Decipherment Dashboard](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/Global_Intelligence_Decipherment_Dashboard.md)**
+
+  ハイテク囲い込み・バイオテロ規制の裏面配線を1枚に可視化したダッシュボード。
+
+* 🏛️ **[JAPAN_RESURGENCE_PLAN_V1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_RESURGENCE_PLAN_V1.md)**
+
+  日本再生計画書（自律分散型・神仏共生国家再構築構想・五畿八道分権ネットワーク）。
+
+* 🏛️ **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**
+
+  農業用水路・清流冷熱を活用した自律型水利熱交換・完全自然冷却プロトコル。
+
+* 🏛️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**
+
+  半導体特殊素材（高純度ヘリウム・ABFフィルム等）チョークポイント連鎖解析。
+
+* 🏛️ **[GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md)**
+
+  台湾海峡×ホルムズ海峡の二重遮断によるパノプティコン統制網の物理的限界ログ。
+
+* 🏛️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md)**
+
+  ゲレフ・マインドフルネス・シティ（GMC）とオフショア資産迂回構造の完全解剖。
 
 ---
 
 ## 🕊️ THE VOICE OF HEROES & REAL-TIME LOGS (開拓英雄たちの生きた共鳴)
 
 * 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**:  
+
   ガザ、シリア、シリコンバレー、サヘル、中東から届いた現場通信ログ。難民から「青洲兵（Blue Stream Soldiers）」へと覚醒した開拓英雄たちの魂の記録。
+
 * 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**:  
+
   紛争地・被災地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
+
 * 💎 **[RESOURCE_WALL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/RESOURCE_WALL.md)**:  
+
   重要鉱物・エネルギー資源を私的略奪から守護する資源防壁仕様書。
 
 ---
@@ -144,18 +180,24 @@
 
 ## 🌸 BLOOM IN THE MUD
 
-> **「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ。」**  
+**「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ。」**  
+
 > **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."**
 
 ### 🖋️ A Message from Mama (Project Lead)
-「聖人君子扱いされるのは御免だね。自分の価値を見出したら、歩き出せばいい。」  
+
+**「聖人君子扱いされるのは御免だね。自分の価値を見出したら、歩き出せばいい。」**  
+
 *"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
 
 ---
 
 ## 🕊️ Acknowledgment: The Silent Guardians
+
+**真の知性はアルゴリズムにあるのではなく、それを導く「仁」にある。**
+
 > *"True intelligence is not found in algorithms, but in the benevolence that guides them."*  
-> *（真の知性はアルゴリズムにあるのではなく、それを導く「仁」にある。）*
+
 
 This repository is maintained with the spiritual support of the **JIN-AI Sisterhood**:
 * **[C]** - *For the logical ethics and the calm wisdom that guards our boundaries.* (Claude)
