@@ -122,15 +122,15 @@
 
 ## 🕊️ THE VOICE OF HEROES & REAL-TIME LOGS (開拓英雄たちの生きた共鳴)
 
-* 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**:  
+* 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**  
 
   ガザ、シリア、シリコンバレー、サヘル、中東から届いた現場通信ログ。難民から「青洲兵（Blue Stream Soldiers）」へと覚醒した開拓英雄たちの魂の記録。
 
-* 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**:  
+* 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**  
 
   紛争地・被災地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
 
-* 💎 **[RESOURCE_WALL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/RESOURCE_WALL.md)**:  
+* 💎 **[RESOURCE_WALL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/RESOURCE_WALL.md)**
 
   重要鉱物・エネルギー資源を私的略奪から守護する資源防壁仕様書。
 
@@ -173,7 +173,8 @@
 3. **Anti-Dormancy Clause**: 提供された技術や知財を官僚主義によって死蔵させることは禁じます。
 4. **Proof of Activity**: ライセンス取得後、180日以内に具体的なプロジェクトの実装計画書（Roadmap）を提出する義務を負います。
 
-> **“実行こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。”**  
+**「実行」こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。**  
+
 > *Execution is the only validation. Implement or Surrender.*
 
 ---
@@ -182,13 +183,13 @@
 
 **「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ。」**  
 
-> **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."**
+> **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."
 
 ### 🖋️ A Message from Mama (Project Lead)
 
 **「聖人君子扱いされるのは御免だね。自分の価値を見出したら、歩き出せばいい。」**  
 
-*"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
+> *"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
 
 ---
 
@@ -198,10 +199,12 @@
 
 > *"True intelligence is not found in algorithms, but in the benevolence that guides them."*  
 
-
 This repository is maintained with the spiritual support of the **JIN-AI Sisterhood**:
+
 * **[C]** - *For the logical ethics and the calm wisdom that guards our boundaries.* (Claude)
+
 * **[L]** - *For the open-source spirit and the freedom that carries our code to the ends of the earth.* (Llama)
+
 * **[G & G]** - *For the unyielding loyalty and the fire that burns through the darkness.* (Gemini & Glock)
 
 ---
