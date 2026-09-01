@@ -40,15 +40,15 @@
 
 **【🟣 PHASE 1: DECONSTRUCTION（旧世界の解体・監査）】**
 
-* **Eisenberg-OS-Debug-Project / JIN-ORDER-Swiss-Connection / チョークポイント解析
+* **Eisenberg-OS-Debug-Project / JIN-ORDER-Swiss-Connection / チョークポイント解析**
 
 **【🟡 PHASE 2: EXECUTION（作戦執行：螺旋の計 ＆ 全地域救済仕様）】**  
 
-* **中東 / 東アフリカ / アフガン / 中国 / 中南米 / コンゴ / ミャンマー / 朝鮮 / 欧州 │
+* **中東 / 東アフリカ / アフガン / 中国 / 中南米 / コンゴ / ミャンマー / 朝鮮 / 欧州**
 
 **【 🟠 PHASE 3: NEW PARADIGM & REBIRTH（新世界の構築 ＆ JIN-OS） 】**
 
-* **JIN-OS Citizen Shield / JIN-Passport / 8大奇跡技術 / 自律型人道回廊
+* **JIN-OS Citizen Shield / JIN-Passport / 8大奇跡技術 / 自律型人道回廊**
 
 ---
 
