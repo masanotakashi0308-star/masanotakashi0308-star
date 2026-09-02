@@ -82,6 +82,7 @@
 
 | 方面 / 国家 (Region) | 仕様書 (Specification File) | 中核作戦目標 (Core Strategic Objective) |
 | :--- | :--- | :--- |
+| **太平洋諸島（大洋州）** | [STRATEGY_PACIFIC_ISLANDS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_PACIFIC_ISLANDS.md) | **蒼海の聖域作戦 ＆ 気候・海洋主権協定**<br>浮体式オアシス都市、深海鉱物コモンズ信託、ラロトンガ非同盟聖域化。 |
 | **中東全域** | [STRATEGY_MIDDLE_EAST.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_MIDDLE_EAST.md) | **ザカート螺旋計画 ＆ WPOルネサンス**<br>米露共同保証、万民ザカート直接配当、エルサレム中立特区。 |
 | **東アフリカ** | [STRATEGY_EAST_AFRICA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_EAST_AFRICA.md) | **ナイル・ルネサンス・プロトコル**<br>GERD中立調停放流、対中債務相殺、エチオピア・ソマリア海洋アクセス。 |
 | **アフガニスタン** | [STRATEGY_AFGHANISTAN_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_AFGHANISTAN_GS.md) | **中村哲医師の遺志 ＆ 砂漠緑化水利連合**<br>クナール川水利緑化、農業OSへの平和転換、リチウム資源トラスト防護。 |
