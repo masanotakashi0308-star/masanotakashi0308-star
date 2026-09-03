@@ -52,7 +52,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 極東（ウラジオストク等）を起点とし、北極海航路（NSR）および南シナ海東側を抜けてASEAN・インド洋へと直結する、拿捕・制裁不能な三層自律物流グリッド。
 
-* 📄 **[仕様書を読む（18_FAR_EAST_ASEAN_ICE_CORRIDOR.md）](./https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**
+* 📄 **[仕様書を読む（18_FAR_EAST_ASEAN_ICE_CORRIDOR.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**
 
 ### 2. 🌾 肥料・食糧・鉱物の現物担保プロトコル（FERTILIZER & GRAIN SHIELD）
 
@@ -60,7 +60,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 架空の金融商品や空売りを論理的に遮断（Rejected by Logic）し、土壌三大要素（窒素・リン・カリウム）と主食穀物の備蓄現物を1:1でペッグする実物生命資産台帳。
 
-* 📄 **[仕様書を読む（65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md）](./https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**
+* 📄 **[仕様書を読む（65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**
 
 ### 3. 🌐 極東ユーラシアの二重構造解体（中国依存と中立分散の狭間）
 
@@ -68,7 +68,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 二大覇権の巨大な影（鷲と龍）に対し、群島型自律バッファとマルチ通貨バスケット台帳を展開。特定国家の単一サーバー依存を排除し、幾千の島々が自律連携する中立調停メッシュ。
 
-* 📄 **[仕様書を読む（19_EURASIA_DUAL_AXIS_DECOUPLING.md）](./https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/19_EURASIA_DUAL_AXIS_DECOUPLING.md)**
+* 📄 **[仕様書を読む（19_EURASIA_DUAL_AXIS_DECOUPLING.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/19_EURASIA_DUAL_AXIS_DECOUPLING.md)**
 
 ---
 
