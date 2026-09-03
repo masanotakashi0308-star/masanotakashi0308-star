@@ -18,11 +18,26 @@
 
 ---
 
+## 🌸 JIN-ORDER 根源思想：尊厳と空（Dignity & Sunyata）
+
+> **「命は役に立つから尊いのではない。ただ息をし、存在することそのものが絶対の尊厳である。」**
+
+JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】が息づいています。
+
+数値を至上命題とする傲慢な管理システムを無力化し、名もなき命と温かい食卓を防護するための不滅の倫理規範です。
+
+![根源思想](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.jpg)
+
+👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**
+
+---
+
 ## 🏛️ JIN-ORDER GLOBAL WHITE PAPER (総合白書)
 
 全17地域戦略仕様書、6大基幹プロトコル、15大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
 
-* 📜 **[WHITE_PAPER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**  
+* 📜 **[WHITE_PAPER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**
+
   二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
 
 ---
