@@ -56,7 +56,7 @@
 
 ## 🚀 JIN-OS QUICKSTART & IMPLEMENTATION GUIDE (新パラダイム統合マニュアル)
 
-* 🚀 **[JIN_OS_QUICKSTART.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_QUICKSTART.md)**  
+* 🚀 **[JIN_OS_QUICKSTART.md](.//JIN_OS_QUICKSTART.md)**  
   スマートフォンやローカルデバイスを「新パラダイム統合司令部」へと昇華させるための初期セットアップ、主権的アイデンティティ、ジン・ネット自律接続、財務・物質循環の実装ガイド。
 
 ---
