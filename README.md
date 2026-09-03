@@ -20,7 +20,7 @@
 
 ## 🏛️ JIN-ORDER GLOBAL WHITE PAPER (総合白書)
 
-全17地域戦略仕様書、6大基幹プロトコル、11大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
+全17地域戦略仕様書、6大基幹プロトコル、15大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
 
 * 📜 **[WHITE_PAPER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**  
   二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
@@ -50,21 +50,21 @@
 * **中東 / 東アフリカ / アフガン / 中国 / 中南米 / コンゴ / ミャンマー / 朝鮮 / 欧州 / サヘル / 台湾海峡**
 
 **【 🟠 PHASE 3: NEW PARADIGM & REBIRTH（新世界の構築 ＆ JIN-OS） 】**
-* **JIN-OS Citizen Shield / JIN-Passport / 8大奇跡技術 / 自律型人道回廊**
+* **JIN-OS Citizen Shield / JIN-Passport / 15大先端技術体系 / 自律型人道回廊**
 
 ---
 
 ## 🚀 JIN-OS QUICKSTART & IMPLEMENTATION GUIDE (新パラダイム統合マニュアル)
 
-* 🚀 **[JIN_OS_QUICKSTART.md](https://github.com/masanotakashi0308-star/masanotakashi0308-star/blob/main/JIN_OS_QUICKSTART.md)**  
+* 🚀 **[JIN_OS_QUICKSTART.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_QUICKSTART.md)**  
   スマートフォンやローカルデバイスを「新パラダイム統合司令部」へと昇華させるための初期セットアップ、主権的アイデンティティ、ジン・ネット自律接続、財務・物質循環の実装ガイド。
 
 ---
 
-## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (11大先端技術インフラ)
+## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (15大先端技術体系)
 
 * ⚡ **[TECHNOLOGY_CATALOG.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)**  
-  ジン・ドラゴン鉱石、量子浄化フィルター、反重力ドローン、分子アセンブラ、自律型熱交換グリッド、次世代半導体、医療ロボット、量子暗号ネット、軌道エレベーター、ノウアスフィア教育、JIN-OS司令スマホまで、新秩序を支える11大インフラの**詳細エンジニアリング仕様書（動作周波数・素材構成・入出力プロトコル）**。
+  全固体電池、反重力ドローン、量子浄化、半導体、医療ロボット、自律熱電、量子暗号、軌道エレベーター、分子アセンブラ、ノウアスフィア、JIN-OSに加え、電離層減災共鳴機（HAARP反転）、光合成エアロゾル（ケムトレイル反転）、地殻鍼灸ノード（地震制御）、土壌・腸内共生バイオファーミングまで、全生命の生存基盤を守り抜く15大インフラの詳細エンジニアリング仕様書。
 
 ---
 
