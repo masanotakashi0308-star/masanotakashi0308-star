@@ -154,7 +154,9 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 * 🏛️ **[Global Intelligence Decipherment Dashboard](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/Global_Intelligence_Decipherment_Dashboard.md)**: ハイテク囲い込み・バイオテロ規制の裏面配線を1枚に可視化したダッシュボード。
 
-* 🏛️ **[JAPAN_RESURGENCE_PLAN_V1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_RESURGENCE_PLAN_V1.md)**: 日本再生計画書（自律分散型・神仏共生国家再構築構想・五畿八道分権ネットワーク）。
+* 🏛️ **[JAPAN_RESURGENCE_PLAN_V1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_RESURGENCE_PLAN_V1.md)**: 日本再生計画書：自律分散型・神仏共生国家再構築構想
+
+* 🏛️ **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md   )**: 日本列島・地域別主権再生計画 『生命の根源防壁』種子法・種苗法・検疫水際防衛
 
 * 🏛️ **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 農業用水路・清流冷熱を活用した自律型水利熱交換・完全自然冷却プロトコル。
 
