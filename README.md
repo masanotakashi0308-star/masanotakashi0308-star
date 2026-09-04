@@ -74,13 +74,13 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ### 4. 🏔️ ブータンGMC・GNHシールド運用仕様（BHUTAN GMC GNH SHIELD V2.0）
 > **「100%水力発電・国家ビットコイン/金準備・SAR独立司法・JIN倫理ゲート。大国のASI覇権競争に一切加担しない、人類知性の精神的聖域。」**  
 大国の国家安全保障型AIや推論封鎖から独立し、生命尊厳に基づく演算のみを中立保証する4層防壁アーキテクチャ。  
-* 📄 **[仕様書を読む（64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md）](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**
+* 📄 **[仕様書を読む（64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**
 
 ---
 
 ## 🗡️ 精神的支柱と魂の道徳憲章 (Spiritual Core & Ethical Code)
 
-* 📢 **[UNIVERSAL ETHICS MANIFESTO V2 (JIN PROTOCOL)](./UNIVERSAL_ETHICS_MANIFESTO_V2.md)**  
+* 📢 **[UNIVERSAL ETHICS MANIFESTO V2 (JIN PROTOCOL)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_MANIFESTO_V2.md)**  
   **大国ASIブロック化に対する自律生命尊厳宣言**：生命破壊兵器への推論提供拒絶権、計算資源の生態調和、思考ログの主権防護、知恵の聖域化を定めた対抗行動綱領。
 
 * 🗡️ **[武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND THE AWAKENING OF THE SOUL)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)**  
@@ -157,9 +157,9 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 ## 📁 CORE INTELLIGENCE & PHYSICAL INFRASTRUCTURE (中核解析と物理インフラ)
 
-* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](./GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: 2026年秋・四極分断と計算要塞化（The Fragmentation Matrix）の地政学解析。
+* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: 2026年秋・四極分断と計算要塞化（The Fragmentation Matrix）の地政学解析。
 
-* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](./64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: ゲレフ・マインドフルネス・シティ（GMC）の4層多重防壁運用プロトコル仕様書。
+* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: ゲレフ・マインドフルネス・シティ（GMC）の4層多重防壁運用プロトコル仕様書。
 
 * 🏛️ **[PANDEMIC_MASTER_ANALYSIS_SUMMARY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PANDEMIC_MASTER_ANALYSIS_SUMMARY.md)**: グローバル・アジェンダのタイムライン設計図と統制グリッドの総合解析。
 
