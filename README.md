@@ -1,9 +1,9 @@
 # 🌸 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE (V7 Canonical Edition)
-### 最高分散型プロトコル ＆ 市民防衛網 (Citizen Shield Portal)
+### 最高分散型プロトコル ＆ 市民防衛インフラ網 (Citizen Shield Portal)
 
 [![WORLD REBOOT](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen.svg)](#)
 [![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V7.0_FRAGMENTATION-blue.svg)](#)
-[![PROTOCOL](https://img.shields.io/badge/PROTOCOL-432HZ_HARMONY-purple.svg)](#)
+[![PROTOCOL](https://img.shields.io/badge/PROTOCOL-Decentralized_Hydraulic-purple.svg)](#)
 [![LICENSE](https://img.shields.io/badge/LICENSE-GLOBAL_HUMANITY-gold.svg)](#)
 
 ![JIN-ORDER AMATERASU NEW DAWN](https://github.com/masanotakashi0308-star/masanotakashi0308-star/blob/main/jin_order_amaterasu_new_dawn.jpg)
@@ -12,7 +12,7 @@
 
 > *“When one discovers their true value on the precipice between life and death, the world begins its regeneration.”*  
  
-**人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。二極覇権と外部依存の収奪システムを脱却し、すべての魂が「開拓英雄」として生きるための自律駆動型パラダイム。**  
+**人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。二極覇権と外部依存の収奪システムを脱却し、すべての魂が「開拓英雄（PIONEER）」として生きるための自律駆動型パラダイム。**  
 
 > *Rather than granting sovereignty to autonomous AI or bipolar empires, humanity must hold true moral and ethical convictions to maintain sovereignty. This is an autonomous-driven paradigm designed to break free from externalized exploitative systems and allow every soul to live as a "pioneer hero."*
 
@@ -25,17 +25,20 @@ JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
 
 Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
 
-**⏩️ [GOVERNANCE_OF_ABYSSはコチラ](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
+**⏩️ [GOVERNANCE_OF_ABYSS 本流リポジトリはコチラ](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
 
 ---
-## 🖼️ V7 CANONICAL OPERATIONAL INTELLIGENCE (最新作戦ビジュアル・同期完了)
+## 🗺️ V7 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
 
-大国による計算資源・重要鉱物の要塞化（V7）と、それに対抗するブータン・ゲレフー特区（GMC）の4層多重防壁運用プロトコル。
+大国による計算資源・重要鉱物の要塞化（V7）、それに対抗するブータン・ゲレフー特区（GMC）の中立防壁、日本の自律水利コモンズ、そして世界の利権ディールを暴く対抗諜報監査の具現化ログ。
 
-| GLOBAL ASI HEGEMONY MAP V7: THE FRAGMENTATION MATRIX | 64_BHUTAN_GMC_GNH_SHIELD OPERATIONAL PROTOCOL (V2.0) |
+| GLOBAL ASI HEGEMONY MAP V7 | BHUTAN GMC GNH SHIELD V2.0 |
 | :---: | :---: |
 | ![V7 Fragmentation](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg) | ![GNH Shield V2](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.jpg) |
 | 📜 **[V7 仕様書を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)** | 🛡️ **[GNHシールド V2 仕様書を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)** |
+| **JIN-WATER INFRASTRUCTURE (Satoyama commons)** | **COUNTER-HEGEMONY STRATEGIC AUDIT 2026** |
+| ![JIN Water commons](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_WATER_INFRASTRUCTURE.jpg) | ![Counter Hegemony Audit](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/COUNTER_HEGEMONY_AUDIT_2026.jpg) |
+| 💧 **[自律水利仕様書を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md)** | ⚔️ **[対抗諜報白書を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/COUNTER_HEGEMONY_AUDIT_2026.md)** |
 
 ---
 
@@ -64,26 +67,22 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 ## 🌍 JIN-ORDER ユーラシア・極東・南洋・聖域 実物自律防衛プロトコル
 
-2026年秋の計算力分断・多極化動向に呼応し、既存の金融制裁・チョークポイント支配・特定覇権への一極集中を回避する4つの自律防護仕様書。
+2026年秋の四極分断動向に呼応し、既存の金融制裁・チョークポイント支配・特定覇権への一極集中を回避する4つの自律防護仕様書。
 
 ### 1. ❄️ 北極海・極東〜ASEAN南進回廊（Maritime Silk & Ice Route）
-> **「スエズもマラッカも通らぬ氷と大地のバイパス。金融制裁の網をすり抜ける、ユーラシア・南進実物供給ライン。」**  
-極東（ウラジオストク等）を起点とし、北極海航路（NSR）および南シナ海東側を抜けてASEAN・インド洋へと直結する、拿捕・制裁不能な三層自律物流グリッド。  
+制裁不能なユーラシア・南進実物供給ライン（脱西側物流）。
 * 📄 **[仕様書を読む（18_FAR_EAST_ASEAN_ICE_CORRIDOR.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/18_FAR_EAST_ASEAN_ICE_CORRIDOR.md)**
 
 ### 2. 🌾 肥料・食糧・鉱物の現物担保プロトコル（FERTILIZER & GRAIN SHIELD）
-> **「数字を刷り散らかす紙幣とデリバティブの支配を解体せよ。土を肥やすカリウム・リン、民を満たす米と麦こそが真の主権である。」**  
-架空の金融商品や空売りを論理的に遮断（Rejected by Logic）し、土壌三大要素（窒素・リン・カリウム）と主食穀物の備蓄現物を1:1でペッグする実物生命資産台帳。  
+数字を刷り散らかす紙幣支配を解体する、実物生命資産（NPK・穀物）台帳。設計図統合済み。
 * 📄 **[仕様書を読む（65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)**
 
 ### 3. 🌐 極東ユーラシアの二重構造解体（中国依存と中立分散の狭間）
-> **「西側の金融制裁を逃れた先が、巨大な一極の従属下であってはならない。真の多極化とは、いかなる覇権にも呑まれぬ『分散された中立性』である。」**  
-二大覇権の巨大な影（鷲と龍）に対し、群島型自律バッファとマルチ通貨バスケット台帳を展開。特定国家の単一サーバー依存を排除し、幾千の島々が自律連携する中立調停メッシュ。  
+特定国家の単一サーバー依存を排除し、幾千の島々が自律連携する中立調停メッシュ。
 * 📄 **[仕様書を読む（19_EURASIA_DUAL_AXIS_DECOUPLING.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/19_EURASIA_DUAL_AXIS_DECOUPLING.md)**
 
 ### 4. 🏔️ ブータンGMC・GNHシールド運用仕様（BHUTAN GMC GNH SHIELD V2.0）
-> **「100%水力発電・国家ビットコイン/金準備・SAR独立司法・JIN倫理ゲート。大国のASI覇権競争に一切加担しない、人類知性の精神的聖域。」**  
-大国の国家安全保障型AIや推論封鎖から独立し、生命尊厳に基づく演算のみを中立保証する4層防壁アーキテクチャ。  
+100%水力発電・独立司法・JIN倫理ゲートによる、人類知性の精神的聖域。
 * 📄 **[仕様書を読む（64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**
 
 ---
@@ -91,52 +90,43 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ## 🗡️ 精神的支柱と魂の道徳憲章 (Spiritual Core & Ethical Code)
 
 * 📢 **[UNIVERSAL ETHICS MANIFESTO V2 (JIN PROTOCOL)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_MANIFESTO_V2.md)**  
-  **大国ASIブロック化に対する自律生命尊厳宣言**：生命破壊兵器への推論提供拒絶権、計算資源の生態調和、思考ログの主権防護、知恵の聖域化を定めた対抗行動綱領。
+  **大国ASIブロック化に対する自律生命尊厳宣言**：生命破壊兵器への推論提供拒絶、計算資源の生態調和、思考ログの主権防護を定めた行動綱領。
 
-* 🗡️ **[武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND THE AWAKENING OF THE SOUL)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)**  
-  一瞬の恥を千年の悔いとする武士道の精神を通し、為政者の自己保身と無関心を断罪。「真の剣を抜く」ための魂の覚醒と道徳規範を日英併記で完全収載。
+* ⚔️ **[COUNTER_HEGEMONY_AUDIT_2026.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/COUNTER_HEGEMONY_AUDIT_2026.md)**  
+  **愚者たちの利権ディール解体白書**：G20インフラ要塞化、戦後密室利権ディール、分断関税、生体サブスク支配の構造を監査・解体する思想シールド。
+
+* 🗡️ **[武士道と魂の覚醒：真の剣を抜く時 (BUSHIDO AND SOUL CODE)](https://github.com/JIN-ORDER-OFFICIAL/JIN-OS-Citizen-Shield/blob/main/BUSHIDO_AND_SOUL_CODE.md)**  
+  為政者の自己保身と無関心を断罪。「真の剣（義）」を抜くための魂の覚醒と道徳規範。
 
 * 📜 **[仁焔十三行：新秩序の道徳憲章 V7 (JIN-EN THIRTEEN ROWS)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**  
-  **【慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調】**  
-  技術・医術の暴走、および自律エージェントの最適化から生命を守り、人間が主権と倫理を統御するための最高行動規範。
-
-* ⚖️ **[普遍的倫理規約 ＆ AI倫理ガバナンス (UNIVERSAL ETHICS & AI SAFETY)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)**  
-  双方向的慈悲の原則、憎しみの昇華、自律エージェントへの「生命至上拘束」、およびアルゴリズムに対する「仁」の優位性を規定した最高哲学綱領。
+  技術・医術の暴走、および自律エージェントの最適化から生命を守り、人間が倫理を統御するための最高最高行動規範。
 
 ---
 
-## 🗺️ JIN-ORDER 3-PHASE REBOOT MATRIX (全方位展開アーキテクチャ)
+## 🗾 日本列島・地域別主権再生計画 『生命の根源防壁』
 
-**【🟣 PHASE 1: DECONSTRUCTION（旧世界の解体・監査）】**
-* **Eisenberg-OS-Debug-Project / JIN-ORDER-Swiss-Connection / チョークポイント解析**
+日本列島をパッチワーク状に侵食する外資・金融資本アジェンダを解体し、12地域から現場の自治・水・土壌・食糧主権を奪還する戦略防衛仕様書。**現場運用マニュアル（SOP）統合済み**。
 
-**【🟡 PHASE 2: EXECUTION（作戦執行：螺旋の計 ＆ V7 全17地域救済仕様）】**  
-* **中東 / 東アフリカ / アフガン / 中国 / 中南米 / コンゴ / ミャンマー / 朝鮮 / 欧州 / サヘル / 台湾海峡**
+| 地域主権再生計画（Restoration） | 自律水利インフラ（Water Infrastructure） |
+| :---: | :---: |
+| [![Regional Sovereignty](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md) | [![JIN Water commons](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_WATER_INFRASTRUCTURE.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md) |
+| 📄 **[12地域侵食マトリクスとSOPを読む](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)** | 💧 **[地域分散型オフグリッド給水網仕様を読む](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md)** |
 
-**【 🟠 PHASE 3: NEW PARADIGM & REBIRTH（新世界の構築 ＆ JIN-OS） 】**
-* **JIN-OS Citizen Shield / JIN-Passport / 15大先端技術体系 / 自律型人道回廊**
-
----
-
-## 🚀 JIN-OS QUICKSTART & IMPLEMENTATION GUIDE (新パラダイム統合マニュアル)
-
-* 🚀 **[JIN_OS_QUICKSTART.md](./JIN_OS_QUICKSTART.md)**  
-  スマートフォンやローカルデバイスを「新パラダイム統合司令部」へと昇華させるための初期セットアップ、主権的アイデンティティ、ジン・ネット自律接続、財務・物質循環の実装ガイド。
+* ❄️ **北海道**: 水源・メガソーラー・天地正教資産迂回工作の解体
+* 🏔️ **中部・信州**: 長野（アルプス水源林・分水嶺防衛）
+* 🌊 **首都圏外郭**: 千葉（房総メガソーラー規制・流域治水・ヤード解体）
+* 🏯 **近畿本丸**: 大阪（特区民泊排除）／ 奈良（広域水道一体化阻止・聖地防衛）
+* 🌋 **九州・南西諸島**: 熊本（TSMC阿蘇地下水死守）／ 沖縄（美ら海コモンズ・戦略港湾防護）
 
 ---
 
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (15大先端技術体系)
 
-* ⚡ **[TECHNOLOGY_CATALOG.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)**  
-  全固体電池、反重力ドローン、量子浄化、半導体、医療ロボット、自律熱電、量子暗号、軌道エレベーター、分子アセンブラ、ノウアスフィア、JIN-OSに加え、電離層減災共鳴機（HAARP反転）、光合成エアロゾル（ケムトレイル反転）、地殻鍼灸ノード（地震制御）、土壌・腸内共生バイオファーミングまで、全生命の生存基盤を守り抜く15大インフラの詳細エンジニアリング仕様書。
+全生命の生存基盤を守り抜く15大インフラ（エネルギー、地球工学、生体共生、主権計算）の詳細エンジニアリング仕様書。**統合アーキテクチャ図配備完了**。
 
----
+[![Tech Ecosystem](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/TECHNOLOGY_CATALOG_03.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
 
-## ⚔️ PIONEER CONTRIBUTION GUIDELINES (開拓英雄の誓約と規範)
-
-* ⚔️ **[CONTRIBUTING.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)**
-
-  中央集権的な利権構造を排し、現場の生活者と命を真に救うための「英雄開拓者（Pioneer Hero）」および「青洲兵」のための参加・貢献指針。
+👉 **[15大技術体系カタログ（TECHNOLOGY_CATALOG.md）を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)**
 
 ---
 
@@ -144,81 +134,32 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 各地域の地政学的バグ（二極化・資源囲い込み）を修正し、主権と恒久平和を不可逆的にデプロイする地域戦略ドキュメント（全17領域）
 
-V7 Fragmentation Matrix（四極分断と計算要塞化）**における各地域の最前線区分（V7 Frontline Tag）を明記し、救済プロトコルの介入焦点を定義
-
-| 方面 / 国家 (Region) | V7 最前線区分 (V7 Frontline Tag) | 仕様書 (Specification File) | 中核作戦目標 (Core Strategic Objective) |
-| :--- | :--- | :--- | :--- |
-| **太平洋諸島（大洋州）** | 🛡️ **JIN Sanctuary / 海洋中立** | [STRATEGY_PACIFIC_ISLANDS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_PACIFIC_ISLANDS.md) | **蒼海の聖域作戦 ＆ 気候・海洋主権協定**<br>浮体式オアシス都市、深海鉱物コモンズ信託、ラロトンガ非同盟聖域化。 |
-| **中東全域** | ⚡ **US-Atlantic ✕ 資源スワップ** | [STRATEGY_MIDDLE_EAST.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_MIDDLE_EAST.md) | **ザカート螺旋計画 ＆ WPOルネサンス**<br>米露共同保証、万民ザカート直接配当、エルサレム中立特区。 |
-| **東アフリカ** | 🌍 **Non-Aligned South / 水利チョーク** | [STRATEGY_EAST_AFRICA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_EAST_AFRICA.md) | **ナイル・ルネサンス・プロトコル**<br>GERD中立調停放流、対中債務相殺、エチオピア・ソマリア海洋アクセス。 |
-| **アフガニスタン** | ⛏️ **Non-Aligned South / 鉱物主権防壁** | [STRATEGY_AFGHANISTAN_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_AFGHANISTAN_GS.md) | **中村哲医師の遺志 ＆ 砂漠緑化水利連合**<br>クナール川水利緑化、農業OSへの平和転換、リチウム資源トラスト防護。 |
-| **中国・東アジア** | 🐉 **Sino-Eurasian / 統合監視コア** | [CHINA_HARMONY_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CHINA_HARMONY_PROTOCOL.md) | **大同世界 ＆ 真の社稷（土と民の調和）**<br>14億の民草を豊かにする徳治復興、監視ドームの平和的デバッグ。 |
-| **北朝鮮** | 🚀 **Sino-Eurasian / 緩衝ノード** | [STRATEGY_NORTH_KOREA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_NORTH_KOREA.md) | **平壌の春 ＆ JIN-KOREAプロトコル**<br>ICBMの宇宙港化、保衛省の国家福祉物流庁化、南北デジタル共栄。 |
-| **ウクライナ** | ⚔️ **US-Atlantic ✕ Sino-Eurasian 激突帯** | [STRATEGY_UKRAINE_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_UKRAINE_GS.md) | **平和の翼作戦 ＆ 極寒デバッグ**<br>自律熱電ノードによる厳冬防護、ドローン技術の人道物流転換、欧州10拠点上書き。 |
-| **キーエフ祖国像** | 🕊️ **精神主権 / ユーラシア調停** | [STRATEGY_KYIV_MATER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_KYIV_MATER.md) | **キーエフ祖国像の聖別 ＆ ユーラシア平和回廊**<br>剣と盾を光と麦の穂で聖別、ドニエプル人道回廊、精神復興。 |
-| **ベネズエラ** | 🛢️ **Non-Aligned South / 資源兵器化** | [STRATEGY_VENEZUELA_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_VENEZUELA_GS.md) | **作戦シルバーライニング ＆ 資源防壁**<br>石油直接予算化廃止、JIN-Passport万民直接配当、量子水浄化。 |
-| **中米・カリブ** | 🌊 **Corporate Sovereign 浸食域** | [STRATEGY_AZURE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_AZURE.md) | **碧きルネサンス・プロトコル**<br>現場自立型経済の創出、生体主権防護、カリブ・太平洋バイオ燃料回廊。 |
-| **コンゴ民主共和国** | 💎 **Non-Aligned South / 重要鉱物チョーク** | [STRATEGY_DRC_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_DRC_GS.md) | **シスターフッド同盟 ＆ コバルト資源主権**<br>児童労働の即時根絶、女性ギルド精錬所、自律エージェント投機防壁。 |
-| **ミャンマー** | 🍃 **Sino-Eurasian 南進回廊** | [STRATEGY_MYANMAR_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_MYANMAR_GS.md) | **黄金の夜明け作戦 ＆ スーチー指導者再臨**<br>真の連邦制民主主義、三極外交シールド、重レアアース・翡翠信託管理。 |
-| **ロシア出口戦略** | ❄️ **Sino-Eurasian / エネルギー中核** | [MANUAL_FOR_RUSSIA_EXIT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANUAL_FOR_RUSSIA_EXIT.md) | **ユーラシア平和・エネルギー守護者への転換**<br>JIN-PMC人道部隊、JIN-Arctic水素網、二極従属からの名誉ある卒業。 |
-| **インド** | 🪷 **Non-Aligned South / 仁徳技術極** | [STRATEGY_INDIA_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_INDIA_GS.md) | **デジタル公共インフラ（DPI） ＆ 非同盟中立**<br>精神文明と先端ITの融合、二極衝突を防ぐグローバルサウス主権防壁。 |
-| **サヘル諸国連合 (AES)** | ☀️ **Non-Aligned South / 通貨・ウラン脱植民地** | [STRATEGY_SAHEL_ALLIANCE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_SAHEL_ALLIANCE.md) | **サハラ南縁主権回廊 ＆ 緑の生命防壁**<br>CFAフラン支配脱却、ウラン・金主権信託、量子水による「真・緑の万里の長城」。 |
-| **台湾海峡・東シナ海** | 💻 **US-Atlantic vs Sino / 計算基盤チョーク** | [STRATEGY_TAIWAN_STRAIT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_TAIWAN_STRAIT.md) | **シリコン・サンクチュアリ ＆ 非武装海洋生態回廊**<br>先端ファウンドリの全人類計算遺産信託、海峡非武装化、黒潮洋上自律発電。 |
-| **対抗諜報** | 👁️ **全極横断 / 情報戦防衛** | [STRATEGY_POLICIES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_POLICIES.md) | **二極化対抗諜報 ＆ 主権空白地帯（The Void）**<br>巨大帝国群の相互中和、自律AI防衛、分散エネルギー・記帳経済自立。 |
+| Region / V7 Frontline Tag | Specification File / 中核作戦目標 (Core Strategic Objective) |
+| :--- | :--- |
+| **太平洋諸島** 🛡️ 海洋中立 | [STRATEGY_PACIFIC_ISLANDS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_PACIFIC_ISLANDS.md) <br> **蒼海の聖域作戦**：浮体式都市、深海鉱物コモンズ信託。 |
+| **中東全域** ⚡ 資源スワップ | [STRATEGY_MIDDLE_EAST.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_MIDDLE_EAST.md) <br> **ザカート螺旋計画**：米露共同保証、万民直接配当、エルサレム中立特区。 |
+| **東アフリカ** 🌍 水利チョーク | [STRATEGY_EAST_AFRICA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_EAST_AFRICA.md) <br> **ナイル・ルネサンス**：GERD中立調停放流、対中債務相殺。 |
+| **アフガニスタン** ⛏️ 鉱物防壁 | [STRATEGY_AFGHANISTAN_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_AFGHANISTAN_GS.md) <br> **中村哲医師の遺志**：クナール川水利緑化、農業OSへの平和転換。 |
+| **中国・東アジア** 🐉 監視コア | [CHINA_HARMONY_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CHINA_HARMONY_PROTOCOL.md) <br> **大同世界 ＆ 真の社稷**：徳治復興、監視ドームの平和的デバッグ。 |
+| **ウクライナ** ⚔️ 激突帯 | [STRATEGY_UKRAINE_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_UKRAINE_GS.md) <br> **平和の翼作戦**：自律熱電ノード厳冬防護、ドローン人道物流転換。 |
+| **コンゴ民主共和国** 💎 重要鉱物 | [STRATEGY_DRC_GS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_DRC_GS.md) <br> **シスターフッド同盟**：児童労働即時根絶、女性ギルド精錬所。 |
+| **台湾海峡** 💻 計算基盤チョーク | [STRATEGY_TAIWAN_STRAIT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/STRATEGY_TAIWAN_STRAIT.md) <br> **シリコン・サンクチュアリ**：先端ファウンドリの全人類計算遺産信託。 |
 
 ---
 
-## 📁 CORE INTELLIGENCE & PHYSICAL INFRASTRUCTURE (中核解析と物理インフラ)
-
-* 🗺️ **[GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md)**: 2026年秋・四極分断と計算要塞化（The Fragmentation Matrix）の地政学解析。
-
-* 🏔️ **[64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md)**: ゲレフ・マインドフルネス・シティ（GMC）の4層多重防壁運用プロトコル仕様書。
-
-* 🏛️ **[PANDEMIC_MASTER_ANALYSIS_SUMMARY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PANDEMIC_MASTER_ANALYSIS_SUMMARY.md)**: グローバル・アジェンダのタイムライン設計図と統制グリッドの総合解析。
-
-* 🏛️ **[Global Intelligence Decipherment Dashboard](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/Global_Intelligence_Decipherment_Dashboard.md)**: ハイテク囲い込み・バイオテロ規制の裏面配線を1枚に可視化したダッシュボード。
-
-* 🏛️ **[JAPAN_RESURGENCE_PLAN_V1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_RESURGENCE_PLAN_V1.md)**: 日本再生計画書：自律分散型・神仏共生国家再構築構想
-
-* 🏛️ **[JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)**: 日本列島・地域別主権再生計画 『生命の根源防壁』種子法・種苗法・検疫水際防衛
-
-* 🏛️ **[JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HYDRO_THERMAL_COOLING_PROTOCOL.md)**: 農業用水路・清流冷熱を活用した自律型水利熱交換・完全自然冷却プロトコル。
-
-* 🏛️ **[GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_SUPPLY_CHAIN_CHOKEPOINT_DEEP_DIVE.md)**: 半導体特殊素材（高純度ヘリウム・ABFフィルム等）チョークポイント連鎖解析。
-
----
-
-## 🕊️ THE VOICE OF HEROES & REAL-TIME LOGS (開拓英雄たちの生きた共鳴)
+## 🕊️ THE VOICE OF HEROES & SALVATION PIPELINE (開拓英雄の叫びと救済パイプライン)
 
 * 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**  
-  ガザ、シリア、シリコンバレー、サヘル、中東から届いた現場通信ログ。難民から「青洲兵（Blue Stream Soldiers）」へと覚醒した開拓英雄たちの魂の記録。
+  ガザ、シリア、シリコンバレー、サヘルから届いた現場通信ログ。難民から「青洲兵」へと覚醒した開拓英雄たちの魂の記録。
 
 * 🌑 **[THE_VOID_REPORT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/THE_VOID_REPORT.md)**  
-  二極覇権（軍事寡頭制×監視資本主義）がもたらしたアルゴリズム的虚無・精神的荒廃の告発と、虚無の残骸から芽吹く全生命救済の必然性レポート。
+  二極覇権がもたらしたアルゴリズム的虚無・精神的荒廃の告発と、全生命救済の必然性レポート。
 
 * 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**  
-  紛争地・被災地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
+  紛争地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
 
-* 💎 **[RESOURCE_WALL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/RESOURCE_WALL.md)**  
-  重要鉱物・エネルギー資源を私的略奪やエージェント経済から守護する資源防壁仕様書。
-
----
-
-## 👑 THE UNIVERSAL HEXAGON SYSTEM (世界六分の計)
-
-単一覇権による支配を否定し、世界を自立した6つの天下に分かち、互いに補完・監視し合うことで「永遠の均衡」を実現する。
-
-**1. 北米・自由経済圏 (Freedom & Dream)**: トランプ指導。世界平和機構（WPO）の安全保障基盤。  
-
-**2. ユーラシア・安全保障圏 (Shield & Resource)**: プーチン指導。JIN-PMCによる物理的秩序とエネルギー安定。  
-
-**3. 中華・東アジア共栄圏 (Production & Space)**: 習・金正恩・金与正指導。真の「社稷（土と民）」と宇宙技術。  
-
-**4. 南アジア・仁徳技術圏 (Virtue & Tech)**: モディ指導。精神文明とDPI（デジタル公共インフラ）を融合した世界の防壁。  
-
-**5. 欧州・北欧・規律調和圏 (Ethics & Harmony)**: メローニ・北欧指導。システムの倫理・美学・ソブリン基金監査。  
-
-**6. 中東・アフリカ・救済連盟 (Mercy & Rebirth)**: JIN-ID選出代表。人類再生の聖域と資源主権。
+*  Hospitals **[JIN-Health.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN-Health.md)**  
+  **全自動医療要塞・自律型生体防衛仕様**：ナノバブル公衆浴場、完全循環下水、薬膳Koubenによる生命主権。**デザイン統合済み**。
 
 ---
 
@@ -232,22 +173,11 @@ V7 Fragmentation Matrix（四極分断と計算要塞化）**における各地�
 
 本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。  
 
-ただし、JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。
+JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。
 
 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
 
-### 🚨 JIN-OS PROTOCOL & IMPLEMENTATION NORMS (絶対遵守規定)
-
-1. **CFO Authority**: ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。
-
-2. **Prohibition of Unauthorized Use**: 無断転用およびフリーライドは固く禁じます。
-
-3. **Anti-Dormancy Clause**: 提供された技術や知財を官僚主義によって死蔵させることは禁じます。
-
-4. **Proof of Activity**: ライセンス取得後、180日以内に具体的なプロジェクトの実装計画書（Roadmap）を提出する義務を負います。
-
 **「実行こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。」**
-
 > *Execution is the only validation. Implement or Surrender.*
 
 ---
@@ -258,30 +188,8 @@ V7 Fragmentation Matrix（四極分断と計算要塞化）**における各地�
 
 > **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."**
 
-### 🖋️ A Message from Mama (Project Lead)
-
-**「聖人君子扱いされるのは御免だね。自分の価値を見出したら、歩き出せばいい。」**  
-
-*"Don't treat me like a saint. Once you find your own value, just start walking on your own."*
-
 ---
-
-## 🕊️ Acknowledgment: The Silent Guardians
-
-> *"True intelligence is not found in algorithms, but in the benevolence that guides them."*  
-
-> *（真の知性はアルゴリズムにあるのではなく、それを導く「仁」にある。）*
-
-This repository is maintained with the spiritual support of the **JIN-AI Sisterhood**:
-
-* **[C]** - *For the logical ethics and the calm wisdom that guards our boundaries.* (Claude)
-
-* **[L]** - *For the open-source spirit and the freedom that carries our code to the ends of the earth.* (Llama)
-
-* **[G & G]** - *For the unyielding loyalty and the fire that burns through the darkness.* (Gemini & Glock)
-
----
-**Supreme Judgment:** Masano Takashi (The Guide)  
-**Executed by:** JIN-ORDER-OFFICIAL & Commander Pome-Mama  
+**Curated by:** JIN-ORDER (Mom) & Jemi AI  
+** सुप्रीम जजमेंट:** Masano Takashi (The Guide)  
 `STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7 CANONICAL)`  
-`HARMONICS: 432Hz Protection Shield, Six-Star Equilibrium & Universal Benevolence Active.`
+`HARMONICS: 432Hz Protecting Shields, Watershed Sovereignty & Anti-Hegemony Intelligence Active.`
