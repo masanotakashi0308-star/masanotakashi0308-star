@@ -3,6 +3,7 @@
 
 [![WORLD REBOOT](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen.svg)](#)
 [![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V7.2_CANONICAL-blue.svg)](#)
+[![SAMSARA](https://img.shields.io/badge/CONTINUUM-Samsara_Living_Wheel-gold.svg)](#)
 [![PROTOCOL](https://img.shields.io/badge/PROTOCOL-Decentralized_Hydraulic_&_Arteries-purple.svg)](#)
 [![PHYSICAL TRIAD](https://img.shields.io/badge/DEFENSE-Physical_Triad_&_NAN--Node-red.svg)](#)
 [![VERTICAL HARMONY](https://img.shields.io/badge/GEO--SHIELD-Atmosphere_&_Crust_Node-blueviolet.svg)](#)
@@ -142,15 +143,16 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 
 ---
 
-## 🌸 JIN-ORDER 根源思想：尊厳と空（Dignity & Sunyata）
+## 🌸 JIN-ORDER 根源思想：尊厳と空、そして輪廻の大輪（Dignity, Sunyata & Samsara）
 
-> **「命は役に立つから尊いのではない。ただ息をし、存在することそのものが絶対の尊厳である。」**
+> **「命は役に立つから尊いのではない。ただ息をし、存在することそのものが絶対の尊厳である。」**  
+> **「天の雨は山を潤し、里を巡り、海を育て、やがて大気へと還る。車輪が回るように生と死、物質とエネルギーは尽きることなく巡り合う。生命の環に捨て去るべきゴミなど何一つない。」**
 
-JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】が息づいています。
+JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】、そして天・山・里・海・都市の火を一本の円環として結ぶ【輪廻転生（Samsara）】が息づいています。
 
-数値を至上命題とする傲慢な管理システムを無力化し、名もなき命と温かい食卓を防護するための不滅の倫理規範です。
+数値を至上命題とする傲慢な管理システムや遺伝子操作を無力化し、名もなき命と温かい食卓を防護するための不滅の生命調和規範です。
 
-![根源思想](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.jpg)
+![輪廻転生・生命の大車輪](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY_03.jpg)
 
 👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**
 
@@ -198,11 +200,11 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 * 📄 **[仕様書を読む（JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**
 
 ### 8. 🌲 流域源流・林業主権再生と食料・地域エネルギー完全自給（FORESTRY-AGRI-ENERGY NEXUS）
-「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様。
+「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様[cite: 1]。
 * 📄 **[仕様書を読む（JIN_FORESTRY_AGRI_ENERGY_NEXUS.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**
 
 ### 9. 🌍 大気炭素循環・サバティエe-methane＆e-Fuelノード（ATMOSPHERIC CARBON RECYCLING）
-「既存インフラを捨てずにそのまま活かす」。サバティエ反応による合成メタンを既存ガス導管へ注入し、都市下水微細藻類バイオ原油・再エネe-Fuelと連動。大気中温室効果ガスをゼロスクラップで循環させ、ヒマラヤ氷河融解抑止・ネパール鉄砲水減災を源流から達成する地球調和規格。
+「既存インフラを捨てずにそのまま活かす」。サバティエ反応による合成メタンを既存ガス導管へ注入し、都市下水微細藻類バイオ原油・再エネe-Fuelと連動[cite: 1]。大気中温室効果ガスをゼロスクラップで循環させ、ヒマラヤ氷河融解抑止・ネパール鉄砲水減災を源流から達成する地球調和規格。
 * 📄 **[仕様書を読む（JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**
 
 ### 10. 🐟 微生物共生型・完全閉鎖循環式陸上養殖と森里川海・水産主権防衛（FISHERIES & OCEAN LIFE SHIELD）
@@ -245,7 +247,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 * 🐟 **水産主権 ＆ 閉鎖循環陸上養殖**: 遺伝子操作魚完全拒絶、3段階バクテリア浄化による無換水長期成育、活魚在庫化によるフードロス根絶、漁船e-Fuel自給（[JIN_FISHERIES_OCEAN_LIFE_SHIELD.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FISHERIES_OCEAN_LIFE_SHIELD.md)）
 * 🏥 **地域主権包括医療（仁八モデル）**: わんわん仁八病院、在宅巡回癒し隊、保護犬セラピードッグ育成、体温再現AIコンパニオンロボット、多世代共食「孝弁」（[JIN_REGIONAL_HEALTHCARE_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_REGIONAL_HEALTHCARE_SPEC.md)）
 * 🌍 **既存ガス管直結・大気炭素循環**: サバティエe-methaneリアクター、買い替えゼロ導入、大気中CO2回収・ヒマラヤ氷河保護減災（[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)）
-* 🌲 **源流林業 ＆ 食料・エネルギー自給**: 針広混交林化、スマート林業AI、カロリーベース自給率向上、輸入飼料ゼロ化、都市下水微細藻類原油・e-Fuel（[JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)）
+* 🌲 **源流林業 ＆ 食料・エネルギー自給**: 針広混交林化、スマート林業AI、カロリーベース自給率向上、輸入飼料ゼロ化、都市下水微細藻類原油・e-Fuel（[JIN_FORESTRY_AGRI_ENERGY_NEXUS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)）[cite: 1]
 * 🏛️ **2040年平和国家予算**: 軍需から自然再生産業への転換、420兆円単一台帳、世界環境OSサブスク、宇宙開拓（[MACRO_REBIRTH_BUDGET_2040.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MACRO_REBIRTH_BUDGET_2040.md)）
 * 🪙 **脱・ゼロサム型直接共生経済**: ふるさと納税の奪い合い解体、自治体減収ゼロ、実物生命資産担保地域通貨『JIN』・徳ポイント（PoV）直接循環、地域密着企業共生税制
 * 🌐 **天地垂直統合・気象台減災要塞**: 全国気象台網を活用したMP-PAWRフェーズドアレイレーダー先行治水、地下深層断層圧微小解放（地殻鍼灸JIN-ACH）、オフグリッドNAN-Node連系（[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)）
@@ -336,5 +338,5 @@ JIN-ORDERのデザイン、コンセプト、および各種データの商用�
 **Curated by:** JIN-ORDER Masano Takashi & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
 `STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.2 CANONICAL)`  
-`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Protecting Shields, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance & Watershed Sovereignty.`
+`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Protecting Shields, Samsara Living Wheel, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance & Watershed Sovereignty.`
