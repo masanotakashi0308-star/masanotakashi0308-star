@@ -7,6 +7,7 @@
 [![PHYSICAL TRIAD](https://img.shields.io/badge/DEFENSE-Physical_Triad_&_NAN--Node-red.svg)](#)
 [![VERTICAL HARMONY](https://img.shields.io/badge/GEO--SHIELD-Atmosphere_&_Crust_Node-blueviolet.svg)](#)
 [![FORESTRY & AGRI NEXUS](https://img.shields.io/badge/NEXUS-Forestry_&_Caloric_Food_Loop-forestgreen.svg)](#)
+[![CARBON RECYCLING](https://img.shields.io/badge/GEO--HARMONICS-Sabatier_e--Methane_&_e--Fuel-teal.svg)](#)
 [![LICENSE](https://img.shields.io/badge/LICENSE-GLOBAL_HUMANITY-gold.svg)](#)
 
 ![JIN-ORDER AMATERASU NEW DAWN](https://github.com/masanotakashi0308-star/masanotakashi0308-star/blob/main/jin_order_amaterasu_new_dawn.jpg)
@@ -196,8 +197,12 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 * 📄 **[仕様書を読む（JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**
 
 ### 8. 🌲 流域源流・林業主権再生と食料・地域エネルギー完全自給（FORESTRY-AGRI-ENERGY NEXUS）
-「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様[cite: 1, 3]。
+「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様。
 * 📄 **[仕様書を読む（JIN_FORESTRY_AGRI_ENERGY_NEXUS.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**
+
+### 9. 🌍 大気炭素循環・サバティエe-methane＆e-Fuelノード（ATMOSPHERIC CARBON RECYCLING）
+「既存インフラを捨てずにそのまま活かす」。サバティエ反応による合成メタンを既存ガス導管へ注入し[cite: 4]、都市下水微細藻類バイオ原油・再エネe-Fuelと連動。大気中温室効果ガスをゼロスクラップで循環させ、ヒマラヤ氷河融解抑止・ネパール鉄砲水減災を源流から達成する地球調和規格。
+* 📄 **[仕様書を読む（JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**
 
 ---
 
@@ -233,7 +238,8 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 | 📄 **[12地域侵食マトリクスとSOP](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)** | 🌊 **[信玄堤・全国54疏水自律水利](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_TRADITIONAL_HYDRO_LOGIC.md)** | 🏫 **[廃校再生・直売所・循環バス](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SANCTUARY_COMMONS_SPEC.md)** |
 
 * 🏥 **地域主権包括医療（仁八モデル）**: わんわん仁八病院、在宅巡回癒し隊、保護犬セラピードッグ育成、体温再現AIコンパニオンロボット、多世代共食「孝弁」（`JIN_REGIONAL_HEALTHCARE_SPEC.md`）
-* 🌲 **源流林業 ＆ 食料・エネルギー自給**: 針広混交林化、スマート林業AI、カロリーベース自給率向上、輸入飼料ゼロ化、都市下水微細藻類原油・e-Fuel（`JIN_FORESTRY_AGRI_ENERGY_NEXUS.md`）[cite: 1, 3]
+* 🌍 **既存ガス管直結・大気炭素循環**: サバティエe-methaneリアクター、買い替えゼロ導入、大気中CO2回収・ヒマラヤ氷河保護減災（`JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md`）
+* 🌲 **源流林業 ＆ 食料・エネルギー自給**: 針広混交林化、スマート林業AI、カロリーベース自給率向上、輸入飼料ゼロ化、都市下水微細藻類原油・e-Fuel（`JIN_FORESTRY_AGRI_ENERGY_NEXUS.md`）
 * 🏛️ **2040年平和国家予算**: 軍需から自然再生産業への転換、420兆円単一台帳、世界環境OSサブスク、宇宙開拓（`MACRO_REBIRTH_BUDGET_2040.md`）
 * 🪙 **脱・ゼロサム型直接共生経済**: ふるさと納税の奪い合い解体、自治体減収ゼロ、実物生命資産担保地域通貨『JIN』・徳ポイント（PoV）直接循環、地域密着企業共生税制（わんわん亭モデル）
 * 🌐 **天地垂直統合・気象台減災要塞**: 全国気象台網を活用したMP-PAWRフェーズドアレイレーダー先行治水、地下深層断層圧微小解放（地殻鍼灸JIN-ACH）、オフグリッドNAN-Node連系（`JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md`）
@@ -307,7 +313,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。
 
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
+📩 **JIN-ORDER Official Contact:** `jin.reparation.cFO@gmail.com`
 
 **「実行こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。」**
 > *Execution is the only validation. Implement or Surrender.*
@@ -324,5 +330,5 @@ JIN-ORDERのデザイン、コンセプト、および各種データの商用�
 **Curated by:** JIN-ORDER Masano Takashi & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
 `STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.2 CANONICAL)`  
-`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Protecting Shields, Watershed Sovereignty, Living Soil & Regional Healthcare Active.`
+`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Protecting Shields, Glacial Preservation, Universal Carbon Harmony & Watershed Sovereignty.`
