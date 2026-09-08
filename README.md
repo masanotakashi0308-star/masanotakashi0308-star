@@ -198,11 +198,11 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 * 📄 **[仕様書を読む（JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**
 
 ### 8. 🌲 流域源流・林業主権再生と食料・地域エネルギー完全自給（FORESTRY-AGRI-ENERGY NEXUS）
-「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様[cite: 1]。
+「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様。
 * 📄 **[仕様書を読む（JIN_FORESTRY_AGRI_ENERGY_NEXUS.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**
 
 ### 9. 🌍 大気炭素循環・サバティエe-methane＆e-Fuelノード（ATMOSPHERIC CARBON RECYCLING）
-「既存インフラを捨てずにそのまま活かす」。サバティエ反応による合成メタンを既存ガス導管へ注入し、都市下水微細藻類バイオ原油・再エネe-Fuelと連動[cite: 1]。大気中温室効果ガスをゼロスクラップで循環させ、ヒマラヤ氷河融解抑止・ネパール鉄砲水減災を源流から達成する地球調和規格。
+「既存インフラを捨てずにそのまま活かす」。サバティエ反応による合成メタンを既存ガス導管へ注入し、都市下水微細藻類バイオ原油・再エネe-Fuelと連動。大気中温室効果ガスをゼロスクラップで循環させ、ヒマラヤ氷河融解抑止・ネパール鉄砲水減災を源流から達成する地球調和規格。
 * 📄 **[仕様書を読む（JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**
 
 ### 10. 🐟 微生物共生型・完全閉鎖循環式陸上養殖と森里川海・水産主権防衛（FISHERIES & OCEAN LIFE SHIELD）
