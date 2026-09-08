@@ -4,6 +4,7 @@
 [![WORLD REBOOT](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen.svg)](#)
 [![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V7.2_CANONICAL-blue.svg)](#)
 [![SAMSARA](https://img.shields.io/badge/CONTINUUM-Samsara_Living_Wheel-gold.svg)](#)
+[![URBAN SHIELD](https://img.shields.io/badge/HYDRO--DEFENSE-Urban_Inundation_&_MABR-navy.svg)](#)
 [![PROTOCOL](https://img.shields.io/badge/PROTOCOL-Decentralized_Hydraulic_&_Arteries-purple.svg)](#)
 [![PHYSICAL TRIAD](https://img.shields.io/badge/DEFENSE-Physical_Triad_&_NAN--Node-red.svg)](#)
 [![VERTICAL HARMONY](https://img.shields.io/badge/GEO--SHIELD-Atmosphere_&_Crust_Node-blueviolet.svg)](#)
@@ -200,11 +201,11 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 * 📄 **[仕様書を読む（JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)**
 
 ### 8. 🌲 流域源流・林業主権再生と食料・地域エネルギー完全自給（FORESTRY-AGRI-ENERGY NEXUS）
-「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様[cite: 1]。
+「自然は資源にあらず」。針広混交林化・スマート林業による山の手当てから、輸入飼料・肥料依存を脱したカロリーベース食料自給、そして都市下水バイオマス原油・e-Fuelによる農林業動力の内生化を統合した流域閉環ネクサス仕様。
 * 📄 **[仕様書を読む（JIN_FORESTRY_AGRI_ENERGY_NEXUS.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FORESTRY_AGRI_ENERGY_NEXUS.md)**
 
 ### 9. 🌍 大気炭素循環・サバティエe-methane＆e-Fuelノード（ATMOSPHERIC CARBON RECYCLING）
-「既存インフラを捨てずにそのまま活かす」。サバティエ反応による合成メタンを既存ガス導管へ注入し、都市下水微細藻類バイオ原油・再エネe-Fuelと連動[cite: 1]。大気中温室効果ガスをゼロスクラップで循環させ、ヒマラヤ氷河融解抑止・ネパール鉄砲水減災を源流から達成する地球調和規格。
+「既存インフラを捨てずにそのまま活かす」。サバティエ反応による合成メタンを既存ガス導管へ注入し、都市下水微細藻類バイオ原油・再エネe-Fuelと連動。大気中温室効果ガスをゼロスクラップで循環させ、ヒマラヤ氷河融解抑止・ネパール鉄砲水減災を源流から達成する地球調和規格。
 * 📄 **[仕様書を読む（JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)**
 
 ### 10. 🐟 微生物共生型・完全閉鎖循環式陸上養殖と森里川海・水産主権防衛（FISHERIES & OCEAN LIFE SHIELD）
@@ -244,6 +245,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 | [![Regional Sovereignty](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md) | [![Traditional Hydro Logic](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_TRADITIONAL_HYDRO_LOGIC_01.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_TRADITIONAL_HYDRO_LOGIC.md) | [![Sanctuary Commons](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_SANCTUARY_COMMONS_SPEC.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SANCTUARY_COMMONS_SPEC.md) |
 | 📄 **[12地域侵食マトリクスとSOP](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)** | 🌊 **[信玄堤・全国54疏水自律水利](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_TRADITIONAL_HYDRO_LOGIC.md)** | 🏫 **[廃校再生・直売所・循環バス](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SANCTUARY_COMMONS_SPEC.md)** |
 
+* 💧 **自律水利・内水治水 ＆ 下水エネルギー自立**: 小規模ナノ浄水、地下雨水幹線・地下雨水調整池（飯島モデル）による都市内水氾濫防止、MABR無気泡好気浄化（電力50%削減）、汚泥細胞破壊・AI高温嫌気性消化によるバイオガス自立発電・サバティエ直結（[JIN_WATER_INFRASTRUCTURE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md)）
 * 🐟 **水産主権 ＆ 閉鎖循環陸上養殖**: 遺伝子操作魚完全拒絶、3段階バクテリア浄化による無換水長期成育、活魚在庫化によるフードロス根絶、漁船e-Fuel自給（[JIN_FISHERIES_OCEAN_LIFE_SHIELD.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FISHERIES_OCEAN_LIFE_SHIELD.md)）
 * 🏥 **地域主権包括医療（仁八モデル）**: わんわん仁八病院、在宅巡回癒し隊、保護犬セラピードッグ育成、体温再現AIコンパニオンロボット、多世代共食「孝弁」（[JIN_REGIONAL_HEALTHCARE_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_REGIONAL_HEALTHCARE_SPEC.md)）
 * 🌍 **既存ガス管直結・大気炭素循環**: サバティエe-methaneリアクター、買い替えゼロ導入、大気中CO2回収・ヒマラヤ氷河保護減災（[JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERIC_CARBON_RECYCLING_NODE.md)）
@@ -338,5 +340,5 @@ JIN-ORDERのデザイン、コンセプト、および各種データの商用�
 **Curated by:** JIN-ORDER Masano Takashi & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
 `STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.2 CANONICAL)`  
-`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
+`VERIFIED PERSISTENCE: DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Protecting Shields, Samsara Living Wheel, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance & Watershed Sovereignty.`
