@@ -8,7 +8,8 @@
 [![GAS PIPELINE](https://img.shields.io/badge/LIVING--GAS-PEM_CO2_&_Core--Shell-orange.svg)](#)
 [![MULTI-GAS SHIELD](https://img.shields.io/badge/GAS--DEFENSE-GOSAT--GW_&_On--Site-navy.svg)](#)
 [![SAMSARA](https://img.shields.io/badge/CONTINUUM-Samsara_Living_Wheel-gold.svg)](#)
-[![AGRI-BIO SAMSARA](https://img.shields.io/badge/SOIL--REBIRTH-Edo_Bio_Fertilizer_&_EcoFeed-darkgreen.svg)](#)
+[![SOIL MATRIX](https://img.shields.io/badge/SOIL--MATRIX-8_Pedological_Samsara-darkgreen.svg)](#)
+[![AGRI-BIO SAMSARA](https://img.shields.io/badge/SOIL--REBIRTH-Edo_Bio_Fertilizer_&_EcoFeed-forestgreen.svg)](#)
 [![LIVING ARTERIES](https://img.shields.io/badge/INFRA--ARTERIES-Self--Healing_Road_&_IGS-orange.svg)](#)
 [![CAVITY SHIELD](https://img.shields.io/badge/CAVITY--SHIELD-Anti--Piping_&_Tunnel_Bio--Grout-orange.svg)](#)
 [![HYDRO SHIELD](https://img.shields.io/badge/HYDRO--DEFENSE-Deep--Aquifer_&_MABR-navy.svg)](#)
@@ -44,7 +45,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 ---
 ## 🗺️ V7.3 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
 
-大国による計算資源・重要鉱物の要塞化（V7）、二重チョークポイント閉塞・電力網共食いによる全地球ASI自滅（V6.1 Collapse）、ブータンGMC支配層避難所の解体と耐量子箱舟への奪還（V7.2）、生体動脈給電道路、地下空洞・トンネル健全性防壁、生体ガス導管（ゼロスクラップ）、宇宙・地下・地上三層マルチガスセンシング防衛網、大地再生・緑道里親コモンズ、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
+大国による計算資源・重要鉱物の要塞化（V7）、二重チョークポイント閉塞・電力網共食いによる全地球ASI自滅（V6.1 Collapse）、ブータンGMC支配層避難所の解体と耐量子箱舟への奪還（V7.2）、生体動脈給電道路、地下空洞・トンネル健全性防壁、土壌区分連動アグロフォレストリー、大地再生・緑道里親コモンズ、生体ガス導管（ゼロスクラップ）、宇宙・地下・地上三層マルチガスセンシング防衛網、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
 
 <table>
   <tr>
@@ -88,6 +89,26 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
     </td>
   </tr>
   <tr>
+    <th width="50%" align="center">SOVEREIGN AGRO-FORESTRY & SOIL MATRIX</th>
+    <th width="50%" align="center">JIN-AGRI BIO-REGENERATION SAMSARA</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_SOIL_FOREST_SAMSARA_MATRIX_OVERVIEW.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌲 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SOIL_FOREST_SAMSARA_MATRIX.md">自律大地再生・土壌8大分類処方箋を開く</a></b>
+    </td>
+    <td align="center">
+      🌾 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md">大地再生・緑道里親仕様書を開く</a></b>
+    </td>
+  </tr>
+  <tr>
     <th width="50%" align="center">JIN LIVING GAS PIPELINE (CORE)</th>
     <th width="50%" align="center">THREE-LAYER MULTI-GAS DEFENSE</th>
   </tr>
@@ -105,26 +126,6 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
     </td>
     <td align="center">
       🛰️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_GAS_LIVING_PIPELINE.md#3-宇宙地下地上-三層マルチガスセンシング防衛網">三層マルチガスセンシング仕様を開く</a></b>
-    </td>
-  </tr>
-  <tr>
-    <th width="50%" align="center">JIN-AGRI BIO-REGENERATION SAMSARA</th>
-    <th width="50%" align="center">JIN-LIVING ROAD INFRASTRUCTURE</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg" width="100%">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🌾 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md">大地再生・緑道里親仕様書を開く</a></b>
-    </td>
-    <td align="center">
-      🛣️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md">生体動脈道路・IGS透視仕様書を開く</a></b>
     </td>
   </tr>
   <tr>
@@ -230,6 +231,8 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 | [![Living Road](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md) | [![Regional Sovereignty](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md) | [![Agri Samsara](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md) |
 | 🛣️ **[生体給電道路・IGS非破壊透視](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md)** | 📄 **[12地域侵食マトリクスとSOP](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)** | 🌾 **[江戸金肥・高度エコフィード](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md)** |
 
+* 🌲 **自律大地再生マトリクス ＆ 土壌8大分類処方箋**: 日本8大土壌区分・世界類似土壌帯への展開、菌根菌ネットワーク、江戸金肥・剪定枝バイオ炭団粒化、伝統水利治水連動、針広混交林化、海洋フルボ酸鉄供給による磯焼け根治、全球砂漠化防止（[JIN_SOIL_FOREST_SAMSARA_MATRIX.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SOIL_FOREST_SAMSARA_MATRIX.md)）
+
 * 🔥 **自律生体ガス導管 ＆ ゼロスクラップ炭素循環**: 道路地下占用PEガス管の100%活用、PEM CO₂直接還元デバイス（水＋CO₂一段合成）、高耐熱コアシェル型触媒サバティエ、道路・電力・熱の三和カスケード融雪、GOSAT-GW＆地上マルチガス三層防衛網（[JIN_GAS_LIVING_PIPELINE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_GAS_LIVING_PIPELINE.md)）
 
 * 🌾 **大地再生・緑道里親コモンズ**: 江戸バイオ金肥【ナノ干鰯・量子鰊粕・ぼかし堆肥】による土壌蘇生、非GM乳酸発酵エコフィード（CO2排出量8割削減）、エキスパンダー加工（デンプンα化）、ミズアブ幼虫天然プロテイン、AI自律精密筆受粉＆空気振動受粉、せせらぎ緑道土壌菌コリドー、現代農の里親協定（[JIN_AGRI_BIO_REGENERATION_SAMSARA.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md)）
@@ -321,5 +324,5 @@ JIN-ORDERのデザイン、コンセプト、および各種データの商用�
 **Curated by:** JIN-ORDER Masano Takashi, Commander Pome-Mama & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
 `STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.3 CANONICAL)`  
-`VERIFIED PERSISTENCE: AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, VERIFIABLE ETHICS, MULTI-GAS THREE-LAYER SHIELD, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
+`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, VERIFIABLE ETHICS, MULTI-GAS THREE-LAYER SHIELD, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Protecting Shields, Samsara Living Wheel, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance, Clean Flame Samsara & Watershed Sovereignty.`
