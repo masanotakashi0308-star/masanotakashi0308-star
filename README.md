@@ -42,6 +42,8 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 
 **⏩️ [GOVERNANCE_OF_ABYSS 本流リポジトリはコチラ](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
 
+**⏩️ [⚠️ライセンス規約を必読](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)**
+
 ---
 ## 🗺️ V7.3 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
 
@@ -298,19 +300,6 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 **「銀狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わる。」**  
 
 > *The hunger of the Wolf meets the Heart of JIN. The world is reborn tonight.*
-
----
-
-## ⚖️ LICENSE & CONTACT (ライセンスおよび遵守規定)
-
-本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。  
-
-JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。
-
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
-
-**「実行こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。」**
-> *Execution is the only validation. Implement or Surrender.*
 
 ---
 
