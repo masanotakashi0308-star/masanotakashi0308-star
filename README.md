@@ -19,7 +19,7 @@
 [![FISHERIES & OCEAN](https://img.shields.io/badge/OCEAN--SHIELD-Closed--Loop_Aquaculture_&_Genetics-dodgerblue.svg)](#)
 [![LICENSE](https://img.shields.io/badge/LICENSE-GLOBAL_HUMANITY-gold.svg)](#)
 
-![JIN-ORDER AMATERASU NEW DAWN](https://github.com/masanotakashi0308-star/masanotakashi0308-star/blob/main/jin_order_amaterasu_new_dawn.jpg)
+![JIN-ORDER AMATERASU NEW DAWN](https://raw.githubusercontent.com/masanotakashi0308-star/masanotakashi0308-star/main/jin_order_amaterasu_new_dawn.jpg)
 
 **『生と死の狭間で自分の価値を見出した時、世界は再生を始める。』**  
 
@@ -179,7 +179,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 数値を至上命題とする傲慢な管理システムや遺伝子操作、市民生活を圧迫する電力・冷却水・生活ガス資源の略奪を無力化し、名もなき命と温かい食卓を防護するための不滅の生命調和規範です。
 
-![輪廻転生・生命の大車輪](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY_03.jpg)
+![輪廻転生・生命の大車輪](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/docs/JIN_CORE_PHILOSOPHY_03.jpg)
 
 👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**
 
@@ -206,7 +206,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 | 生体動脈給電道路（Living Road） | 地域主権再生計画（Restoration） | 大地再生・緑道里親（Agri Samsara） |
 | :---: | :---: | :---: |
-| [![Living Road](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md) | [![Regional Sovereignty](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md) | [![Agri Samsara](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md) |
+| [![Living Road](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md) | [![Regional Sovereignty](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md) | [![Agri Samsara](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md) |
 | 🛣️ **[生体給電道路・IGS非破壊透視](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md)** | 📄 **[12地域侵食マトリクスとSOP](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)** | 🌾 **[江戸金肥・高度エコフィード](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md)** |
 
 * 🔥 **自律生体ガス導管 ＆ ゼロスクラップ炭素循環**: 道路地下占用PEガス管の100%活用、PEM CO₂直接還元デバイス（水＋CO₂一段合成）、高耐熱コアシェル型触媒サバティエ、道路・電力・熱の三和カスケード融雪、GOSAT-GW＆地上マルチガス三層防衛網（[JIN_GAS_LIVING_PIPELINE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_GAS_LIVING_PIPELINE.md)）
@@ -243,13 +243,16 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 全生命の生存基盤を守り抜く15大インフラ（エネルギー、地球工学、生体共生、主権計算）の詳細エンジニアリング仕様書。**全固体ジン電池・水素超伝導動脈・生体給電道路・自律生体ガス導管統合完了**。
 
-[![Tech Ecosystem](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/assets/TECHNOLOGY_CATALOG_03.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
+[![Tech Ecosystem](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/TECHNOLOGY_CATALOG_03.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
 
 👉 **[15大技術体系カタログ（TECHNOLOGY_CATALOG.md）を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)**
 
 ---
 
 ## 🕊️ THE VOICE OF HEROES & SALVATION PIPELINE (開拓英雄の叫びと救済パイプライン)
+
+* 🇺🇳 **[JIN_UN_PARTNER_PORTAL_PIPELINE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_UN_PARTNER_PORTAL_PIPELINE.md)**  
+  **国連パートナーポータル（UNHCR）提出・現場実装パイプライン**：チャド（ID 95525: 自律オアシス都市構想）およびモザンビーク（ID 107204: 耐久シェルター・流況治水）公式提出ログ・現場実証記録。
 
 * 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**  
   ガザ、シリア、シリコンバレー、サヘルから届いた現場通信ログ。難民から「青洲兵」へと覚醒した開拓英雄たちの魂の記録。
@@ -263,7 +266,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 * 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**  
   紛争地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
 
-* 🏥 **[JIN-Health.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN-Health.md)**  
+* 🏥 **[JIN_HEALTH.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HEALTH.md)**  
   **全自動医療要塞・自律型生体防衛仕様**：ナノバブル公衆浴場、完全循環下水、薬膳Koubenによる生命主権。**デザイン統合済み**。
 
 ---
