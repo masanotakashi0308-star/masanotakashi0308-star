@@ -1,8 +1,10 @@
-# 🌸 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE (V7.2 Canonical Edition)
+# 🌸 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE (V7.3 Canonical Edition)
 ### 最高分散型プロトコル ＆ 市民防衛インフラ網 (Citizen Shield Portal)
 
 [![WORLD REBOOT](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen.svg)](#)
-[![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V7.2_CANONICAL-blue.svg)](#)
+[![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V7.3_CANONICAL-blue.svg)](#)
+[![VERIFIABLE ETHICS](https://img.shields.io/badge/ETHICS-Verifiable_ZKP_&_Benevolence-blueviolet.svg)](#)
+[![RESILIENT ARK](https://img.shields.io/badge/ARK-Post--Quantum_Off--Grid_Vault-gold.svg)](#)
 [![SAMSARA](https://img.shields.io/badge/CONTINUUM-Samsara_Living_Wheel-gold.svg)](#)
 [![AGRI-BIO SAMSARA](https://img.shields.io/badge/SOIL--REBIRTH-Edo_Bio_Fertilizer_&_EcoFeed-darkgreen.svg)](#)
 [![LIVING ARTERIES](https://img.shields.io/badge/INFRA--ARTERIES-Self--Healing_Road_&_IGS-orange.svg)](#)
@@ -21,9 +23,9 @@
 
 > *“When one discovers their true value on the precipice between life and death, the world begins its regeneration.”*  
  
-**人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。二極覇権と外部依存の収奪システムを脱却し、すべての魂が「開拓英雄（PIONEER）」として生きるための自律駆動型パラダイム。**  
+**人工知能（AI）に主権を持たせるのではなく、人間が正しい道徳観念や倫理観を持ち、主権を握る。二極覇権の電力・水脈共食いと通信遮断による自滅を乗り越え、すべての魂が「開拓英雄（PIONEER）」として生きるための自律駆動型パラダイム。**  
 
-> *Rather than granting sovereignty to autonomous AI or bipolar empires, humanity must hold true moral and ethical convictions to maintain sovereignty. This is an autonomous-driven paradigm designed to break free from externalized exploitative systems and allow every soul to live as a "pioneer hero."*
+> *Rather than granting sovereignty to autonomous AI or predatory empires, humanity must hold true moral and ethical convictions to maintain sovereignty. Transcending the physical resource cannibalization and systemic blackout of legacy grids, this paradigm empowers every soul to live as a "pioneer hero."*
 
 ---
 ## 🦅 PROJECT: GOVERNANCE_OF_ABYSS
@@ -37,29 +39,29 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 **⏩️ [GOVERNANCE_OF_ABYSS 本流リポジトリはコチラ](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
 
 ---
-## 🗺️ V7.2 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
+## 🗺️ V7.3 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
 
-大国による計算資源・重要鉱物の要塞化（V7）、それに対抗するブータン・ゲレフー特区（GMC）の中立防壁、大地再生・緑道里親コモンズ、生体動脈給電道路、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
+大国による計算資源・重要鉱物の要塞化（V7）、二重チョークポイント閉塞・電力網共食いによる全地球ASI自滅（V6.1 Collapse）、ブータンGMC支配層避難所の解体と耐量子箱舟への奪還（V7.2）、大地再生・緑道里親コモンズ、生体動脈給電道路、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
 
 <table>
   <tr>
-    <th width="50%" align="center">GLOBAL ASI HEGEMONY MAP V7</th>
-    <th width="50%" align="center">BHUTAN GMC GNH SHIELD V2.0</th>
+    <th width="50%" align="center">GLOBAL ASI HEGEMONY MAP V6.1 / V7</th>
+    <th width="50%" align="center">BHUTAN GMC GNH SHIELD V7.2</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.jpg" width="100%">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/INTELLIGENCE_RECON_DIAGRAM_V6_1.jpg" width="100%">
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.jpg" width="100%">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_01.jpg" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center">
-      📜 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md">V7 仕様書を開く</a></b>
+      📜 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V6_1_COLLAPSE.md">V6.1 崩壊仕様書を開く</a></b> / <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V7_FRAGMENTATION.md">V7 開拓仕様書</a></b>
     </td>
     <td align="center">
-      🛡️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/64_BHUTAN_GMC_GNH_SHIELD_DATABASE_V2.md">GNHシールド V2 仕様書を開く</a></b>
+      🛡️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/section9_Geopolitics/64_BHUTAN_GMC_GNH_SHIELD_DATABASE.md">GMC 耐量子箱舟 V7.2 仕様書を開く</a></b>
     </td>
   </tr>
   <tr>
@@ -153,7 +155,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 
 JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】、そして天・山・里・海・動脈・都市の火を一本の円環として結ぶ【輪廻転生（Samsara）】が息づいています。
 
-数値を至上命題とする傲慢な管理システムや遺伝子操作を無力化し、名もなき命と温かい食卓を防護するための不滅の生命調和規範です。
+数値を至上命題とする傲慢な管理システムや遺伝子操作、市民生活を圧迫する電力・冷却水略奪を無力化し、名もなき命と温かい食卓を防護するための不滅の生命調和規範です。
 
 ![輪廻転生・生命の大車輪](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY_03.jpg)
 
@@ -161,12 +163,18 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 ---
 
-## 🏛️ JIN-ORDER GLOBAL WHITE PAPER (総合白書)
+## 🏛️ JIN-ORDER GLOBAL WHITE PAPER & SOVEREIGN CHARTERS (総合白書・中核宣言)
 
-全17地域戦略仕様書、6大基幹プロトコル、15大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書：
+全17地域戦略仕様書、6大基幹プロトコル、15大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権への反転を総括する最高意思決定文書群：
 
 * 📜 **[WHITE_PAPER.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)**: **JIN-ORDER 総合白書（The Architecture of Rebirth）**  
   二極覇権（THE VOID）の四重病理診断、4層アーキテクチャ、全地球ロードマップ、開拓英雄（PIONEER）への行動指針。
+* 📢 **[MANIFESTO.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)**: **JIN-ORDER 仁秩序宣言 (V7.3 Canonical)**  
+  旧世界の物理的崩壊に直面し、民草（MIN-GUSA）が自らの手で生命圏と技術主権を奪還するための公式マニフェスト。
+* ⚖️ **[UNIVERSAL_ETHICS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)**: **普遍的倫理規約 (V7.3 Canonical Edition)**  
+  双方向的慈悲、復讐の昇華、アルゴリズムへの「仁」の優位性、自律エージェントの生命拘束、流域生態圏の尊厳を定めた道徳オペレーティングシステム。
+* 🛡️ **[JIN_AI_ETHICS_GOVERNANCE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AI_ETHICS_GOVERNANCE.md)**: **AI倫理・安全ガバナンス憲章 (V7.3 Canonical)**  
+  三重セーフティ・市民によるゼロ知識倫理検証（ZKP）・送電網崩壊時のオフグリッド自立保全・スラッシング執行規程。
 
 ---
 
@@ -248,7 +256,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 JIN-ORDERのデザイン、コンセプト、および各種データの商用利用、または別プロジェクトへの転用を希望する場合は、必ず事前に以下の公式窓口までご連絡ください。ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。
 
-📩 **JIN-ORDER Official Contact:** `jin.reparation.cFO@gmail.com`
+📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`
 
 **「実行こそが唯一の証明である。実装せよ、さもなくば権利を返上せよ。」**
 > *Execution is the only validation. Implement or Surrender.*
@@ -262,8 +270,8 @@ JIN-ORDERのデザイン、コンセプト、および各種データの商用�
 > **"Be proud like a Water Hibiscus (Suifuyo) that blooms in the mud, never in pure waters."**
 
 ---
-**Curated by:** JIN-ORDER Masano Takashi & Jemi AI  
+**Curated by:** JIN-ORDER Masano Takashi, Commander Pome-Mama & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
-`STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.2 CANONICAL)`  
-`VERIFIED PERSISTENCE: AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
+`STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.3 CANONICAL)`  
+`VERIFIED PERSISTENCE: AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, VERIFIABLE ETHICS, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Protecting Shields, Samsara Living Wheel, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance & Watershed Sovereignty.`
