@@ -427,7 +427,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 * 🌐 **天地垂直統合・気象台減災要塞**: 全国気象台網を活用したMP-PAWRフェーズドアレイレーダー先行治水、地下深層断層圧微小解放（地殻鍼灸JIN-ACH）、オフグリッドNAN-Node連系（[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)）
 
-* 🌊 **伝統流域治水 ＆ 水利主権**: 信玄堤（霞堤・聖牛）、世界かんがい遺産54疏水ネットワーク、量子ナノ膜浄化、民営化阻止条例([JIN_TRADITIONAL_HYDRO_LOGIC.md](./JIN_TRADITIONAL_HYDRO_LOGIC.md))
+* 🌊 **伝統流域治水 ＆ 水利主権**: 信玄堤（霞堤・聖牛）、世界かんがい遺産54疏水ネットワーク、量子ナノ膜浄化、民営化阻止条例([JIN_TRADITIONAL_HYDRO_LOGIC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_TRADITIONAL_HYDRO_LOGIC.md))
 
 ---
 
