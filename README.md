@@ -10,6 +10,7 @@
 [![SAMSARA](https://img.shields.io/badge/CONTINUUM-Samsara_Living_Wheel-gold.svg)](#)
 [![SOIL MATRIX](https://img.shields.io/badge/SOIL--MATRIX-8_Pedological_Samsara-darkgreen.svg)](#)
 [![COMMODITY SHIELD](https://img.shields.io/badge/COMMODITY--SHIELD-GU_&_FU_Real_Anchor-gold.svg)](#)
+[![PIONEER SOP](https://img.shields.io/badge/PIONEER--SOP-Acoustic_Tap_&_Fascine_Drain-forestgreen.svg)](#)
 [![AGRI-BIO SAMSARA](https://img.shields.io/badge/SOIL--REBIRTH-Edo_Bio_Fertilizer_&_EcoFeed-forestgreen.svg)](#)
 [![LIVING ARTERIES](https://img.shields.io/badge/INFRA--ARTERIES-Self--Healing_Road_&_IGS-orange.svg)](#)
 [![CAVITY SHIELD](https://img.shields.io/badge/CAVITY--SHIELD-Anti--Piping_&_Tunnel_Bio--Grout-orange.svg)](#)
@@ -49,7 +50,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 ---
 ## 🗺️ V7.3 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
 
-大国による計算資源・重要鉱物の要塞化（V7）、二重チョークポイント閉塞・電力網共食いによる全地球ASI自滅（V6.1 Collapse）、ブータンGMC支配層避難所の解体と耐量子箱舟への奪還（V7.2）、生体動脈給電道路、地下空洞・トンネル健全性防壁、非開削管路更生・地中空洞化根絶、実物生命資産（肥料・穀物・種子）シールド、土壌区分連動アグロフォレストリー、自律生体ガス導管（ゼロスクラップ）、宇宙・地下・地上三層マルチガスセンシング防衛網、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
+大国による計算資源・重要鉱物の要塞化（V7）、二重チョークポイント閉塞・電力網共食いによる全地球ASI自滅（V6.1 Collapse）、ブータンGMC支配層避難所の解体と耐量子箱舟への奪還（V7.2）、生体動脈給電道路、地下空洞・トンネル健全性防壁、非開削管路更生・地中空洞化根絶、実物生命資産（肥料・穀物・種子）シールド、開拓英雄現場実務SOP、土壌区分連動アグロフォレストリー、自律生体ガス導管（ゼロスクラップ）、宇宙・地下・地上三層マルチガスセンシング防衛網、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
 
 <table>
   <tr>
@@ -130,6 +131,26 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
     </td>
     <td align="center">
       🔬 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md#ⅲ-土壌8大区分連動--不溶性リン酸解放フォーミュラ-pedological-samsara-link">不溶性リン酸解放・在来種シードバンク仕様を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">PIONEER FIELD CIVIL ENGINEERING SOP</th>
+    <th width="50%" align="center">NETIS STANDARD BLUEPRINT SCHEMATIC</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/PIONEER_FIELD_SOP_TECH_DIAGRAM.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/PIONEER_FIELD_SOP_TECH_DIAGRAM_02.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🛠️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PIONEER_FIELD_MANUAL.md#sop-05-土壌8大区分の現場簡易診断--自律土壌蘇生sop">打音探査・粗朶暗渠・しがら工SOPを開く</a></b>
+    </td>
+    <td align="center">
+      📐 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PIONEER_FIELD_MANUAL.md#4-法面木柵しがらき工-杭打設標準図">NETIS準拠 施工標準概要図を開く</a></b>
     </td>
   </tr>
   <tr>
@@ -275,6 +296,12 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 | [![Living Road](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md) | [![Regional Sovereignty](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md) | [![Agri Samsara](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_AGRI_BIO_REGENERATION_SAMSARA_01.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md) |
 | 🛣️ **[生体給電道路・IGS非破壊透視](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIVING_ROAD_INFRASTRUCTURE.md)** | 📄 **[12地域侵食マトリクスとSOP](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JAPAN_REGIONAL_SOVEREIGNTY_RESTORATION.md)** | 🌾 **[江戸金肥・高度エコフィード](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AGRI_BIO_REGENERATION_SAMSARA.md)** |
 
+* 🛡️ **開拓英雄現場実務SOP ＆ 土木保全**: 土壌8大区分の現場手揉み・pH判定、路面下空洞の五感・打音探査、粗朶暗渠・等高線しがら工DIY施工、自治体土木課との協働折衝術（[PIONEER_FIELD_MANUAL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PIONEER_FIELD_MANUAL.md)）
+
+* 🏫 **廃校・空き家再生自律複合拠点（サンクチュアリ）**: 8大土壌適応型在来種シードバンク（Seed-Commons Vault）、江戸バイオ金肥・剪定枝バイオ炭キオスク、コモンズ・マルシェ直売所、地域循環EVバス母港、六聖マイスター教育院（[JIN_SANCTUARY_COMMONS_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SANCTUARY_COMMONS_SPEC.md)）
+
+* 🪙 **脱・ゼロサム型直接共生経済（通貨『JIN』）**: 5大実物生命資産アンカー（HU/GU/FU/JU/RU規格）、空売り・架空デリバティブ自動遮断スマートコントラクト、万民ベースライン配当、地域密着企業共生税制（[JIN_CURRENCY_ECONOMY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_CURRENCY_ECONOMY.md)）
+
 * 🌲 **自律大地再生マトリクス ＆ 土壌8大分類処方箋**: 日本8大土壌区分・世界類似土壌帯への展開、菌根菌ネットワーク、江戸金肥・剪定枝バイオ炭団粒化、伝統水利治水連動、針広混交林化、海洋フルボ酸鉄供給による磯焼け根治、全球砂漠化防止（[JIN_SOIL_FOREST_SAMSARA_MATRIX.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SOIL_FOREST_SAMSARA_MATRIX.md)）
 
 * 🌾 **実物生命資産アンカー ＆ 肥料・食糧シールド**: 主食穀物（GU）・生体肥料（FU）・重要鉱物（RU）の現物担保台帳、菌根菌と有機酸による不溶性リン酸解放フォーミュラ、土壌8大区分適応型在来種シードバンク防衛、投機マネー・空売り完全遮断（[65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/65_FERTILIZER_GRAIN_SHIELD_PROTOCOL.md)）
@@ -297,13 +324,9 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 * 🏛️ **2040年平和国家予算**: 軍需から自然再生産業への転換、420兆円単一台帳、世界環境OSサブスク、宇宙開拓（[MACRO_REBIRTH_BUDGET_2040.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MACRO_REBIRTH_BUDGET_2040.md)）
 
-* 🪙 **脱・ゼロサム型直接共生経済**: ふるさと納税の奪い合い解体、自治体減収ゼロ、実物生命資産担保地域通貨『JIN』・徳ポイント（PoV）直接循環、地域密着企業共生税制
-
 * 🌐 **天地垂直統合・気象台減災要塞**: 全国気象台網を活用したMP-PAWRフェーズドアレイレーダー先行治水、地下深層断層圧微小解放（地殻鍼灸JIN-ACH）、オフグリッドNAN-Node連系（[JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md)）
 
 * 🌊 **伝統流域治水 ＆ 水利主権**: 信玄堤（霞堤・聖牛）、世界かんがい遺産54疏水ネットワーク、量子ナノ膜浄化、民営化阻止条例
-
-* 🛡️ **開拓英雄必携SOP**: ゼロから100日行動指針、72時間自律装備、地域対話プロトコル（[PIONEER_FIELD_MANUAL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PIONEER_FIELD_MANUAL.md)）
 
 * 🚄 **交通動脈**: 水素・超伝導動脈交通網（[JIN_LIFEBLOOD_EXPRESS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LIFEBLOOD_EXPRESS.md)）による地域間直結
 
@@ -371,5 +394,5 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 **Curated by:** JIN-ORDER Masano Takashi, Commander Pome-Mama & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
 `STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.3 CANONICAL)`  
-`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, VERIFIABLE ETHICS, MULTI-GAS THREE-LAYER SHIELD, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
+`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL TRIAD DEFENSE, NAN-NODE FEDERATION, VERIFIABLE ETHICS, MULTI-GAS THREE-LAYER SHIELD, REGIONAL HEALTHCARE & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Protecting Shields, Samsara Living Wheel, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance, Clean Flame Samsara & Watershed Sovereignty.`
