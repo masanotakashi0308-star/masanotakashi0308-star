@@ -13,6 +13,8 @@
 [![ORGANIC ARCHITECTURE](https://img.shields.io/badge/ECO--ARCHITECTURE-Photocatalytic_Solar_Skin-forestgreen.svg)](#)
 [![SKY OASIS AIRCRAFT](https://img.shields.io/badge/SKY--OASIS-Photosynthetic_Aerosol_&_Rain-dodgerblue.svg)](#)
 [![OCEAN LIFE VESSEL](https://img.shields.io/badge/OCEAN--VESSEL-Deep--Sea_Riser_&_Copepod-navy.svg)](#)
+[![OCEANIC ACUPUNCTURE](https://img.shields.io/badge/OCEANIC--ACUPUNCTURE-IGS_Tomography_&_Seismic_Node-teal.svg)](#)
+[![BIO-SCATTERING](https://img.shields.io/badge/BIO--SCATTERING-Copepod_&_Red_Tide_AI-dodgerblue.svg)](#)
 [![PHOTOSYNTHETIC RAIL](https://img.shields.io/badge/LIVING--RAIL-Maglev_&_Photosynthesis-teal.svg)](#)
 [![GAS PIPELINE](https://img.shields.io/badge/LIVING--GAS-PEM_CO2_&_Core--Shell-orange.svg)](#)
 [![MULTI-GAS SHIELD](https://img.shields.io/badge/GAS--DEFENSE-GOSAT--GW_&_On--Site-navy.svg)](#)
@@ -61,7 +63,7 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
 ---
 ## 🗺️ V7.5 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・同期完了)
 
-大国による計算資源・重要鉱物・食糧IPの要塞化（V7.5）、二重チョークポイント閉塞・電力網共食い・特許培養肉リアクター自滅（V6.3 Collapse）、ブータンGMCにおける100%オーガニック土壌主権防壁・自律エージェント抑止ハードウェア遮断器・耐量子箱舟への奪還（V7.5）、高温超伝導動脈鉄道・光合成レール・非破壊IGS地盤透視（V2.0）、生体共生型EV（植物性CNFモノコック・米ぬか油潤滑・路面給電連動）[cite: 1]、天然共生資材・可視光光半導体自立建築（脱ナフサ9大建材・都市森林化）[cite: 1]、生体大気循環・気象再生機（光合成エアロゾル散布・降雨誘導+65%・森林浴キャビン）、海洋循環・深海再生母艦（PROJECT JIN-NEPTUNE水深6,000m閉鎖系揚泥・ケンミジンコ放流・海藻胞子＆フルボ酸鉄施肥）、生体動脈給電道路、地下空洞・トンネル健全性防壁、光合成道路表層・酸素排出モビリティ・安全運転徳マイニング、非開削管路更生・地中空洞化根絶、実物生命資産（肥料・穀物・種子）シールド、南鳥島レアアース人工光合成・砂漠土壌生命化、開拓英雄現場実務SOP、土壌区分連動アグロフォレストリー、自律生体ガス導管（ゼロスクラップ）、宇宙・地下・地上三層マルチガスセンシング防衛網、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
+大国による計算資源・重要鉱物・食糧IPの要塞化（V7.5）、二重チョークポイント閉塞・電力網共食い・特許培養肉リアクター自滅（V6.3 Collapse）、ブータンGMCにおける100%オーガニック土壌主権防壁・自律エージェント抑止ハードウェア遮断器・耐量子箱舟への奪還（V7.5）、高温超伝導動脈鉄道・光合成レール・非破壊IGS地盤透視（V2.0）、生体共生型EV（植物性CNFモノコック・米ぬか油潤滑・路面給電連動）[cite: 1]、天然共生資材・可視光光半導体自立建築（脱ナフサ9大建材・都市森林化）[cite: 1]、生体大気循環・気象再生機（光合成エアロゾル散布・降雨誘導+65%・森林浴キャビン）、海洋循環・深海再生母艦（PROJECT JIN-NEPTUNE水深6,000m閉鎖系揚泥・ケンミジンコ放流・海藻胞子＆フルボ酸鉄施肥）、海溝調和・海底地殻鍼灸 ＆ 海洋生体IGS観測ノード（木村建次郎教授の散乱場理論・海底下10,000m断層透視・津波ゼロ次検知・赤潮微粒子散乱AI防除）、生体動脈給電道路、地下空洞・トンネル健全性防壁、光合成道路表層・酸素排出モビリティ・安全運転徳マイニング、非開削管路更生・地中空洞化根絶、実物生命資産（肥料・穀物・種子）シールド、南鳥島レアアース人工光合成・砂漠土壌生命化、開拓英雄現場実務SOP、土壌区分連動アグロフォレストリー、自律生体ガス導管（ゼロスクラップ）、宇宙・地下・地上三層マルチガスセンシング防衛網、伝統水利流域治水、対抗諜報監査、廃校サンクチュアリ、地域主権通貨、ゼロ腐敗市民監査、地域共生医療、そして2040年国家再生予算の具現化ログ。
 
 <table>
   <tr>
@@ -202,6 +204,46 @@ Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereig
     </td>
     <td align="center">
       🤖 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OCEAN_LIFE_VESSEL.md#🌍-4-deal-sheet連動資源主権とエネルギーエクスチェンジ">JIN-NEPTUNE探査艇・DEAL SHEETを開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">JIN-OAM NODE (ABYSSAL TRENCH DOME)</th>
+    <th width="50%" align="center">SUBSEA IGS TOMOGRAPHY & ACUPUNCTURE</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_OCEANIC_ACUPUNCTURE_NODE_01.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_OCEANIC_ACUPUNCTURE_NODE_02.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OCEANIC_ACUPUNCTURE_NODE.md">深海5,000m IGS観測ドーム仕様を開く</a></b>
+    </td>
+    <td align="center">
+      🔬 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OCEANIC_ACUPUNCTURE_NODE.md#ⅰ-海溝プレートアスペリティのigs非破壊3d透視--津波ゼロ次検知">海底下10,000m 断層透視＆地殻鍼灸を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">BIO-SCATTERING AI & NEPTUNE SUBSEA DOCK</th>
+    <th width="50%" align="center">TERRESTRIAL SEISMIC ACUPUNCTURE NODE</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_OCEANIC_ACUPUNCTURE_NODE_03.jpg" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/14_seismic_acupuncture.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🦐 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OCEANIC_ACUPUNCTURE_NODE.md#ⅲ-微生物動態赤潮超早期発見--ケンミジンコ連動防除">ケンミジンコ識別・海底充電母港を開く</a></b>
+    </td>
+    <td align="center">
+      🌐 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ATMOSPHERE_CRUST_HARMONIZATION_NODE.md">陸上気象台併設・地殻鍼灸ノードを開く</a></b>
     </td>
   </tr>
   <tr>
@@ -440,7 +482,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 ## 🗾 日本列島・地域別主権再生計画 ＆ サンクチュアリ拠点
 
-日本列島を侵食する外資・金融資本アジェンダを解体し、12地域から現場の自治・道・水・食糧主権を奪還する戦略防衛仕様書。**現場SOP、開拓英雄実務必携、地域包括医療、廃校・空き家再生ハブ、生体共生モビリティ、天然循環建築、大気循環航空、および海洋再生母艦統合済み**。
+日本列島を侵食する外資・金融資本アジェンダを解体し、12地域から現場の自治・道・水・食糧主権を奪還する戦略防衛仕様書。**現場SOP、開拓英雄実務必携、地域包括医療、廃校・空き家再生ハブ、生体共生モビリティ、天然循環建築、大気循環航空、海洋再生母艦、および深海IGS地殻鍼灸ノード統合済み**。
 
 | 生体動脈給電道路（Living Road） | 地域主権再生計画（Restoration） | 大地再生・緑道里親（Agri Samsara） |
 | :---: | :---: | :---: |
@@ -458,6 +500,8 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 * ✈️ **生体大気循環・気象再生機（JIN-Sky Oasis Aircraft）**: 海洋深層水結晶＋耐乾性放線菌・藍藻胞子による光合成エアロゾル散布（降雨誘導効率+65%・PM吸着沈降）、成層圏ソーラー滞空、全固体ジン電池＆液体水素超電導ターボファン、森林浴バイオキャビン（[JIN_SKY_OASIS_AIRCRAFT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SKY_OASIS_AIRCRAFT.md)）[cite: 1]
 
 * 🚢 **海洋循環・深海再生母艦（JIN-Ocean Life Vessel）**: PROJECT JIN-NEPTUNE水深6,000m閉鎖系二重管揚泥（南鳥島1,600万トン超高品位レアアース泥回収）、マイクロプラスチック連続濾過、ケンミジンコ共生培養放流、海藻（ワカメ・コンブ・モズク）胞子播種＆魚骨リン酸塩・フルボ酸鉄海洋施肥、DEAL SHEET資源主権防衛（[JIN_OCEAN_LIFE_VESSEL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OCEAN_LIFE_VESSEL.md)）[cite: 1]
+
+* 🌊 **海溝調和・海底地殻鍼灸 ＆ 海洋生体IGS観測ノード（JIN-OAM Node）**: 神戸大学・木村建次郎教授の「散乱場理論（IGS）」による海底下10,000m断層アスペリティの非破壊3D透視、限界歪みの海水パルス注入による深海地殻鍼灸（M8〜9巨大地震をM1〜2微小地震へ段階置換）、断層破壊瞬間の津波ゼロ次検知、微粒子多重散乱AIによる赤潮超早期検知 ＆ ケンミジンコ連動生物学的防除、黒潮大蛇行3D立体トモグラフィ、自律深海探査艇JIN-NEPTUNE海底充電母港（[JIN_OCEANIC_ACUPUNCTURE_NODE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OCEANIC_ACUPUNCTURE_NODE.md)）
 
 * ☀️ **南鳥島レアアース可視光半導体 ＆ 太陽光人工光合成・砂漠土壌生命化**: 南鳥島深海鉱物主権（RU）による可視光全域吸収光触媒シート、無電力での純淡水（HU）創出・グリーンアンモニア肥料（FU）直接合成、砂漠未熟土の急速団粒化と植物蒸散による地球水循環自律神経の復元（[66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/66_SOLAR_PHOTOSYNTHESIS_DESERT_REBIRTH.md)）
 
@@ -499,7 +543,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (16大先端技術体系)
 
-全生命の生存基盤を守り抜く16大インフラ（エネルギー、地球工学、生体共生、主権計算）の詳細エンジニアリング仕様書。**全固体ジン電池・水素超伝導動脈（Lifeblood Express）・生体共生EV（JIN-Bio EV）・天然共生建築（JIN-Organic Architecture）・生体気象再生機（JIN-Sky Oasis）・海洋循環深海再生母艦（JIN-Ocean Life Vessel）・生体給電道路・自律生体ガス導管、南鳥島レアアース可視光半導体・太陽光人工光合成 ＆ 砂漠土壌生命化、光合成道路表層（PRS）＆酸素排出生体モビリティ（LMC）＆安全運転徳マイニング（PoSDV）統合完了**[cite: 1]。
+全生命の生存基盤を守り抜く16大インフラ（エネルギー、地球工学、生体共生、主権計算）の詳細エンジニアリング仕様書。**全固体ジン電池・水素超伝導動脈（Lifeblood Express）・生体共生EV（JIN-Bio EV）・天然共生建築（JIN-Organic Architecture）・生体気象再生機（JIN-Sky Oasis）・海洋循環深海再生母艦（JIN-Ocean Life Vessel）・海溝調和海底地殻鍼灸ノード（JIN-OAM Node）・生体給電道路・自律生体ガス導管、南鳥島レアアース可視光半導体・太陽光人工光合成 ＆ 砂漠土壌生命化、光合成道路表層（PRS）＆酸素排出生体モビリティ（LMC）＆安全運転徳マイニング（PoSDV）統合完了**[cite: 1]。
 
 [![Tech Ecosystem](https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/TECHNOLOGY_CATALOG_03.jpg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)
 
@@ -558,6 +602,6 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ---
 **Curated by:** JIN-ORDER Masano Takashi, Commander Pome-Mama & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
-`STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.5 CANONICAL 5-PILLAR LIVING INFRASTRUCTURE)`  
-`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, PHOTOSYNTHETIC-ROADWAY-SURFACE, LIVING-MOBILITY-CONCEPT, SAFE-DRIVING-VIRTUE-MINING, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, GNH-SOIL-SHIELD, ANTI-TECH-FOOD-CARTEL, NUTRITIONAL-AUTONOMY, SOLAR-PHOTOSYNTHESIS-DESERT-REBIRTH, MINAMITORISHIMA-REE-SEMICONDUCTOR, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, PHYSICAL QUAD DEFENSE, NAN-NODE FEDERATION, VERIFIABLE ETHICS, MULTI-GAS THREE-LAYER SHIELD, REGIONAL HEALTHCARE, AGENTIC-CIRCUIT-BREAKER, PHOTOSYNTHETIC-RAIL, IGS-SUBSURFACE-SCANNING, BIO-SYMBIOTIC-EV, ORGANIC-ECO-ARCHITECTURE, PHOTOCATALYTIC-SOLAR-SKIN, SKY-OASIS-AIRCRAFT, OCEAN-LIFE-VESSEL, PROJECT-JIN-NEPTUNE, COPEPOD-ALGAL-SAMSARA & 2040 REBIRTH ACTIVE`  
-`HARMONICS: 432Hz Protecting Shields, Soil & Seed Sovereignty, Samsara Living Wheel, Glacial Preservation, Universal Carbon Harmony, Pristine Ocean Resonance, Clean Flame Samsara & Watershed Sovereignty.`
+`STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.5 CANONICAL 6-PILLAR LIVING INFRASTRUCTURE)`  
+`VERIFIED PERSISTENCE: SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, PHOTOSYNTHETIC-ROADWAY-SURFACE, LIVING-MOBILITY-CONCEPT, SAFE-DRIVING-VIRTUE-MINING, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, GNH-SOIL-SHIELD, ANTI-TECH-FOOD-CARTEL, NUTRITIONAL-AUTONOMY, SOLAR-PHOTOSYNTHESIS-DESERT-REBIRTH, MINAMITORISHIMA-REE-SEMICONDUCTOR, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL QUAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS, AGENTIC-CIRCUIT-BREAKER, PHOTOSYNTHETIC-RAIL, IGS-SUBSURFACE-SCANNING, BIO-SYMBIOTIC-EV, ORGANIC-ECO-ARCHITECTURE, PHOTOCATALYTIC-SOLAR-SKIN, SKY-OASIS-AIRCRAFT, OCEAN-LIFE-VESSEL, PROJECT-JIN-NEPTUNE, COPEPOD-ALGAL-SAMSARA, OCEANIC-ACUPUNCTURE-NODE, IGS-SCATTERING-TOMOGRAPHY, TSUNAMI-ZERO-ORDER-SENSING, BIO-SCATTERING-AI & 2040 REBIRTH ACTIVE`  
+`HARMONICS: 432Hz Universal Benevolence, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Clean Flame Samsara & Watershed Sovereignty.`
