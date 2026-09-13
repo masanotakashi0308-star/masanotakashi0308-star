@@ -14,18 +14,46 @@
 
 ---
 
+## 🌐 JIN-ORDER Ecosystem（リポジトリ体系・役割マップ）
+
+当プロジェクトは、思想・戦略・深層理論・公式憲章が相互に連携する3つの基幹リポジトリで構成されています。
+
+| リポジトリ | レイヤー / 役割 | 主な内容・対象 |
+| :--- | :--- | :--- |
+| **[masanotakashi0308-star](https://github.com/masanotakashi0308-star)** *(Current)* | **【中枢・総合ポータル】**<br>プロジェクト全体の玄関口 | ・全体概要（TL;DR）・案内窓口<br>・作戦ビジュアルマトリクス<br>・各リポジトリへの総合案内 |
+| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)** | **【深層哲学・危機統治】**<br>思想的バックボーン・本流 | ・極限状態・深淵（Abyss）の統治論<br>・根源思想綱領・仁焔二十二誓約<br>・16大先端技術・インフラ仕様書群 |
+| **[JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)** | **【文明OS・戦略実装】**<br>社会システムの具体的設計 | ・次世代社会OS「JIN-OS」仕様策定<br>・国際展開戦略・制度設計標準化<br>・自律分散型社会プロトコル |
+
+---
+
 ## 📖 初めて訪れた方へ（3ステップ・リーディングガイド）
 
-本プロジェクトは多層的なドキュメントで構成されています。初めての方は、以下の順序でお読みいただくと全体像をスムーズに把握できます。
+本プロジェクトは膨大かつ緻密な仕様書群で構成されています。初めての方は、以下の順序でお読みいただくと全体像を最もスムーズに把握できます。
 
 1. **Step 1：理念と組織の骨格を知る（3分）**  
-   まずは [`WHITE_PAPER.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)（法人憲章・設立理念）をご覧ください。JIN-ORDERが守るべき根本価値と組織原則を定義しています。
-
+   まずは [`WHITE_PAPER.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)（総合白書）をご覧ください。JIN-ORDERが守るべき根本価値と組織原則を定義しています。
 2. **Step 2：文明OSの全体像を俯瞰する（5分）**  
-   次世代ガバナンスの設計図である [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md) および戦略リポジトリを通じて、社会システムとしての実装アプローチを把握します。
-
+   次世代ガバナンスの設計図である [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)（仁秩序宣言）を通じて、社会システムとしての実装アプローチを把握します。
 3. **Step 3：深層ガバナンスと危機管理の論理に触れる（探究）**  
-   極限状態や不確実性下での意思決定フレームワークを論じた [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md) へ進み、思想的バックボーンを深く読み解きます。
+   極限状態や不確実性下での意思決定フレームワークを論じた本流アーカイブ [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md) へ進み、思想と工学の全貌を深く読み解きます。
+
+---
+
+<details>
+<summary>🌐 <b>English Summary (TL;DR & Reading Guide for Global Visitors)</b> [Click to expand]</summary>
+
+### General Incorporated Association JIN-ORDER
+**Bridging 30 Years of Municipal Civil Infrastructure Experience and Deep Philosophy to Implement Sustainable, Decentralized Civilizational Governance.**
+
+* **What We Do:** General Incorporated Association JIN-ORDER designs and standardizes the next-generation civilizational OS ("JIN-OS") and develops resilient, decentralized governance models to transcend systemic gridlocks.
+* **Why It Matters:** To dismantle central-planning bottlenecks and predatory commodification, anchoring digital intelligence in physical lifelines—water, living soil, traditional civil engineering, and food sovereignty.
+* **Who Leads:** Grounded by a 30-year veteran of Yokohama municipal civil engineering, combining hard field practice with deep ethical architecture and post-quantum cryptographic resilience.
+
+**Ecosystem Navigation:**
+1. **Step 1:** Read the [`WHITE_PAPER.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md) for core principles and constitutional values.
+2. **Step 2:** Explore the [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md) for the structural reboot paradigm.
+3. **Step 3:** Enter the deep repository [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md) to inspect technical blueprints and crisis protocols.
+</details>
 
 ---
 
@@ -99,20 +127,16 @@
 > *Rather than granting sovereignty to autonomous AI, corporate patent cartels, or predatory empires, humanity must hold true moral and ethical convictions to maintain sovereignty. Transcending physical resource cannibalization, synthetic ration cages, irreversible agentic cascades, and the systemic blackout of legacy grids, this paradigm empowers every soul to live as a "pioneer hero" grounded in living soil, karmic physics, and universal benevolence.*
 
 ---
-## 🦅 PROJECT: GOVERNANCE_OF_ABYSS
 
-JIN-ORDER MASTER REPOSITORY: THE GLOBAL OS REBOOT & HUMAN REBIRTH
+## 🦅 本流アーカイブ直通ナビゲーション（GOVERNANCE_OF_ABYSS）
 
-深淵の解体と、光の再構築（The Great Rebirth）
-
-Unveiling the Absolute Root Directory of Japan Isolated Region & Global Sovereign Counter-Protocols
-
-* ⏩️ **[GOVERNANCE_OF_ABYSS 本流リポジトリはコチラ](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
-* ⚖️ **[⚠️ライセンス規約を必読（V7.6 Dual License / CFO絶対審査・知的財産防護規約）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)**
+* ⏩️ **[GOVERNANCE_OF_ABYSS 本流リポジトリ（全仕様書アーカイブ）はこちら](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
+* ⚖️ **[⚠️ ライセンス規約（V7.6 Dual License / CFO審査・知財防護規約）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)**
 * 🤝 **[🤝 開拓英雄・知恵の合流SOP（CONTRIBUTING.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)**
 * 🚨 **[🚨 利権簒奪・政策ロンダリング・無断仕様化 告発窓口（audit_report.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/issues/new?template=audit_report.md)**
 
 ---
+
 ## 🗺️ V7.9 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・完全修復同期)
 
 **【本丸】食料主権・日本農家再生大綱、受粉昆虫（ミツバチ）尊厳・生命循環基本憲章、倫理的穀物トレーサビリティ・主食投機禁止台帳、自然形・地域共生給食ハブ仕様、北前船の鰊粕/鰯粕を復権する海陸循環有機肥料インフラ、公的種子主権保護プロトコル、現代版北前船・海空統合物流仕様書、農機・沿岸漁船自立バイオ燃料仕様、伝統水利田んぼダム雨水一時貯留条例モデル、および地域食ハブ完全オフラインP2PメッシュSOPを最高位同期**。
@@ -768,16 +792,15 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ```text
 【尊厳・空・因果・輪廻の大輪：根源思想】
  [docs/JIN_CORE_PHILOSOPHY.md]
-              🔽                                                                        
-【仁焔十三行（実践基盤）】     昇華・深化 ⏩️   【仁焔二十二誓約（覚醒・再生）】
-（人間としての土台・生活規範）                （人間主権・執着解放・文明再生規律）
- [UNIVERSAL_ETHICS_13.md]                      [UNIVERSAL_ETHICS_22.md]
-『慈・義・智・忠・信・礼・孝・悌』               『平等・解脱・共生・中道・再生・慈悲』   
-『民・共・医・焔・調』                          『調和・共有・放棄・自由・癒し・正念』
-                                              『守護・叡智・悔悟・導引・布施・正業』   
-                                              『継承・中立・無尽灯・涅槃』
+              🔽                                                                                
+【仁焔十三行（実践基盤）】        昇華・深化 ⏩️    【仁焔二十二誓約（覚醒・再生）】
+（人間としての土台・生活規範）                     （人間主権・執着解放・文明再生規律）
+ [UNIVERSAL_ETHICS_13.md]                         [UNIVERSAL_ETHICS_22.md]
+『慈・義・智・忠・信・礼・孝・悌』                 『平等・解脱・共生・中道・再生・慈悲』  
+『民・共・医・焔・調』                            『調和・共有・放棄・自由・癒し・正念』
+                                                『守護・叡智・悔悟・導引・布施・正業』   
+                                                『継承・中立・無尽灯・涅槃』
 ```
----
 
 👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**  
 
@@ -860,7 +883,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 * 📡 **完全オフライン食ハブ・LoRaメッシュSOP（Offline Food Mesh SOP）**: ネット・商用電源途絶時における3層縮退運用。ソーラー駆動920MHz無線ノード、遅延耐性DTNバケツリレー、仁焔式三連木札台帳、およびレンガ積みロケットストーブ・薪竈による手仕事給食調理で温かい食卓を死守（[JIN_OFFLINE_FOOD_MESH_SOP.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OFFLINE_FOOD_MESH_SOP.md)）
 
-* 🌾 **【本丸】日本農家の再生と食料主権五大基幹インフラ**: 伝統工法灌漑・治水（`JIN_WATER_INFRASTRUCTURE.md`）、鰊粕/鰯粕海陸循環有機肥料（`JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md`）、公的種子主権（`JIN_SEED_SOVEREIGNTY_PROTOCOL.md`）、主食流通公器化・投機禁止（`JIN_GRAIN_TRACEABILITY_SYSTEM.md`）、規格外撤廃・地域共生給食ハブ（`JIN_LOCAL_FOOD_CIRCUIT.md`）の五大インフラを敷設し、農家の公定再生産可能所得を恒久保障（[JIN_FARMER_REVITALIZATION_MASTERPLAN.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FARMER_REVITALIZATION_MASTERPLAN.md)）
+* 🌾 **【本丸】日本農家の再生と食料主権五大基幹インフラ**: 伝統工法灌漑・治水（[`JIN_WATER_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_WATER_INFRASTRUCTURE.md)）、鰊粕/鰯粕海陸循環有機肥料（[`JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ORGANIC_FERTILIZER_INFRASTRUCTURE.md)）、公的種子主権（[`JIN_SEED_SOVEREIGNTY_PROTOCOL.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_SEED_SOVEREIGNTY_PROTOCOL.md)）、主食流通公器化・投機禁止（[`JIN_GRAIN_TRACEABILITY_SYSTEM.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_GRAIN_TRACEABILITY_SYSTEM.md)）、規格外撤廃・地域共生給食ハブ（[`JIN_LOCAL_FOOD_CIRCUIT.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_LOCAL_FOOD_CIRCUIT.md)）の五大インフラを敷設し、農家の公定再生産可能所得を恒久保障（[JIN_FARMER_REVITALIZATION_MASTERPLAN.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FARMER_REVITALIZATION_MASTERPLAN.md)）
 
 * 🐝 **受粉昆虫尊厳 ＆ 食料主権（Pollinator Dignity & Food Sovereignty）**: ミツバチの方向感覚を奪うUVカットフィルムの是正、季節休眠の保障、アメリカ腐蛆病等の抗生物質乱用禁止とプロバイオティクス巣内環境改善、通年蜜源回廊の公共敷設（[JIN_FOOD_SOVEREIGNTY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_FOOD_SOVEREIGNTY.md)）
 
@@ -956,7 +979,23 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 ---
 
-## ⚖️ LICENSE & CONTACT (ライセンスおよび遵守規定)
+## 💖 GITHUB SPONSORS & CONTRIBUTIONS (支援・協働・参画の枠組み)
+
+一般社団法人JIN-ORDERは、特定の巨大テック企業や金融資本の思惑から完全に独立した「中立・恒久の市民防衛コモンズ」として運営されています。
+
+### 支援金（Sponsorship）の使途ビジョン
+いただいたスポンサーシップ・寄付は、以下の目的に厳格に充当されます：
+1. **思想・インフラ仕様書の恒久保存:** 耐量子・分散型ストレージによる知的資産の保護と改ざん防止
+2. **現場実証実験（PoC）の推進:** 地域食ハブ、粗朶暗渠、オフラインLoRaメッシュ網の資材調達・フィールド実証
+3. **市民監査・オープンガバナンス環境の維持:** 利権簒奪を防ぐ監査体制の確立と次世代への継承
+
+* 💖 **GitHub Sponsors でプロジェクトを支援する:** [Sponsor @masanotakashi0308-star](https://github.com/sponsors/masanotakashi0308-star)
+* 🤝 **開拓英雄として現場知恵を寄託する:** [CONTRIBUTING.md (知恵合流SOP)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)
+* 📩 **法人協働・共同実証のご相談:** `jin.reparation.cfo@gmail.com`
+
+---
+
+## ⚖️ LICENSE & AUDIT (ライセンスおよび遵守規定)
 
 本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。  
 
@@ -983,3 +1022,4 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 `STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V7.9 CANONICAL KITAMAE AIR-SEA LOGISTICS, AGRI-MARINE BIOFUEL, PADDY DAM & OFFLINE MESH RESILIENCE ACTIVE)`  
 `VERIFIED PERSISTENCE: SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, KITAMAE-AIR-SEA-LOGISTICS, RIGID-SAIL-HYBRID, VTOL-CARGO-DRONE, AGRI-MARINE-BIOFUEL, FISH-OIL-BDF, UCO-ULTRASONIC-ESTOR, PADDY-FIELD-DAM, ORIFICE-SLIT-WEIR, WATERSHED-SYMBIOSIS-PAYMENT, OFFLINE-FOOD-MESH, LORA-920MHZ-SUBGHZ, DTN-BUCKET-RELAY, KI-FUDA-LEDGER, HANDMADE-PREPARATION, ROCKET-STOVE-KAMADO, FARMER-REVITALIZATION-MASTERPLAN, FOOD-SOVEREIGNTY-CHARTER, POLLINATOR-DIGNITY-SHIELD, SEED-SOVEREIGNTY-PROTOCOL, GRAIN-TRACEABILITY-SYSTEM, ANTI-GRAIN-SPECULATION, LOCAL-FOOD-CIRCUIT, NATURAL-FORM-MEALS, MARINE-TERRESTRIAL-FERTILIZER, NISHIN-IWASHI-FERTILIZER, PEDOLOGICAL-MICROBIOME-BOOST, SOIL-FOREST-SAMSARA-MATRIX, AGRI-BIO-SAMSARA, LIVING-ROAD-ARTERIES, ANTI-PIPING-CAVITY-SHIELD, TUNNEL-LINING-INTEGRITY, PHOTOSYNTHETIC-ROADWAY-SURFACE, LIVING-MOBILITY-CONCEPT, SAFE-DRIVING-VIRTUE-MINING, TRENCHLESS-PIPE-REHABILITATION, CAVITY-SOURCE-ERADICATION, UNDERPASS-WATERSHED-DRAINAGE, PEDOLOGICAL-SPONGE-MATRIX, FERTILIZER-GRAIN-SHIELD, PEDOLOGICAL-SEED-VAULT, GNH-SOIL-SHIELD, ANTI-TECH-FOOD-CARTEL, NUTRITIONAL-AUTONOMY, SOLAR-PHOTOSYNTHESIS-DESERT-REBIRTH, MINAMITORISHIMA-REE-SEMICONDUCTOR, PIONEER-FIELD-SOP, SEED-COMMONS-VAULT, BIOCHAR-FERTILIZER-KIOSK, FIVE-ASSET-ANCHOR-CURRENCY, LIVING-GAS-PIPELINE, DECENTRALIZED HYDRAULIC, URBAN-INUNDATION-SHIELD, SAMSARA CONTINUUM, ATMOSPHERE-CRUST HARMONIZATION, FORESTRY-AGRI-ENERGY NEXUS, ATMOSPHERIC-CARBON-RECYCLING, FISHERIES-OCEAN-SHIELD, REGIONAL HEALTHCARE, SOVEREIGN COMMONS, PHYSICAL QUAD DEFENSE, MULTI-GAS THREE-LAYER SHIELD, VERIFIABLE ETHICS, AGENTIC-CIRCUIT-BREAKER, PHOTOSYNTHETIC-RAIL, IGS-SUBSURFACE-SCANNING, BIO-SYMBIOTIC-EV, ORGANIC-ECO-ARCHITECTURE, PHOTOCATALYTIC-SOLAR-SKIN, SKY-OASIS-AIRCRAFT, OCEAN-LIFE-VESSEL, PROJECT-JIN-NEPTUNE, COPEPOD-ALGAL-SAMSARA, OCEANIC-ACUPUNCTURE-NODE, IGS-SCATTERING-TOMOGRAPHY, TSUNAMI-ZERO-ORDER-SENSING, BIO-SCATTERING-AI, YUKAWA-CASCADE-RESERVOIR, VASCULAR-SIPHON, SEDIMENT-PHOSPHATE-SAMSARA, AXIAL-MASS-STABILIZATION & 2040 REBIRTH ACTIVE`  
 `HARMONICS: 432Hz Universal Benevolence, Sunyata Awakening, Karmic Restoration, Kitamaebune Maritime Loop, Sky Corridor Autonomy, Pure Biofuel Samsara, Paddy Dam Retention, Offline Community Pulse, Sovereign Farmer Dignity, Pollinator Resonance, Living Seed Continuity, Pure Marine-Terrestrial Samsara, Soil Sovereignty, Samsara Living Continuum, Glacial Preservation, Pristine Ocean Resonance, Trench Peace Resonance, Axial Mass Stability, Clean Flame Samsara & Watershed Sovereignty.`
+                                                
