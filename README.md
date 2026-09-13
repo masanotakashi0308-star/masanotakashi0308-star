@@ -19,9 +19,9 @@
 本プロジェクトは多層的なドキュメントで構成されています。初めての方は、以下の順序でお読みいただくと全体像をスムーズに把握できます。
 
 1. **Step 1：理念と組織の骨格を知る（3分）**  
-   まずは [`CHARTER.md`](./CHARTER.md)（法人憲章・設立理念）をご覧ください。JIN-ORDERが守るべき根本価値と組織原則を定義しています。
+   まずは [`CHARTER.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS.md)（法人憲章・設立理念）をご覧ください。JIN-ORDERが守るべき根本価値と組織原則を定義しています。
 2. **Step 2：文明OSの全体像を俯瞰する（5分）**  
-   次世代ガバナンスの設計図である [`MANIFESTO.md`](./MANIFESTO.md) および戦略リポジトリを通じて、社会システムとしての実装アプローチを把握します。
+   次世代ガバナンスの設計図である [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md) および戦略リポジトリを通じて、社会システムとしての実装アプローチを把握します。
 3. **Step 3：深層ガバナンスと危機管理の論理に触れる（探究）**  
    極限状態や不確実性下での意思決定フレームワークを論じた [`GOVERNANCE_OF_ABYSS`](https://github.com/masano-0112/GOVERNANCE_OF_ABYSS) へ進み、思想的バックボーンを深く読み解きます。
 
