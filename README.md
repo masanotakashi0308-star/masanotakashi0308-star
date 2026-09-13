@@ -21,7 +21,7 @@
 | リポジトリ | レイヤー / 役割 | 主な内容・対象 |
 | :--- | :--- | :--- |
 | **[masanotakashi0308-star](https://github.com/masanotakashi0308-star)** *(Current)* | **【中枢・総合ポータル】**<br>プロジェクト全体の玄関口 | ・全体概要（TL;DR）・案内窓口<br>・作戦ビジュアルマトリクス<br>・各リポジトリへの総合案内 |
-| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS)** | **【深層哲学・危機統治】**<br>思想的バックボーン・本流 | ・極限状態・深淵（Abyss）の統治論<br>・根源思想綱領・仁焔二十二誓約<br>・16大先端技術・インフラ仕様書群 |
+| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** | **【深層哲学・危機統治】**<br>思想的バックボーン・本流 | ・極限状態・深淵（Abyss）の統治論<br>・根源思想綱領・仁焔二十二誓約<br>・16大先端技術・インフラ仕様書群 |
 | **[JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY)** | **【文明OS・戦略実装】**<br>社会システムの具体的設計 | ・次世代社会OS「JIN-OS」仕様策定<br>・国際展開戦略・制度設計標準化<br>・自律分散型社会プロトコル |
 
 ---
