@@ -25,7 +25,7 @@
    次世代ガバナンスの設計図である [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md) および戦略リポジトリを通じて、社会システムとしての実装アプローチを把握します。
 
 3. **Step 3：深層ガバナンスと危機管理の論理に触れる（探究）**  
-   極限状態や不確実性下での意思決定フレームワークを論じた [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS) へ進み、思想的バックボーンを深く読み解きます。
+   極限状態や不確実性下での意思決定フレームワークを論じた [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md) へ進み、思想的バックボーンを深く読み解きます。
 
 ---
 
