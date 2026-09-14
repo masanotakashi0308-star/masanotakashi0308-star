@@ -166,12 +166,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/whitepaper01_civil_infrastructure_01.jpg" width="100%" alt="地上緑道公園・せせらぎと地下多用途共同溝・液浸AI・下水熱回収アイソメトリック断面図">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/whitepaper/whitepaper01_civil_infrastructure_01.jpg" width="100%" alt="地上緑道公園・せせらぎと地下多用途共同溝・液浸AI・下水熱回収アイソメトリック断面図">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md#2-コアアーキテクチャ地下共同溝utility-ductsの再定義">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/whitepaper01_civil_infrastructure_02.jpg" width="100%" alt="地上環境共生都市グリーンウェイと地下大口径共同溝・下水熱ヒートポンプシネマティック断面図">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/whitepaper/whitepaper01_civil_infrastructure_02.jpg" width="100%" alt="地上環境共生都市グリーンウェイと地下大口径共同溝・下水熱ヒートポンプシネマティック断面図">
       </a>
     </td>
   </tr>
