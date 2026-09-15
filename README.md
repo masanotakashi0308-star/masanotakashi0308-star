@@ -31,9 +31,13 @@
 本プロジェクトは膨大かつ緻密な仕様書群で構成されています。初めての方は、以下の順序でお読みいただくと全体像を最もスムーズに把握できます。
 
 1. **Step 1：理念と都市土木共生モデルを知る（3分）**  
-   まずは最新白書 [`whitepaper/01_civil_infrastructure_and_asi_symbiosis.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)（都市土木・共同溝とASI共生論 Vol.1）および [`whitepaper/02_jin_zoning_and_autonomous_cities.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/02_jin_zoning_and_autonomous_cities.md)（JIN-ZONING 自律分散都市計画 Vol.2）をご覧ください。
+   まずは、『最新白書』[`WHITE_PAPER.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)
+   『都市土木・共同溝とASI共生論 Vol.1』[`whitepaper/01_civil_infrastructure_and_asi_symbiosis.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)
+   『JIN-ZONING 自律分散都市計画 Vol.2』[`whitepaper/02_jin_zoning_and_autonomous_cities.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/02_jin_zoning_and_autonomous_cities.md)をご覧ください。
+
 2. **Step 2：文明OSの全体像と物理地政学・交通動脈を俯瞰する（5分）**  
    [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)（仁秩序宣言）、[`GLOBAL_ASI_HEGEMONY_MAP_V8.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/GLOBAL_ASI_HEGEMONY_MAP_V8.md)（三位一体の物理覇権マップ）、および [`specs/JIN_TRANSIT_ARTERIES.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_TRANSIT_ARTERIES.md)（三次元立体交通動脈）を通じて、社会システムの実装アプローチを把握します。
+
 3. **Step 3：深層ガバナンスと危機管理の論理に触れる（探究）**  
    極限状態や不確実性下での意思決定フレームワークを論じた本流アーカイブ [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md) へ進み、深海から地下共同溝、宇宙太陽光に至る思想と工学の全貌を深く読み解きます。
 
