@@ -1197,20 +1197,22 @@
 > **「火に触れれば熱く、手を離せば物は落ちる。神仏が裁くのではなく、自らの行い・言葉・心のあり方がそのまま未来の現実を作る（因果応報）。まかれた種は、縁を得て必ず芽吹く。」**  
 > **「天の雨は山を潤し、里を巡り、海を育て、やがて大気へと還る。車輪が回るように生と死、物質とエネルギーは尽きることなく巡り合う（輪廻転生）。生命の環に捨て去るべきゴミなど何一つない。大地と胃袋を冷たい特許に売り渡してはならない。」**
 
+---
+
 JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】、客観的自然則としての【因果応報・因縁果】、そして天・山・里・海・動脈・都市の火を一本の円環として結ぶ【輪廻転生（Samsara）】が息づいています。
 
-```text
-【尊厳・空・因果・輪廻の大輪：根源思想】
- [docs/JIN_CORE_PHILOSOPHY.md]
-              🔽                                                                                
-【仁焔十三行（実践基盤）】        昇華・深化 ⏩️      【仁焔二十二誓約（覚醒・再生）】
-（人間としての土台・生活規範）                        （人間主権・執着解放・文明再生規律）
- [UNIVERSAL_ETHICS_13.md]                            [UNIVERSAL_ETHICS_22.md]
+**【尊厳・空・因果・輪廻の大輪：根源思想】**[docs/JIN_CORE_PHILOSOPHY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)
 
-『慈・義・智・忠・信・礼・孝・悌』                     『平等・解脱・共生・中道・再生・慈悲・調和・共有』  
-『民・共・医・焔・調』                                『放棄・自由・癒し・正念・守護・叡智・悔悟・導引』
-                                                    『布施・正業・継承・中立・無尽灯・涅槃』
-```
+⏬️                                                                                
+
+**【仁焔十三行（実践基盤）】（人間としての土台・生活規範）** [UNIVERSAL_ETHICS_13.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)                             
+#### 『慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調』
+
+🔽【昇華・深化】
+
+**【仁焔二十二誓約（覚醒・再生）】（人間主権・執着解放・文明再生規律）** [UNIVERSAL_ETHICS_22.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md)
+#### 『平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃』
+
 ---
 
 👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**  
