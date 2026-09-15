@@ -210,7 +210,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/5f837f81-cbed-43ba-87d2-764c9bbdff84.jpg" width="100%" alt="JIN 高度技術マトリックス 総合構成図：地下ユーティリティ管路・沖縄トラフ・極北データハブ・磁気浮上鉄道・バイオ肥料施設">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/OKINAWA_SEVENTH_MINING_DISTRICT_SOVEREIGNTY_01.jpg" width="100%" alt="JIN 高度技術マトリックス 総合構成図：地下ユーティリティ管路・沖縄トラフ・極北データハブ・磁気浮上鉄道・バイオ肥料施設">
       </a>
     </td>
   </tr>
