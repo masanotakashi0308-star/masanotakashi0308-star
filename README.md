@@ -1176,15 +1176,16 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 【尊厳・空・因果・輪廻の大輪：根源思想】
  [docs/JIN_CORE_PHILOSOPHY.md]
               🔽                                                                                                 
-【仁焔十三行（実践基盤）】        昇華・深化 ⏩️     【仁焔二十二誓約（覚醒・再生）】
-（人間としての土台・生活規範）                       （人間主権・執着解放・文明再生規律）
+【仁焔十三行（実践基盤）】        昇華・深化 ⏩️  　   【仁焔二十二誓約（覚醒・再生）】
+（人間としての土台・生活規範）                     　 （人間主権・執着解放・文明再生規律）
  [UNIVERSAL_ETHICS_13.md]                           [UNIVERSAL_ETHICS_22.md]
-『慈・義・智・忠・信・礼・孝・悌』                    『平等・解脱・共生・中道・再生・慈悲』   
-『民・共・医・焔・調』                               『調和・共有・放棄・自由・癒し・正念』
-                                                   『守護・叡智・悔悟・導引・布施・正業』   
-                                                   『継承・中立・無尽灯・涅槃』
+
+『慈・義・智・忠・信・礼・孝・悌』                    『平等・解脱・共生・中道・再生・慈悲・調和・共有』  
+『民・共・医・焔・調』                               『放棄・自由・癒し・正念・守護・叡智・悔悟・導引』
+                                                   『布施・正業・継承・中立・無尽灯・涅槃』
 ```
 ---
+
 👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**  
 👉 **[仁焔十三行（生活・徳目実践基盤）を開く（UNIVERSAL_ETHICS_13.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**  
 👉 **[仁焔二十二誓約（文明再生プロトコル）を開く（UNIVERSAL_ETHICS_22.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md)**  
