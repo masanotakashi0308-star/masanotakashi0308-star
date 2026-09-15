@@ -5,11 +5,13 @@
 
 ## ⚡ 30秒でわかる JIN-ORDER（TL;DR）
 
-* **What（何を目指すのか）**  
+* **【What（何を目指すのか）】**  
   一般社団法人JIN-ORDERは、高度情報化と既存社会システムの機能不全を乗り越えるための次世代社会OS「JIN-OS」の設計・標準化、および危機耐性を持つ自律分散型ガバナンスモデルを研究・策定するプロジェクトです。
-* **Why（なぜ今必要なのか）**  
-  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。日常のインフラや市民生活という「足元の現場」を守りながら、国際標準にも耐えうる強靭な制度設計（深層ガバナンス）を構築します。
-* **Who（誰が動かしているのか）**  
+
+* **【Why（なぜ今必要なのか）】**  
+  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。<br>日常のインフラや市民生活という「足元の現場」を守りながら、国際標準にも耐えうる強靭な制度設計（深層ガバナンス）を構築します。
+
+* **【Who（誰が動かしているのか）】**  
   30年間にわたり都市インフラ・道路・自治体実務の現場を支え抜いた知見と、深層哲学・デジタルアーキテクチャを融合させた実践型チームによって主導されています。
 
 ---
@@ -33,29 +35,29 @@
 1. **Step 1：理念と都市土木共生モデルを知る（3分）**  
    まずは、以下の３つをご覧下さい。
    
-   ⏩️『最新白書』[`WHITE_PAPER.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)
+  ⏩️『最新白書』[`WHITE_PAPER.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/WHITE_PAPER.md)
    
-   ⏩️『都市土木・共同溝とASI共生論 Vol.1』[`whitepaper/01_civil_infrastructure_and_asi_symbiosis.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)
+  ⏩️『都市土木・共同溝とASI共生論 Vol.1』[`whitepaper/01_civil_infrastructure_and_asi_symbiosis.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)
    
-   ⏩️『JIN-ZONING 自律分散都市計画 Vol.2』[`whitepaper/02_jin_zoning_and_autonomous_cities.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/02_jin_zoning_and_autonomous_cities.md)
+  ⏩️『JIN-ZONING 自律分散都市計画 Vol.2』[`whitepaper/02_jin_zoning_and_autonomous_cities.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/02_jin_zoning_and_autonomous_cities.md)
 
 2. **Step 2：文明OSの全体像と物理地政学・交通動脈・深海計算を俯瞰する（5分）**  
    以下をご覧頂くことで、社会システムの実装アプローチを把握します。
 
-⏩️ [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)（仁秩序宣言）
+　⏩️ [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)（仁秩序宣言）
 
-⏩️ [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md)（全球ASI覇権地図 V8.1）
+　⏩️ [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md)（全球ASI覇権地図 V8.1）
 
-⏩️ [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)（深海主権計算ノード SSCN-01）
+　⏩️ [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)（深海主権計算ノード SSCN-01）
 
-⏩️ [`specs/JIN_TRANSIT_ARTERIES.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_TRANSIT_ARTERIES.md)（三次元立体交通動脈）
+　⏩️ [`specs/JIN_TRANSIT_ARTERIES.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_TRANSIT_ARTERIES.md)（三次元立体交通動脈）
 
 3. **Step 3：深層ガバナンスと危機管理・人道再生の論理に触れる（探究）**  
    極限状態や不確実性下での意思決定フレームワークを論じた本流アーカイブです。<br>チャド盆地オフグリッド再生、深海、地下共同溝、宇宙太陽光に至る思想と工学の全貌を深く読み解きます。 
 
-⏩️ [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)
+　⏩️ [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)
 
-⏩️ [`specs/CHAD_BASIN_OFFGRID_REGENERATION.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md) 
+　⏩️ [`specs/CHAD_BASIN_OFFGRID_REGENERATION.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md) 
 
 ---
 
