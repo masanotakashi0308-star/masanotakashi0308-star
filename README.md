@@ -70,7 +70,7 @@
 
 **Ecosystem Navigation:**
 1. **Step 1:** Read [`whitepaper/01_civil_infrastructure_and_asi_symbiosis.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) and [`whitepaper/02_jin_zoning_and_autonomous_cities.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/02_jin_zoning_and_autonomous_cities.md) for core municipal principles and constitutional values.
-2. **Step 2:** Explore [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md), [`JIN_DYNAMIC_GEO_HAZARD_SHIELD.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md), [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md), and [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md) for 4D dynamic hazard mitigation, volcanic ash geopolymerization, physical triad geopolitics, subsea nodes, and 3D transit logistics[cite: 3, 4].
+2. **Step 2:** Explore [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md), [`JIN_DYNAMIC_GEO_HAZARD_SHIELD.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md), [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md), and [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md) for 4D dynamic hazard mitigation, volcanic ash geopolymerization, physical triad geopolitics, subsea nodes, and 3D transit logistics.
 3. **Step 3:** Enter the deep repository [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md) to inspect technical blueprints, UN humanitarian protocols ([`specs/CHAD_BASIN_OFFGRID_REGENERATION.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md)), and the Human-Sovereign Integrative Biopharma Matrix in [`TECHNOLOGY_CATALOG.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md).
 </details>
 
@@ -179,7 +179,7 @@
 ## 🦅 本流アーカイブ直通ナビゲーション（GOVERNANCE_OF_ABYSS）
 
 * ⏩️ **[GOVERNANCE_OF_ABYSS 本流リポジトリ（全仕様書アーカイブ）はこちら](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
-* 🌋 **[動的四次元減災・火山灰資源化・生体防火・原位置環境浄化仕様書（JIN_DYNAMIC_GEO_HAZARD_SHIELD.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)**[cite: 3, 4]
+* 🌋 **[動的四次元減災・火山灰資源化・生体防火・原位置環境浄化仕様書（JIN_DYNAMIC_GEO_HAZARD_SHIELD.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)**
 * ⚡ **[24大先端技術体系カタログ（TECHNOLOGY_CATALOG.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)**
 * 🏥 **[地域主権 包括共生医療 ＆ 統合バイオ創薬仕様書（JIN_REGIONAL_HEALTHCARE_SPEC.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_REGIONAL_HEALTHCARE_SPEC.md)**
 * 🗺️ **[全球ASI覇権地図 V8.1（三位一体物理制約と二大計算回廊・最新正典）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md)**
@@ -200,7 +200,7 @@
 
 ## 🗺️ V8.1 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・完全同期)
 
-**【本丸】動的四次元減災・環境再生防壁（JIN-OS 4D減災メッシュ・LoRaオフライン同期・自律救助・共同溝火山灰スクラバー・排熱ジオポリマー建材・風化促進ERW 1000年CO₂固定・多層常緑広葉樹生体防火帯・海藻バイオゲル空中散布・原位置エレクトロファイトレメディエーション・PFAS 1,100℃完全熱破壊・MICP液状化根絶岩盤化）[cite: 3, 4]、人間主権型・統合バイオ創薬プラットフォーム（医師の全人的裁量権・生薬バイオコンバージョン発酵漢方・ユーグレナみどり麹パラミロン免疫・AI精密標的抗菌Enterololin・次世代生菌製剤LBP・包括医療食「孝弁」処方）、ジン・ドラゴン次世代三位一体エネルギーマトリクス（ペロブスカイト太陽電池シート・全固体Jin-Battery・海洋塩ナトリウムイオン定置蓄電）、全球ASI覇権地図 V8.1（北極コールド回廊 vs 熱帯ペトロ回廊・沖縄トラフ深海哨戒網）、水中自律計算＆海底ケーブル哨戒ノード（SSCN-01 沖縄トラフ1,500m・チタン耐圧殻・受動サーモサイフォン・DAS受動ソナー）、チャド盆地オフグリッド人道支援＆テラ・プレタ土壌再生（LSU-チャド-01・テッポウウリ炭化・地下350mソーラー揚水・UNHCR連動）、沖縄第7鉱区＆沖縄トラフ深海熱水鉱床防衛ドクトリン、極北冷気コンピュート・グリーンランド主権防衛、地銀・信金主導地域リレーショナル金融（T+0即日売掛保証・実物生命資産台帳）、3大ZONE都市計画JIN-ZONING（Vol. 2最新白書）、自立エネルギー・水マトリックス（排熱VMD淡水化・管内水圧発電・SCWG水素・SSPS受電）、三次元立体交通動脈（JIN-Lifeblood Express・現代版北前船・河川ドローン回廊Skyway）、グローバルサウス自然共生リープフロッグ規範（砂から骨材・全固体電池完成品化）、先進国過密都市外科手術（せせらぎ緑道復元・排熱大気投棄禁止）、都市地下多用途共同溝・分散液浸AIノード（Vol. 1白書）、深海光ファイバーDAS受動ソナー防衛ドクトリン、自律帯水層かん養・TSMC冷却半導体＆AIデータセンタークローズドループ復水仕様（地軸質量80cm復元）、海陸共生型酵素ケミカルリサイクル、古来源頭部土砂治水・石積砂留、伝統田畑輪換・三毛作生態系・土木排水工学、食料主権・日本農家再生大綱、受粉昆虫（ミツバチ）尊厳憲章、倫理的穀物トレーサビリティ台帳、自然形・地域共生給食ハブ仕様、北前船鰊粕/鰯粕有機肥料、公的種子主権保護プロトコル、現代版北前船・海空統合物流、農機・漁船自立バイオ燃料、伝統水利田んぼダム条例モデル、および地域食ハブ完全オフラインP2PメッシュSOPを最高位同期**。
+**【本丸】動的四次元減災・環境再生防壁（JIN-OS 4D減災メッシュ・LoRaオフライン同期・自律救助・共同溝火山灰スクラバー・排熱ジオポリマー建材・風化促進ERW 1000年CO₂固定・多層常緑広葉樹生体防火帯・海藻バイオゲル空中散布・原位置エレクトロファイトレメディエーション・PFAS 1,100℃完全熱破壊・MICP液状化根絶岩盤化）、人間主権型・統合バイオ創薬プラットフォーム（医師の全人的裁量権・生薬バイオコンバージョン発酵漢方・ユーグレナみどり麹パラミロン免疫・AI精密標的抗菌Enterololin・次世代生菌製剤LBP・包括医療食「孝弁」処方）、ジン・ドラゴン次世代三位一体エネルギーマトリクス（ペロブスカイト太陽電池シート・全固体Jin-Battery・海洋塩ナトリウムイオン定置蓄電）、全球ASI覇権地図 V8.1（北極コールド回廊 vs 熱帯ペトロ回廊・沖縄トラフ深海哨戒網）、水中自律計算＆海底ケーブル哨戒ノード（SSCN-01 沖縄トラフ1,500m・チタン耐圧殻・受動サーモサイフォン・DAS受動ソナー）、チャド盆地オフグリッド人道支援＆テラ・プレタ土壌再生（LSU-チャド-01・テッポウウリ炭化・地下350mソーラー揚水・UNHCR連動）、沖縄第7鉱区＆沖縄トラフ深海熱水鉱床防衛ドクトリン、極北冷気コンピュート・グリーンランド主権防衛、地銀・信金主導地域リレーショナル金融（T+0即日売掛保証・実物生命資産台帳）、3大ZONE都市計画JIN-ZONING（Vol. 2最新白書）、自立エネルギー・水マトリックス（排熱VMD淡水化・管内水圧発電・SCWG水素・SSPS受電）、三次元立体交通動脈（JIN-Lifeblood Express・現代版北前船・河川ドローン回廊Skyway）、グローバルサウス自然共生リープフロッグ規範（砂から骨材・全固体電池完成品化）、先進国過密都市外科手術（せせらぎ緑道復元・排熱大気投棄禁止）、都市地下多用途共同溝・分散液浸AIノード（Vol. 1白書）、深海光ファイバーDAS受動ソナー防衛ドクトリン、自律帯水層かん養・TSMC冷却半導体＆AIデータセンタークローズドループ復水仕様（地軸質量80cm復元）、海陸共生型酵素ケミカルリサイクル、古来源頭部土砂治水・石積砂留、伝統田畑輪換・三毛作生態系・土木排水工学、食料主権・日本農家再生大綱、受粉昆虫（ミツバチ）尊厳憲章、倫理的穀物トレーサビリティ台帳、自然形・地域共生給食ハブ仕様、北前船鰊粕/鰯粕有機肥料、公的種子主権保護プロトコル、現代版北前船・海空統合物流、農機・漁船自立バイオ燃料、伝統水利田んぼダム条例モデル、および地域食ハブ完全オフラインP2PメッシュSOPを最高位同期**。
 
 <table>
   <!-- 🌋【NEW V8.1】動的4D減災メッシュ ＆ 火山灰ジオポリマー工学断面図 -->
@@ -534,12 +534,12 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ⏬️                                                                                
 
 **【仁焔十三行（実践基盤）】（人間としての土台・生活規範）** [UNIVERSAL_ETHICS_13.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)  
-#### 『慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調』
+### 『慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調』
 
 🔽【昇華・深化】
 
 **【仁焔二十二誓約（覚醒・再生）】（人間主権・執着解放・文明再生規律）** [UNIVERSAL_ETHICS_22.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md)  
-#### 『平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃』
+### 『平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃』
 
 ---
 
@@ -554,7 +554,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 全17地域戦略仕様書、6大基幹プロトコル、24大先端技術体系を包括し、二極覇権の構造的虚無から全生命の調和・技術主権・食料主権・素材主権・医療主権・環境減災主権への反転を総括する最高意思決定文書群：
 
 * 🌋 **[JIN_DYNAMIC_GEO_HAZARD_SHIELD.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md)**: **【最新環境減災仕様】動的四次元減災・火山灰資源化・生体防火帯・原位置環境浄化（JIN-SPEC-GEO-01）**  
-  「水に常形なし」の孫子治水思想に基づく[cite: 4]。自治体の静的ハザードマップを全廃し、軌道衛星・MP-PAWR大気レーダー・海底DAS音響網を直結した「JIN-OS 4D災害メッシュ」を配備[cite: 4]。共同溝自律スクラバーによる火山灰短絡遮断[cite: 3]、排熱ジオポリマー・新燃レンガ建材化[cite: 3, 4]、風化促進（ERW）1000年CO₂固定[cite: 4]、常緑広葉樹生体防火帯 ＆ 空中散布生分解不燃バイオゲル[cite: 3, 4]、動電学（EK-SERS）とファイトレメディエーションによる原位置重金属回収[cite: 4]、PFAS 1,100℃完全熱破壊[cite: 4]、およびMICP地盤岩盤化による液状化根絶を定めた環境減災正典[cite: 3, 4]。
+  「水に常形なし」の孫子治水思想に基づく。自治体の静的ハザードマップを全廃し、軌道衛星・MP-PAWR大気レーダー・海底DAS音響網を直結した「JIN-OS 4D災害メッシュ」を配備。共同溝自律スクラバーによる火山灰短絡遮断、排熱ジオポリマー・新燃レンガ建材化、風化促進（ERW）1000年CO₂固定、常緑広葉樹生体防火帯 ＆ 空中散布生分解不燃バイオゲル、動電学（EK-SERS）とファイトレメディエーションによる原位置重金属回収、PFAS 1,100℃完全熱破壊、およびMICP地盤岩盤化による液状化根絶を定めた環境減災正典。
 * 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.1.md)**: **【最新正典 V8.1】全球ASI覇権地図 V8.1（三位一体物理制約と二大計算回廊）**  
   「系統変電容量（GW）」「冷却水利・熱力学（WUE）」「先端半導体パッケージング（HBM4/CoWoS）」の物理的限界による覇権構造の地殻変動。外気直接冷却の「北極コールド・コンピュート回廊（グリーンランド）」と自家発電の「熱帯ペトロ・コンピュート回廊（アラビア砂漠・湾岸）」の二大極化、および沖縄トラフ深海哨戒網を詳解。  
 * 🌊 **[specs/SUBSEA_SOVEREIGN_NODE_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)**: **【最新深海主権仕様】水中自律計算 ＆ 海底ケーブル哨戒ノード仕様書（SSCN-01）**  
