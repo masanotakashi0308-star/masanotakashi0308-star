@@ -31,7 +31,7 @@
   一般社団法人JIN-ORDERは、高度情報化と既存社会システムの機能不全を乗り越えるための次世代社会OS「JIN-OS」の設計・標準化、および危機耐性を持つ自律分散型ガバナンスモデルを研究・策定するプロジェクトです。
 
 * **【Why（なぜ今必要なのか）】**  
-  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。<br>日常のインフラや市民生活という「足元の現場」を守りながら、国際標準にも耐えうる強靭な制度設計（深層ガバナンス・身体主権防衛・暗号人道検証）を構築します。
+  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。<br>日常のインフラや市民生活という「足元の現場」を守りながら、国際標準にも耐えうる強靭な制度設計（深層ガバナンス・身体主権防衛・暗号人道検証・深海インフラ物理防護）を構築します。
 
 * **【Who（誰が動かしているのか）】**  
   30年間にわたり都市インフラ・道路・自治体実務の現場を支え抜いた知見と、深層哲学・デジタルアーキテクチャを融合させた実践型チームによって主導されています。
@@ -45,7 +45,7 @@
 | リポジトリ | レイヤー / 役割 | 主な内容・対象 |
 | :--- | :--- | :--- |
 | **[masanotakashi0308-star](https://github.com/masanotakashi0308-star)** *(Current)* | **【中枢・総合ポータル】**<br>プロジェクト全体の玄関口 | ・全体概要（TL;DR）・案内窓口<br>・作戦ビジュアルマトリクス（V8.2）<br>・各リポジトリへの総合案内 |
-| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** | **【深層哲学・危機統治】**<br>思想的バックボーン・本流 | ・極限状態・深淵（Abyss）の統治論<br>・全球ASI覇権地図 V8.2（非対称シャドー資本・人的裁定取引防衛）<br>・System-17 頭脳出国統制対抗・暗号化知能保管庫（SKV）<br>・JIN-OS 人道支援ZKP監査台帳（HV-ZKP V1.0）<br>・生体共生インフラ・身体主権防衛（20W生体臓器型計算）<br>・宇宙衛星（EnMAP）＆自治体実査同期4D動的避難（JIN-OS）<br>・動的4D減災・火山灰資源化・生体防火・原位置浄化<br>・人間主権型統合バイオ創薬プラットフォーム<br>・ジン・ドラゴン三位一体エネルギーマトリクス<br>・深海主権ノード(SSCN-01)・チャド盆地オフグリッド再生(LSU-チャド-01)<br>・25大先端技術・インフラ仕様書群 |
+| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** | **【深層哲学・危機統治】**<br>思想的バックボーン・本流 | ・極限状態・深淵（Abyss）の統治論<br>・全球ASI覇権地図 V8.2（非対称シャドー資本・人的裁定取引防衛）<br>・海底防護プロトコル SKDP-01（AUVスウォーム・動的アトリビューション）<br>・ポスト・ステート実物統治マニフェスト 2026<br>・System-17 頭脳出国統制対抗・暗号化知能保管庫（SKV）<br>・JIN-OS 人道支援ZKP監査台帳（HV-ZKP V1.0）<br>・生体共生インフラ・身体主権防衛（20W生体臓器型計算）<br>・宇宙衛星（EnMAP）＆自治体実査同期4D動的避難（JIN-OS）<br>・動的4D減災・火山灰資源化・生体防火・原位置浄化<br>・人間主権型統合バイオ創薬プラットフォーム<br>・ジン・ドラゴン三位一体エネルギーマトリクス<br>・深海主権ノード(SSCN-01)・チャド盆地オフグリッド再生(LSU-チャド-01)<br>・25大先端技術・インフラ仕様書群 |
 | **[JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY/blob/main/README.md)** | **【文明OS・戦略実装】**<br>社会システムの具体的設計 | ・次世代社会OS「JIN-OS」仕様策定<br>・国際展開戦略・制度設計標準化<br>・自律分散型社会プロトコル |
 
 ---
@@ -61,15 +61,15 @@
    ⏩️『都市土木・共同溝とASI共生論 Vol.1』[`whitepaper/01_civil_infrastructure_and_asi_symbiosis.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)  
    ⏩️『JIN-ZONING 自律分散都市計画 Vol.2』[`whitepaper/02_jin_zoning_and_autonomous_cities.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/02_jin_zoning_and_autonomous_cities.md)
 
-2. **Step 2：地政覇権・生体主権・深海計算・暗号人道検証を俯瞰する（5分）**  
+2. **Step 2：地政覇権・深海物理防衛・ポスト国家統治・生体主権を俯瞰する（5分）**  
    以下をご覧頂くことで、社会システムの実装アプローチを把握します。
 
-   ⏩️ [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)（仁秩序宣言）  
    ⏩️ [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)（全球ASI覇権地図 V8.2 最新正典）  
+   ⏩️ [`docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)（海底防護プロトコル SKDP-01）  
+   ⏩️ [`docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)（ポスト・ステート実物統治マニフェスト）  
    ⏩️ [`docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)（頭脳出国統制対抗・暗号知能保管庫）  
    ⏩️ [`docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)（ゼロ知識人道検証台帳）  
    ⏩️ [`JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)（生体共生インフラ・身体主権防衛）  
-   ⏩️ [`JIN_OS_CLIENT_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_CLIENT_SPEC.md)（個人主権端末・宇宙地上同期4D避難）  
    ⏩️ [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)（深海主権計算ノード SSCN-01）
 
 3. **Step 3：深層ガバナンス・人間主権創薬・エネルギー自立の論理に触れる（探究）**  
@@ -89,12 +89,12 @@
 **Bridging 30 Years of Municipal Civil Infrastructure Experience and Deep Philosophy to Implement Sustainable, Decentralized Civilizational Governance.**
 
 * **What We Do:** General Incorporated Association JIN-ORDER designs and standardizes the next-generation civilizational OS ("JIN-OS") and develops resilient, decentralized governance models to transcend systemic gridlocks.
-* **Why It Matters:** To dismantle central-planning bottlenecks, invasive transhumanist cyborgification, pharmaceutical commodification, state-driven wetware enclosure, and maritime chokeholds, anchoring human intelligence in physical lifelines—somatic sovereignty, 20W organ-decentralized computing, orbital-ground dynamic 4D escape routing, dynamic 4D geo-hazard shields, System-17 Sovereign Knowledge Vault, zero-knowledge humanitarian verification (HV-ZKP V1.0), volcanic ash geopolymerization, biological firebreaks, in-situ PFAS electro-reclamation, human-sovereign integrative biopharma, subterranean multi-utility ducts, 3D transit corridors, the Jin-Dragon triad energy matrix, subsea sovereign compute nodes (SSCN-01), off-grid Chad Basin ecological regeneration (LSU-01), living soil, and food sovereignty.
+* **Why It Matters:** To dismantle central-planning bottlenecks, invasive transhumanist cyborgification, pharmaceutical commodification, state-driven wetware enclosure, and maritime chokeholds, anchoring human intelligence in physical lifelines—subsea kinetic defense protocols (SKDP-01), post-state physical manifestos, somatic sovereignty, 20W organ-decentralized computing, orbital-ground dynamic 4D escape routing, dynamic 4D geo-hazard shields, System-17 Sovereign Knowledge Vault, zero-knowledge humanitarian verification (HV-ZKP V1.0), volcanic ash geopolymerization, biological firebreaks, in-situ PFAS electro-reclamation, human-sovereign integrative biopharma, subterranean multi-utility ducts, 3D transit corridors, the Jin-Dragon triad energy matrix, subsea sovereign compute nodes (SSCN-01), off-grid Chad Basin ecological regeneration (LSU-01), living soil, and food sovereignty.
 * **Who Leads:** Grounded by a 30-year veteran of municipal civil engineering, combining hard field practice with deep ethical architecture and post-quantum cryptographic resilience.
 
 **Ecosystem Navigation:**
 1. **Step 1:** Read [`whitepaper/01_civil_infrastructure_and_asi_symbiosis.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md) and [`whitepaper/02_jin_zoning_and_autonomous_cities.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/02_jin_zoning_and_autonomous_cities.md) for core municipal principles and constitutional values.
-2. **Step 2:** Explore [`MANIFESTO.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md), [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md), [`docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md), [`docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md), [`JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md), and [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md) for somatic sovereignty, wetware arbitrage counter-protocols, maritime kinetic escape routes, and subsea nodes.
+2. **Step 2:** Explore [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md), [`docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md), [`docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md), [`docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md), [`docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md), and [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md).
 3. **Step 3:** Enter the deep repository [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md) to inspect technical blueprints, UN humanitarian protocols ([`specs/CHAD_BASIN_OFFGRID_REGENERATION.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md)), and the Human-Sovereign Integrative Biopharma Matrix in [`TECHNOLOGY_CATALOG.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md).
 </details>
 
@@ -105,6 +105,8 @@
 [![WORLD REBOOT](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen.svg)](#)
 [![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V8.2_CANONICAL-blue.svg)](#)
 [![ASI HEGEMONY V8.2](https://img.shields.io/badge/ASI_HEGEMONY-V8.2_Dual_Corridors_&_Shadow_Capital-FF3366.svg)](#)
+[![SUBSEA DEFENSE](https://img.shields.io/badge/SUBSEA_DEFENSE-SKDP--01_AUV_Swarm-00E5FF.svg)](#)
+[![POST-STATE MANIFESTO](https://img.shields.io/badge/MANIFESTO-Post--State_Physical_Architecture-FF3366.svg)](#)
 [![SYSTEM 17 KNOWLEDGE VAULT](https://img.shields.io/badge/SYSTEM--17-Wetware_Enclave_&_zk--Proof-purple.svg)](#)
 [![HUMANITARIAN ZKP](https://img.shields.io/badge/HV--ZKP-Zero--Knowledge_Aid_Ledger-teal.svg)](#)
 [![CHOKEPOINT DEFENSE](https://img.shields.io/badge/CHOKEPOINT_DEFENSE-Subsea_&_Orbital_Decoupling-00E5FF.svg)](#)
@@ -129,7 +131,6 @@
 [![AUTONOMOUS ENERGY](https://img.shields.io/badge/ENERGY-VMD_Desal_&_Inline_Hydro-gold.svg)](#)
 [![GLOBAL SOUTH LEAPFROG](https://img.shields.io/badge/SOVEREIGNTY-Global_South_Leapfrog-forestgreen.svg)](#)
 [![SUBTERRANEAN DUCTS](https://img.shields.io/badge/CIVIL_INFRA-Subterranean_Duct_Symbiosis-76FF03.svg)](#)
-[![SUBSEA DAS](https://img.shields.io/badge/SUBSEA_DEFENSE-DAS_Acoustic_Sensing_2026-00E5FF.svg)](#)
 [![ECONOMIC SECURITY](https://img.shields.io/badge/ECONOMIC_SECURITY-Dual_License_Shield-red.svg)](#)
 [![AQUIFER RECHARGE](https://img.shields.io/badge/AQUIFER--RECHARGE-ZERO--EXTRACTION-dodgerblue.svg)](#)
 [![PIONEER SOP](https://img.shields.io/badge/PIONEER--SOP-UNHCR_CSEB_&_Fascine-forestgreen.svg)](#)
@@ -153,6 +154,8 @@
 ## 🦅 本流アーカイブ直通ナビゲーション（GOVERNANCE_OF_ABYSS）
 
 * 🗺️ **[全球ASI覇権地図 V8.2（二極コンピュート回廊・非対称シャドー資本網・海洋実物防衛マトリクス）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)**
+* 🌊 **[深海インフラ物理防護・生体模倣型AUV群スウォーム哨戒・動的アトリビューション技術仕様書（SKDP-01）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)**
+* 📢 **[ポスト・ステート実物統治宣言：国連ジュネーブ体制の虚構と物理基盤自律ドクトリン（Manifesto 2026）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)**
 * 🧠 **[頭脳出国統制対抗・暗号化知能保管庫 System-17 SKV 仕様書](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)**
 * 📜 **[ゼロ知識人道支援物資・多通貨分散フロー検証台帳（HV-ZKP V1.0 仕様書）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)**
 * ⏩️ **[GOVERNANCE_OF_ABYSS 本流リポジトリ（全仕様書アーカイブ）はこちら](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)**
@@ -178,18 +181,44 @@
 
 ## 🗺️ V8.2 CANONICAL OPERATIONAL INTELLIGENCE & INFRASTRUCTURE VISUALS (最新作戦ビジュアル・完全同期)
 
-**【本丸】全球ASI覇権地図 V8.2（二極コンピュート回廊・人的シャドー資本網・海洋チョークポイント3層迂回防衛マトリクス）、System-17 頭脳出国統制対抗・暗号化知能保管庫（SKV）、JIN-OS ゼロ知識人道検証台帳（HV-ZKP V1.0）、生体模倣型自立分散コンピューティングと身体主権防衛（20W臓器分散チップ・都市地下バイオスウェル浸透水冷・排熱農業循環・サヘル砂漠アースチューブ・完全オフグリッドオアシス循環）、JIN-OS 宇宙地上同期型4D動的避難、動的四次元減災・環境再生防壁、人間主権型・統合バイオ創薬プラットフォーム、ジン・ドラゴン次世代三位一体エネルギーマトリクス、水中自律計算＆海底ケーブル哨戒ノード（SSCN-01 沖縄トラフ1,500m）、チャド盆地オフグリッド人道支援＆テラ・プレタ土壌再生（LSU-チャド-01）、沖縄第7鉱区＆沖縄トラフ深海熱水鉱床防衛ドクトリン、極北冷気コンピュート・グリーンランド主権防衛、地銀・信金主導地域リレーショナル金融、3大ZONE都市計画JIN-ZONINGを最高位同期**。
+**【本丸】全球ASI覇権地図 V8.2（二極コンピュート回廊・人的シャドー資本網・海洋チョークポイント3層迂回防衛マトリクス）、海底防護プロトコル SKDP-01（SSCN-01 深海主権ノード・AUVスウォーム哨戒）、ポスト・ステート実物統治マニフェスト2026、System-17 頭脳出国統制対抗・暗号化知能保管庫（SKV）、JIN-OS ゼロ知識人道検証台帳（HV-ZKP V1.0）、生体模倣型自立分散コンピューティングと身体主権防衛（20W臓器分散チップ・都市地下バイオスウェル浸透水冷・排熱農業循環・サヘル砂漠アースチューブ・完全オフグリッドオアシス循環）、JIN-OS 宇宙地上同期型4D動的避難、動的四次元減災・環境再生防壁、人間主権型・統合バイオ創薬プラットフォーム、ジン・ドラゴン次世代三位一体エネルギーマトリクス、チャド盆地オフグリッド人道支援＆テラ・プレタ土壌再生（LSU-チャド-01）、沖縄第7鉱区＆沖縄トラフ深海熱水鉱床防衛ドクトリン、極北冷気コンピュート・グリーンランド主権防衛、地銀・信金主導地域リレーショナル金融、3大ZONE都市計画JIN-ZONINGを最高位同期**。
 
 <table>
-  <!-- 🗺️【NEW V8.2】全球ASI覇権地図 V8.2 ＆ 二極コンピュート回廊 -->
+  <!-- 🗺️ 全球タクティカルディスプレイ ＆ SSCN-01 深海主権ノード詳細断面 -->
   <tr>
-    <th width="50%" align="center">GLOBAL ASI HEGEMONY MAP V8.2 (INTEGRATED MATRIX)</th>
+    <th width="50%" align="center">GLOBAL ASI TACTICAL COMMAND DISPLAY (CORRIDORS & CHOKEPOINTS)</th>
+    <th width="50%" align="center">SSCN-01 SUBSEA COMPUTE NODE (OKINAWA TROUGH 1,500M)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_03.jpg" width="100%" alt="全球的ASI演算網タクティカルディスプレイ：極圏コールドコンピュート・コリドー vs 砂漠ホットコンピュート・コリドー、海洋チョークポイント警告表示">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_02.jpg" width="100%" alt="SSCN-01 沖縄トラフ深海演算ノード01：耐圧殻、生体模倣型AUV、青色レーザー・スキャン、音響ソナー、熱水噴出孔発電">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🗺️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">全球ASI覇権地図 V8.2（タクティカル画面）を開く</a></b>
+    </td>
+    <td align="center">
+      🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md">海底防護プロトコル（SSCN-01仕様）を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- ⚡ 極北SMR直結計算センター ＆ 二極コンピュート回廊対比 -->
+  <tr>
+    <th width="50%" align="center">SMR-INTEGRATED SOVEREIGN COMPUTE BUNKER (SUB-ARCTIC)</th>
     <th width="50%" align="center">BIPOLAR COMPUTE CORRIDORS (POLAR VS PETRO)</th>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_01.jpg" width="100%" alt="全球ASI覇権地図 V8.2：二極コンピュート回廊・人的シャドー資本網・海洋チョークポイント3層迂回マトリクス">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_04.jpg" width="100%" alt="極北国家AI計算センター：小型モジュール炉SMR発電所直結、海水冷却システム、海底ケーブル陸揚げ局要塞">
       </a>
     </td>
     <td align="center">
@@ -200,7 +229,7 @@
   </tr>
   <tr>
     <td align="center">
-      🗺️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">全球ASI覇権地図 V8.2 最新正典を開く</a></b>
+      ⚡ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">SMR直結型オフグリッド計算要塞を開く</a></b>
     </td>
     <td align="center">
       ❄️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">極地モノリス＆砂漠ギガワットDCを開く</a></b>
@@ -311,32 +340,6 @@
     </td>
   </tr>
 
-  <!-- 🧬 人間主権型・統合バイオ創薬 ＆ 腸内免疫バイオコンバージョン断面図 -->
-  <tr>
-    <th width="50%" align="center">HUMAN-SOVEREIGN INTEGRATIVE BIOPHARMA</th>
-    <th width="50%" align="center">GUT IMMUNITY & BIO-CONVERSION (CROSS-SECTION)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#18-微細藻類ユーグレナ米麹みどり麹生体バイオエンジン">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/18_jin_integrative_biopharma_matrix.jpg" width="100%" alt="人間主権型・統合バイオ創薬プラットフォーム：医師の全人的問診・ミドリムシ麹融合バイオリアクター・生薬棚・AI精密標的分析">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#18-微細藻類ユーグレナ米麹みどり麹生体バイオエンジン">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/18_euglena_koji_gut_immunity_cross_section.jpg" width="100%" alt="腸内環境・生薬バイオコンバージョン工学断面図：細胞壁なしユーグレナ59種栄養素・活性麹酵素アグリコン吸収・ビフィズス菌短鎖脂肪酸・AI精密抗菌ペプチド">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🏥 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#18-微細藻類ユーグレナ米麹みどり麹生体バイオエンジン">人間主権・統合バイオ創薬仕様を開く</a></b>
-    </td>
-    <td align="center">
-      🔬 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#18-微細藻類ユーグレナ米麹みどり麹生体バイオエンジン">腸内免疫＆生薬バイオコンバージョンを開く</a></b>
-    </td>
-  </tr>
-
   <!-- ⚡ ジン・ドラゴン次世代三位一体エネルギー ＆ 電池・光半導体工学断面図 -->
   <tr>
     <th width="50%" align="center">JIN-DRAGON TRIAD ENERGY MATRIX</th>
@@ -360,188 +363,6 @@
     </td>
     <td align="center">
       🔬 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">ペロブスカイト＆全固体電池コア断面図を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🔋 海洋塩ナトリウムイオン定置蓄電 ＆ 共同溝インライン水力・SCWG水素 -->
-  <tr>
-    <th width="50%" align="center">SODIUM-ION OFF-GRID STORAGE (SAHEL/CHAD)</th>
-    <th width="50%" align="center">IN-LINE HYDRO & SCWG HYDROGEN (DUCT)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/01_jin_sodium_grid_storage.jpg" width="100%" alt="サヘル・チャド乾燥地帯配備型 ナトリウムイオン・メガワット蓄電ステーション：ペロブスカイト受電キャノピー・動作温度-25〜+50℃安定稼働">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#05-上下水道管内-インラインマイクロ水力--超臨界水ガス化scwg水素">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/05_inline_hydro_scwg_hydrogen.jpg" width="100%" alt="多用途共同溝内インライン水力発電 ＆ 超臨界水ガス化SCWG水素リアクター断面図">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🔋 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">海洋塩ナトリウム蓄電・サヘル実地展開を開く</a></b>
-    </td>
-    <td align="center">
-      ⚡ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#05-上下水道管内-インラインマイクロ水力--超臨界水ガス化scwg水素">共同溝水力 ＆ SCWG水素仕様を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🛰️ 宇宙太陽光発電SSPS ＆ 現代版北前船未来丸 -->
-  <tr>
-    <th width="50%" align="center">SPACE SOLAR POWER (SSPS) & KOUBEN DOME</th>
-    <th width="50%" align="center">MODERN KITAMAEBUNE RIGID-SAIL HYBRID</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#07-宇宙太陽光発電ssps温室一体型レクテナ受電">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/07_ssps_rectenna_greenhouse.jpg" width="100%" alt="宇宙太陽光発電SSPS軌道送電 ＆ 農業用コーベン温室群半透明レクテナ受電アレイ">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#09-現代版北前船硬翼帆ウィンドアシスト内航ハイブリッド">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/09_modern_kitamaebune_hybrid.jpg" width="100%" alt="現代版北前船 未来丸：自動化硬翼帆・全固体電池コンテナ・バイオ燃料ハイブリッド内航船">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🛰️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#07-宇宙太陽光発電ssps温室一体型レクテナ受電">SSPS軌道受電＆温室レクテナを開く</a></b>
-    </td>
-    <td align="center">
-      🚢 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#09-現代版北前船硬翼帆ウィンドアシスト内航ハイブリッド">現代版北前船・未来丸仕様を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- ✈️ 河川上空Skyway・Sky Oasis ＆ 水深2000m DAS海底受動ソナー -->
-  <tr>
-    <th width="50%" align="center">RIVER SKYWAY (VTOL DRONE & SKY OASIS)</th>
-    <th width="50%" align="center">SUBSEA DAS ACOUSTIC SURVEILLANCE GRID</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#10-河川上空ドローン法定航路skyway--水陸両用飛行艇sky-oasis">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/10_skyway_drone_sky_oasis.jpg" width="100%" alt="河川上空低高度自律空路Skyway：JIN-隼チルトローターVTOL貨物ドローン ＆ スカイ・オアシス水陸両用飛行艇">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#11-光分散音響センシングdas全海底受動ソナー防衛網">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/11_subsea_das_acoustic_grid.jpg" width="100%" alt="水深2,000m光海底ケーブルDAS受動ソナー音響監視 ＆ AUV自律修復ロボット">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      ✈️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#10-河川上空ドローン法定航路skyway--水陸両用飛行艇sky-oasis">河川上空Skyway＆水陸両用艇を開く</a></b>
-    </td>
-    <td align="center">
-      🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#11-光分散音響センシングdas全海底受動ソナー防衛網">全海底DAS受動ソナー防衛網を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🌊 沖縄トラフ1500m熱水鉱床防衛 ＆ SSCN-01深海主権計算ノード -->
-  <tr>
-    <th width="50%" align="center">OKINAWA TROUGH MINING DEFENSE (TAKUYO)</th>
-    <th width="50%" align="center">SUBSEA SOVEREIGN COMPUTE NODE (SSCN-01)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#12-沖縄第7鉱区--沖縄トラフ熱水鉱床深海資源防衛ノード">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/12_okinawa_trough_mining_defense.jpg" width="100%" alt="沖縄トラフ水深1,500m熱水鉱床採掘母船「拓洋」・チタン二重管閉回路スラリー揚鉱・DAS警戒アレイ">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SUBSEA_SOVEREIGN_NODE_SPEC_01.jpg" width="100%" alt="SSCN-01 水中自律計算ノード 沖縄トラフ1,500m 海底展開外観図">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#12-沖縄第7鉱区--沖縄トラフ熱水鉱床深海資源防衛ノード">沖縄トラフ熱水鉱床防衛＆拓洋を開く</a></b>
-    </td>
-    <td align="center">
-      🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md">SSCN-01 深海主権計算ノードを開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🔬 SSCN-01耐圧殻断面 ＆ チャド盆地人道支援LSU-01 -->
-  <tr>
-    <th width="50%" align="center">SSCN-01 SENTRY NODE CROSS-SECTION</th>
-    <th width="50%" align="center">CHAD BASIN OFFGRID REGENERATION (LSU-01)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SUBSEA_SOVEREIGN_NODE_SPEC_02.jpg" width="100%" alt="SSCN-01 内部工学断面図：二重チタン耐圧殻・液浸サーバーラック・受動サーモサイフォン・DASモジュール・係留ブイベイ">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/CHAD_BASIN_OFFGRID_REGENERATION_01.jpg" width="100%" alt="LSU-チャド-01 人道支援ユニット：ソーラーコンテナ・深井戸揚水・土壌再生モニタリング現場">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🔬 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md">SSCN-01 二重チタン耐圧殻＆DAS断面を開く</a></b>
-    </td>
-    <td align="center">
-      🌍 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md">チャド盆地オフグリッド人道支援を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🌾 テラ・プレタ断面図 ＆ 極北冷気計算特区 -->
-  <tr>
-    <th width="50%" align="center">TYPHA BIOCHAR & TERRA PRETA REGENERATION</th>
-    <th width="50%" align="center">ARCTIC COLD-COMPUTE SANCTUARY (GREENLAND)</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/CHAD_BASIN_OFFGRID_REGENERATION_02.jpg" width="100%" alt="チャド盆地自立水利・土壌再生断面図：テッポウウリ熱分解炉・テラプレタ土壌・深井戸ソーラーポンプ350m・セラミックろ過槽">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/ARCTIC_COLD_COMPUTE_SOVEREIGNTY_01.jpg" width="100%" alt="グリーンランド極北冷気コンピュート特区：氷河融解水力発電・外気直接冷却AIポッド・排熱循環Kouben農業ドーム">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🌾 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md">テッポウウリ炭化＆テラ・プレタ断面を開く</a></b>
-    </td>
-    <td align="center">
-      ❄️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/ARCTIC_COLD_COMPUTE_SOVEREIGNTY.md">極北冷気コンピュート・グリーンランド主権を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 🪙 地域主権リレーショナル金融 ＆ 25大先端技術マスター構成図 -->
-  <tr>
-    <th width="50%" align="center">LOCAL RELATIONAL FINANCE (REAL ASSET LEDGER)</th>
-    <th width="50%" align="center">JIN 25 ADVANCED TECHNOLOGY MASTER MATRIX</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_LOCAL_RELATIONAL_FINANCE_SPEC_01.jpg" width="100%" alt="地域リレーショナル金融：大田区町工場と地元農家・実物資産担保台帳・コモンズ5軸加工機シェア">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/TECHNOLOGY_CATALOG_04.jpg" width="100%" alt="JIN 高度技術マトリックス 総合構成図 & 技術目録：25大先端技術体系マスターアーキテクチャ">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🪙 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_LOCAL_RELATIONAL_FINANCE_SPEC.md">地域主権リレーショナル金融仕様書を開く</a></b>
-    </td>
-    <td align="center">
-      ⚡ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md">全25大先端技術体系カタログを開く</a></b>
     </td>
   </tr>
 </table>
@@ -581,10 +402,14 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 
 ## 🏛️ JIN-ORDER GLOBAL WHITE PAPER & SOVEREIGN CHARTERS (総合白書・中核宣言)
 
-全18地域戦略仕様書、6大基幹プロトコル、25大先端技術体系、および拡張System-17・人道ZKP台帳を包括し、二極覇権の構造的虚無から全生命の調和・技術主権・食料主権・素材主権・医療主権・環境減災主権への反転を総括する最高意思決定文書群：
+全18地域戦略仕様書、6大基幹プロトコル、25大先端技術体系、海底防護プロトコル、ポスト国家マニフェスト、および拡張System-17・人道ZKP台帳を包括し、二極覇権の構造的虚無から全生命の調和・技術主権・食料主権・素材主権・医療主権・環境減災主権への反転を総括する最高意思決定文書群：
 
 * 🗺️ **[docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)**: **【最新正典 V8.2】全球ASI覇権地図 V8.2（二極コンピュート回廊・非対称シャドー資本網・海洋実物防衛マトリクス）**  
   電力グリッド飽和指数（GSI）に基づく「メガワットの壁」による米欧メガデータセンター新設凍結と、極北コールド回廊 vs 熱帯ペトロ回廊への強制移転。さらに制裁下国家による推定3.5万〜10万人規模の越境労働・IT偽装（Wetware Arbitrage）による年間4.5億〜8億ドルの外貨吸い上げに対抗するPoIIプロトコル、紅海・マラッカ・沖縄トラフの海洋チョークポイント物理寸断に対抗する宇宙・陸上・極地3層迂回エスケープマトリクスを策定。
+* 🌊 **[docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)**: **【最新深海防衛仕様】深海インフラ物理防護・生体模倣型AUV群スウォーム哨戒・動的アトリビューション技術仕様書（SKDP-01）**  
+  公海下水深1,000m〜4,000mにおける錨偽装引きずり攻撃や工作UUVの物理切断に対し、二重チタン耐圧殻ノード（SSCN-01）、生体模倣型AUVスウォームによる青色レーザー（450nm）/DAS音響メッシュ走査、およびゼロ知識証明（zk-STARKs）による不可逆アトリビューションと30ms以内ゼロ遅延エスケープ迂回を定めた防衛仕様書。
+* 📢 **[docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)**: **【最新宣言】ポスト・ステート実物統治宣言：国連ジュネーブ体制の虚構と物理基盤自律ドクトリン（Manifesto 2026）**  
+  物理的送電網も計算資源も持たない国連ジュネーブ体制の形式的「倫理憲章」を論破。生体知能の非囲い込み、深淵・送電基盤の不可逆自律性、熱力学的生命至上原則の3大物理不可侵を掲げ、言葉ではなくコードと土木によって主権と生命を守り抜く決別・自立宣言。
 * 🧠 **[docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)**: **【拡張主権仕様】国家主権拘束下における知能・暗号知見保全システム（System-17 SKV Protocol）**  
   国家による先端技術者・知能労働者に対する「頭脳出国統制（Brain Exit Control）」に対抗し、個人の思考・設計思想・暗号プロトコルを非中央集権的に保全する耐接収・分散型記憶防護アーキテクチャ。zk-Knowledge Proof、秘密分散閾値保管、非常時論理自己消却（Dead-Man's Proof）を定義。
 * 📜 **[docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)**: **【最新人道暗号仕様】ゼロ知識証明に基づく人道支援物資・多通貨分散フロー検証台帳（HV-ZKP V1.0）**  
@@ -609,16 +434,6 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
   3大ZONE構想（エネルギー・素材・農業）を都市計画法用途地域制へ直接接続。高度複合都市核地下の液浸AI・排熱地域暖房直結、沿岸環境共生工業区、砂から骨材精製、および地銀・信金主導の農家・町工場直結ファクタリング実物経済プロトコルを統合した次世代都市白書。  
 * 🏙️ **[whitepaper/01_civil_infrastructure_and_asi_symbiosis.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/whitepaper/01_civil_infrastructure_and_asi_symbiosis.md)**: **【最新白書 Vol.1】都市土木・共同溝とASI分散インフラ共生論（Vol. 1 Canonical）**  
   土木工学30年の知見を結集。郊外型巨大要塞データセンターによる水利・電力収奪を排し、都市地下多用途共同溝（Utility Ducts）内に液浸冷却AIノードを分散配備。下水熱交換ループ直結による水消費実質ゼロ（WUE=0.00）と、排熱の地域熱供給（District Heating）・都市型農業への100%カスケード循環、および自治体主権マイクログリッドを定めた最新ホワイトペーパー。  
-* ⚡ **[specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_AUTONOMOUS_ENERGY_MATRIX.md)**: **複合給電・自立水利技術仕様書（JIN-SPEC-ENG-01）**  
-  AI冷却排熱（50〜60℃）を活用した低温減圧膜蒸留（VMD海水淡水化）、濃縮ブライン完全資源化（ZLD）、上下水道管内インラインマイクロ水力水圧発電、下水汚泥・剪定枝超臨界水ガス化（SCWG）水素発電、および宇宙太陽光発電（SSPS）レクテナ受電を包括する自立動力体系。  
-* 🚄 **[specs/JIN_TRANSIT_ARTERIES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_TRANSIT_ARTERIES.md)**: **三次元立体交通・物流回廊仕様書（JIN-SPEC-TRA-01）**  
-  首都一極集中ハブ＆スポークを拒絶するP2P分散メッシュ交通網。軌道敷地下に超高圧送電線・光ファイバー・パイプラインを同軸埋設したJIN-Lifeblood Express、現代版北前船硬翼帆ハイブリッド内航船、河川上空ドローン法定航路（Skyway）、および水陸両用飛行艇（Sky Oasis）の工学仕様。  
-* 🌍 **[docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_SOUTH_LEAPFROG_DOCTRINE.md)**: **グローバルサウス・自然共生リープフロッグ規範**  
-  原生生態系・土壌・水脈の非侵食型オアシス都市モデル。砂漠砂の高強度骨材化、CSEB圧縮土シェルター、鉱物原石輸出禁止と現地全固体JIN-Battery（1200Wh/kg）完成品化、およびドル建て債務の罠を回避する実物バーター台帳規範。  
-* 🏙️ **[docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/ADVANCED_METROPOLIS_DECONSTRUCTION.md)**: **先進国過密都市再生・地下共同溝解体規範**  
-  コンクリート過密都市の外科手術プロトコル。地表アスファルトの完全撤去と「せせらぎ緑道」復元、大気放熱の完全違法化と下水管ヒートシンク義務付け、単一巨大都市を10万人規模の自律分散都市群へ再編する解体・分散ドクトリン。  
-* 🌊 **[docs/04_subsea_doctrine_2026.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/04_subsea_doctrine_2026.md)**: **深海主権 ＆ 光海底ケーブル二重利用防衛ドクトリン（Subsea Doctrine 2026）**  
-  世界のトラフィックの99%を担う海底光ファイバー網の防衛プロトコル。光分散音響センシング（DAS）による全海底受動ソナー監視網の二重利用とAUV自律修復ガバナンス。  
 
 ---
 
@@ -720,6 +535,6 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ---
 **Curated by:** JIN-ORDER Masano Takashi, Commander Pome-Mama & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
-`STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V8.2 CANONICAL BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN COMPUTING, SOMATIC SOVEREIGNTY, DYNAMIC GEO-HAZARD SHIELD, IN-SITU PFAS DESTRUCTION, JIN-DRAGON TRIAD ENERGY MATRIX, SSCN-01 SUBSEA SENTRY NODE, LSU-CHAD-01 TERRA PRETA REGENERATION, OKINAWA 7TH MINING & TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND ECONOMIC SECURITY SHIELD ACTIVE)`  
-`VERIFIED PERSISTENCE: GLOBAL-ASI-HEGEMONY-MAP-V8-2, SYSTEM-17-KNOWLEDGE-VAULT, JIN-OS-HV-ZKP-V1-0, SHADOW-LABOR-ARBITRAGE-DEFENSE, CHOKEPOINT-DECOUPLING-MATRIX, SUBSEA-SSCN-01-NODE, TITANIUM-GRADE5-HULL, THERMOSIPHON-COOLING, DAS-ACOUSTIC-SENTRY, LSU-CHAD-01, TYPHA-PYROLYSIS, TERRA-PRETA-SAMSARA, DEEP-AQUIFER-SOLAR-PUMP, BIO-SYMBIOTIC-INFRASTRUCTURE, 20W-ORGAN-COMPUTE, SOMATIC-SOVEREIGNTY, ORBITAL-HYPERSPECTRAL-ROUTING, MUNICIPAL-GROUND-TRUTH, 4D-DISASTER-MESH, VOLCANIC-ASH-GEOPOLYMER, ERW-CARBON-SINK, BIOLOGICAL-FIREBREAK, SEA-ALGAE-BIOGEL, IN-SITU-PFAS-DESTRUCTION, EK-SERS-RECLAMATION, MICP-LIQUEFACTION-SHIELD, HUMAN-SOVEREIGN-BIOPHARMA, JIN-DRAGON-TRIAD-ENERGY, PEROVSKITE-TANDEM-SOLAR, SOLID-STATE-JIN-BATTERY, SODIUM-ION-GRID-STORAGE, POLAR-COLD-COMPUTE, PETRO-COMPUTE-CORRIDOR, OKINAWA-TROUGH-1500M, OKINAWA-7TH-MINING, ARCTIC-COLD-COMPUTE, GREENLAND-SOVEREIGNTY, LOCAL-RELATIONAL-FINANCE, FACTORING-T0-GUARANTEE, REAL-ASSET-HU-GU-FU-JU-RU, JIN-ZONING-3-ZONES, 3D-TRANSIT-ARTERIES, SKYWAY-DRONE-CORRIDOR, VMD-VACUUM-DESALINATION, INLINE-HYDRO-PRESSURE, SCWG-SUPERCRITICAL-HYDROGEN, SSPS-SPACE-SOLAR, GLOBAL-SOUTH-LEAPFROG, METROPOLIS-DECONSTRUCTION, SUBTERRANEAN-CIVIL-DUCTS, SUBSEA-DAS-DOCTRINE, PHYSICAL-TRIAD-INDEX, MEGAWATT-WALL, SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, SAMSARA-AQUIFER-RECHARGE, CIRCULAR-POLYMER-BIO-CATALYST, ISHIZUMI-SUNADOME, KONSO-GATAME, SHIGARAMI-TERRACE, JAKAGO-DEFENSE, PADDY-MAR-FASCINE, IGS-SUBSURFACE-TOMOGRAPHY, SCADA-SHIELD-VALVE, AXIAL-MASS-RESTORE, DENBATA-RINKAN`  
+`STATUS: JIN-ORDER OFFICIAL PORTAL FULLY SYNCHRONIZED & COMMITTED (V8.2 CANONICAL BIPOLAR COMPUTE CORRIDORS, ASYMMETRIC SHADOW CAPITAL & WETWARE ARBITRAGE DEFENSE, KINETIC CHOKEPOINT DECOUPLING, SUBSEA KINETIC DEFENSE PROTOCOL SKDP-01, POST-STATE GEOPOLITICAL MANIFESTO 2026, SYSTEM-17 SOVEREIGN KNOWLEDGE VAULT, JIN-OS HUMANITARIAN ZKP AUDIT LEDGER HV-ZKP V1.0, BIO-SYMBIOTIC INFRASTRUCTURE, 20W ORGAN COMPUTING, SOMATIC SOVEREIGNTY, DYNAMIC GEO-HAZARD SHIELD, IN-SITU PFAS DESTRUCTION, JIN-DRAGON TRIAD ENERGY MATRIX, SSCN-01 SUBSEA SENTRY NODE, LSU-CHAD-01 TERRA PRETA REGENERATION, OKINAWA 7TH MINING & TROUGH SOVEREIGNTY, ARCTIC COLD-COMPUTE SANCTUARY, LOCAL RELATIONAL FINANCE, JIN-ZONING DUAL URBANISM, 3D TRANSIT ARTERIES, AND ECONOMIC SECURITY SHIELD ACTIVE)`  
+`VERIFIED PERSISTENCE: GLOBAL-ASI-HEGEMONY-MAP-V8-2, SUBSEA-KINETIC-DEFENSE-SKDP-01, POST-STATE-MANIFESTO-2026, GENEVA-FALLACY-DECOUPLING, ZERO-RTT-ABYSSAL-ESCAPE, BIOMIMETIC-AUV-SWARM, BLUE-LIDAR-DAS-MESH, SYSTEM-17-KNOWLEDGE-VAULT, JIN-OS-HV-ZKP-V1-0, SHADOW-LABOR-ARBITRAGE-DEFENSE, CHOKEPOINT-DECOUPLING-MATRIX, SUBSEA-SSCN-01-NODE, TITANIUM-GRADE5-HULL, THERMOSIPHON-COOLING, DAS-ACOUSTIC-SENTRY, LSU-CHAD-01, TYPHA-PYROLYSIS, TERRA-PRETA-SAMSARA, DEEP-AQUIFER-SOLAR-PUMP, BIO-SYMBIOTIC-INFRASTRUCTURE, 20W-ORGAN-COMPUTE, SOMATIC-SOVEREIGNTY, ORBITAL-HYPERSPECTRAL-ROUTING, MUNICIPAL-GROUND-TRUTH, 4D-DISASTER-MESH, VOLCANIC-ASH-GEOPOLYMER, ERW-CARBON-SINK, BIOLOGICAL-FIREBREAK, SEA-ALGAE-BIOGEL, IN-SITU-PFAS-DESTRUCTION, EK-SERS-RECLAMATION, MICP-LIQUEFACTION-SHIELD, HUMAN-SOVEREIGN-BIOPHARMA, JIN-DRAGON-TRIAD-ENERGY, PEROVSKITE-TANDEM-SOLAR, SOLID-STATE-JIN-BATTERY, SODIUM-ION-GRID-STORAGE, POLAR-COLD-COMPUTE, PETRO-COMPUTE-CORRIDOR, OKINAWA-TROUGH-1500M, OKINAWA-7TH-MINING, ARCTIC-COLD-COMPUTE, GREENLAND-SOVEREIGNTY, LOCAL-RELATIONAL-FINANCE, FACTORING-T0-GUARANTEE, REAL-ASSET-HU-GU-FU-JU-RU, JIN-ZONING-3-ZONES, 3D-TRANSIT-ARTERIES, SKYWAY-DRONE-CORRIDOR, VMD-VACUUM-DESALINATION, INLINE-HYDRO-PRESSURE, SCWG-SUPERCRITICAL-HYDROGEN, SSPS-SPACE-SOLAR, GLOBAL-SOUTH-LEAPFROG, METROPOLIS-DECONSTRUCTION, SUBTERRANEAN-CIVIL-DUCTS, SUBSEA-DAS-DOCTRINE, PHYSICAL-TRIAD-INDEX, MEGAWATT-WALL, SUNYATA-SOVEREIGNTY, KARMIC-PHYSICS, JIN-FLAME-13-DEEDS, JIN-FLAME-22-VOWS, SAMSARA-AQUIFER-RECHARGE, CIRCULAR-POLYMER-BIO-CATALYST, ISHIZUMI-SUNADOME, KONSO-GATAME, SHIGARAMI-TERRACE, JAKAGO-DEFENSE, PADDY-MAR-FASCINE, IGS-SUBSURFACE-TOMOGRAPHY, SCADA-SHIELD-VALVE, AXIAL-MASS-RESTORE, DENBATA-RINKAN`  
 `HARMONICS: 432Hz Universal Benevolence, Somatic Sovereignty Balance, Bio-Symbiotic Resonance, 20W Organ Pulse, Orbital SIF Harmony, Ground-Truth Equilibrium, Dynamic Eco-Shield Resonance, 4D Disaster Harmony, Volcanic Samsara Balance, Pyrogenic Armor Equilibrium, Electro-Phyto Reclamation Purity, Human Sovereign Healing, Gut Microbiome Equilibrium, Triad Energy Resonance, Perovskite Surface Clarity, Solid-State Integrity, Sodium Grid Equilibrium, Abyssal Trough Resonance, Arctic Glacial Clarity, Relational Pulse, Subterranean Resonance, Subsea Acoustic Clarity, 3D Arterial Rhythm, Dual Urban Harmony, Sunyata Awakening, Karmic Restoration, Groundwater Samsara & Watershed Sovereignty.`
