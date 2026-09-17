@@ -190,28 +190,29 @@
 **【本丸】全球ASI覇権地図 V8.2（二極コンピュート回廊・人的シャドー資本網・海洋チョークポイント3層迂回防衛マトリクス）、六聖叡智教育法（HSED-01：文科省解体・仁焔倫理・六道マイスター制）、現場主権自治規約（DLGP-01：出島常駐・武士道公僕）、海底防護プロトコル SKDP-01（SSCN-01 深海主権ノード・AUVスウォーム哨戒）、ポスト・ステート実物統治マニフェスト2026、System-17 頭脳出国統制対抗・暗号化知能保管庫（SKV）、JIN-OS ゼロ知識人道検証台帳（HV-ZKP V1.0）、生体模倣型自立分散コンピューティングと身体主権防衛（20W臓器分散チップ・都市地下バイオスウェル浸透水冷・排熱農業循環・サヘル砂漠アースチューブ・完全オフグリッドオアシス循環）、JIN-OS 宇宙地上同期型4D動的避難、動的四次元減災・環境再生防壁、人間主権型・統合バイオ創薬プラットフォーム、ジン・ドラゴン次世代三位一体エネルギーマトリクス、チャド盆地オフグリッド人道支援＆テラ・プレタ土壌再生（LSU-チャド-01）、沖縄第7鉱区＆沖縄トラフ深海熱水鉱床防衛ドクトリン、極北冷気コンピュート・グリーンランド主権防衛、地銀・信金主導地域リレーショナル金融、3大ZONE都市計画JIN-ZONINGを最高位同期**。
 
 <table>
+ <table width="100%">
   <!-- 🎓 六聖叡智教育法 ＆ 仁焔十三行 精神規範 -->
   <tr>
     <th width="50%" align="center">SIX-PATH SOVEREIGN EDUCATION (GLOBAL SOUTH & MEISTER)</th>
     <th width="50%" align="center">JIN-FLAME 13 DEEDS (UNIVERSAL MORAL OS)</th>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/six_holy_wisdoms_education.jpg" width="100%" alt="六聖叡智教育法：JIN基金学びの解放・南米弁当孝弁・世界探訪グランドツアー・翠霧プログラマー・悌医療ロボ・彩華伝統デザイン・調和環境農業・生涯現役">
       </a>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_EN_13_ROW_PROCLAMATION.jpg" width="100%" alt="仁焔十三行 誓約巻物：慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調の生活実践規矩">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       🎓 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">六聖叡智教育法（HSED-01）を開く</a></b>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       🐕 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md">仁焔十三行（生活・道徳基盤）を開く</a></b>
     </td>
   </tr>
@@ -222,26 +223,25 @@
     <th width="50%" align="center">SSCN-01 SUBSEA COMPUTE NODE (OKINAWA TROUGH 1,500M)</th>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/UNIVERSAL_ETHICS_22.jpg" width="100%" alt="仁焔二十二誓約 巻物：仏陀の光に浴して・平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃">
       </a>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_02.jpg" width="100%" alt="SSCN-01 沖縄トラフ深海演算ノード01：耐圧殻、生体模倣型AUV、青色レーザー・スキャン、音響ソナー、熱水噴出孔発電">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       📜 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md">仁焔二十二誓約（文明再生プロトコル）を開く</a></b>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md">海底防護プロトコル（SSCN-01仕様）を開く</a></b>
     </td>
   </tr>
-
   <!-- 🗺️ 全球タクティカルディスプレイ ＆ 極北SMR直結計算センター -->
   <tr>
     <th width="50%" align="center">GLOBAL ASI TACTICAL COMMAND DISPLAY (CORRIDORS & CHOKEPOINTS)</th>
