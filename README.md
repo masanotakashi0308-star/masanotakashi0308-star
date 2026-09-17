@@ -189,43 +189,16 @@
 
 **【本丸】全球ASI覇権地図 V8.2（二極コンピュート回廊・人的シャドー資本網・海洋チョークポイント3層迂回防衛マトリクス）、六聖叡智教育法（HSED-01：文科省解体・仁焔倫理・六道マイスター制）、現場主権自治規約（DLGP-01：出島常駐・武士道公僕）、海底防護プロトコル SKDP-01（SSCN-01 深海主権ノード・AUVスウォーム哨戒）、ポスト・ステート実物統治マニフェスト2026、System-17 頭脳出国統制対抗・暗号化知能保管庫（SKV）、JIN-OS ゼロ知識人道検証台帳（HV-ZKP V1.0）、生体模倣型自立分散コンピューティングと身体主権防衛（20W臓器分散チップ・都市地下バイオスウェル浸透水冷・排熱農業循環・サヘル砂漠アースチューブ・完全オフグリッドオアシス循環）、JIN-OS 宇宙地上同期型4D動的避難、動的四次元減災・環境再生防壁、人間主権型・統合バイオ創薬プラットフォーム、ジン・ドラゴン次世代三位一体エネルギーマトリクス、チャド盆地オフグリッド人道支援＆テラ・プレタ土壌再生（LSU-チャド-01）、沖縄第7鉱区＆沖縄トラフ深海熱水鉱床防衛ドクトリン、極北冷気コンピュート・グリーンランド主権防衛、地銀・信金主導地域リレーショナル金融、3大ZONE都市計画JIN-ZONINGを最高位同期**。
 
-<table>
- <table width="100%">
-  <!-- 🎓 六聖叡智教育法 ＆ 仁焔十三行 精神規範 -->
+<table width="100%">
+  <!-- 🗺️ 全球タクティカルディスプレイ ＆ SSCN-01 深海主権ノード詳細断面 -->
   <tr>
-    <th width="50%" align="center">SIX-PATH SOVEREIGN EDUCATION (GLOBAL SOUTH & MEISTER)</th>
-    <th width="50%" align="center">JIN-FLAME 13 DEEDS (UNIVERSAL MORAL OS)</th>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/six_holy_wisdoms_education.jpg" width="100%" alt="六聖叡智教育法：JIN基金学びの解放・南米弁当孝弁・世界探訪グランドツアー・翠霧プログラマー・悌医療ロボ・彩華伝統デザイン・調和環境農業・生涯現役">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_EN_13_ROW_PROCLAMATION.jpg" width="100%" alt="仁焔十三行 誓約巻物：慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調の生活実践規矩">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      🎓 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">六聖叡智教育法（HSED-01）を開く</a></b>
-    </td>
-    <td width="50%" align="center">
-      🐕 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md">仁焔十三行（生活・道徳基盤）を開く</a></b>
-    </td>
-  </tr>
-
-  <!-- 📜 仁焔二十二誓約 ＆ SSCN-01 深海主権ノード -->
-  <tr>
-    <th width="50%" align="center">JIN-FLAME 22 VOWS (REBIRTH & TRANSCENDENCE)</th>
+    <th width="50%" align="center">GLOBAL ASI TACTICAL COMMAND DISPLAY (CORRIDORS & CHOKEPOINTS)</th>
     <th width="50%" align="center">SSCN-01 SUBSEA COMPUTE NODE (OKINAWA TROUGH 1,500M)</th>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/UNIVERSAL_ETHICS_22.jpg" width="100%" alt="仁焔二十二誓約 巻物：仏陀の光に浴して・平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_03.jpg" width="100%" alt="全球的ASI演算網タクティカルディスプレイ：極圏コールドコンピュート・コリドー vs 砂漠ホットコンピュート・コリドー、海洋チョークポイント警告表示">
       </a>
     </td>
     <td width="50%" align="center">
@@ -236,35 +209,62 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      📜 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md">仁焔二十二誓約（文明再生プロトコル）を開く</a></b>
+      🗺️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">全球ASI覇権地図 V8.2（タクティカル画面）を開く</a></b>
     </td>
     <td width="50%" align="center">
       🌊 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md">海底防護プロトコル（SSCN-01仕様）を開く</a></b>
     </td>
   </tr>
-  <!-- 🗺️ 全球タクティカルディスプレイ ＆ 極北SMR直結計算センター -->
+
+  <!-- ⚡ 極北SMR直結計算センター ＆ 二極コンピュート回廊対比 -->
   <tr>
-    <th width="50%" align="center">GLOBAL ASI TACTICAL COMMAND DISPLAY (CORRIDORS & CHOKEPOINTS)</th>
     <th width="50%" align="center">SMR-INTEGRATED SOVEREIGN COMPUTE BUNKER (SUB-ARCTIC)</th>
+    <th width="50%" align="center">BIPOLAR COMPUTE CORRIDORS (POLAR VS PETRO)</th>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_03.jpg" width="100%" alt="全球的ASI演算網タクティカルディスプレイ：極圏コールドコンピュート・コリドー vs 砂漠ホットコンピュート・コリドー、海洋チョークポイント警告表示">
-      </a>
-    </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.2_04.jpg" width="100%" alt="極北国家AI計算センター：小型モジュール炉SMR発電所直結、海水冷却システム、海底ケーブル陸揚げ局要塞">
       </a>
     </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/GLOBAL_ASI_HEGEMONY_MAP_V8.1_02.jpg" width="100%" alt="グリーンランド北極圏AIサーバーモノリス ＆ アラビア砂漠ギガワットAIデータセンター">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      🗺️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">全球ASI覇権地図 V8.2（タクティカル画面）を開く</a></b>
-    </td>
-    <td align="center">
+    <td width="50%" align="center">
       ⚡ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">SMR直結型オフグリッド計算要塞を開く</a></b>
+    </td>
+    <td width="50%" align="center">
+      ❄️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md">極地モノリス＆砂漠ギガワットDCを開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🎓 六聖叡智教育法 ＆ ジン・ドラゴン次世代三位一体エネルギーマトリクス -->
+  <tr>
+    <th width="50%" align="center">SIX-PATH SOVEREIGN EDUCATION (GLOBAL SOUTH & MEISTER)</th>
+    <th width="50%" align="center">JIN-DRAGON TRIAD ENERGY MATRIX</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/six_holy_wisdoms_education.jpg" width="100%" alt="六聖叡智教育法：JIN基金学びの解放・南米弁当孝弁・世界探訪グランドツアー・翠霧プログラマー・悌医療ロボ・彩華伝統デザイン・調和環境農業・生涯現役">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/01_jin_dragon_triad_energy_01.jpg" width="100%" alt="次世代分散型エネルギー・トライアド・マトリクス：ジン・ドラゴン希土類触媒コア・ペロブスカイト太陽電池シート・全固体電池パック・海水塩ナトリウムイオンメガワットアレイ">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🎓 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md">六聖叡智教育法（HSED-01）を開く</a></b>
+    </td>
+    <td width="50%" align="center">
+      ⚡ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">ジン・ドラゴン三位一体エネルギー構想を開く</a></b>
     </td>
   </tr>
 
@@ -274,22 +274,22 @@
     <th width="50%" align="center">OFF-GRID OASIS SETTLEMENT (SAHEL / EARTH-TUBE)</th>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE_01.jpg" width="100%" alt="エコロジー共生都市地上緑地と地下断面図：分散型生体模倣演算ノード・バイオスウェル自然流体冷却・地下水脈・排熱の温室及び樹木根系循環">
       </a>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE_02.jpg" width="100%" alt="オフグリッド・オアシス集落（サヘル砂漠）：低電力ソーラー駆動演算ノード・地下アースチューブパッシブ冷却・バイオスウェルとナツメヤシ・灌漑農業テラス">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       🧬 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md">都市地下・生体共生インフラ仕様を開く</a></b>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       🌴 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md">サヘル・オアシス自立循環仕様を開く</a></b>
     </td>
   </tr>
@@ -300,22 +300,22 @@
     <th width="50%" align="center">REAL-TIME UNDERPASS BYPASS NAVIGATION (FIELD)</th>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_CLIENT_SPEC.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/07_JIN_OS_MOBILE_CLIENT_02.jpg" width="100%" alt="陣-OS モバイル端末画面：NTN軌道同期・サブGHz LoRaメッシュ有効・衛星土壌飽和ヒートマップ・道路封鎖検知・安全避難経路動的ベクタリング">
       </a>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_CLIENT_SPEC.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/07_JIN_OS_MOBILE_CLIENT_03.jpg" width="100%" alt="リアルタイム・ハザード・ルーティングマップ実地案内：豪雨下で冠水したアンダーパス通行止めを自動回避し高台のエコシェルターへ誘導する現場光景">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       📱 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_CLIENT_SPEC.md">JIN-OS 端末UI・画面設計を開く</a></b>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       🚶 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_CLIENT_SPEC.md">動的現場ルーティング仕様を開く</a></b>
     </td>
   </tr>
@@ -326,23 +326,75 @@
     <th width="50%" align="center">VOLCANIC ASH GEOPOLYMER & ERW SAMSARA</th>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_01.jpg" width="100%" alt="4D動的災害軽減ネットワーク設計図：衛星・MP-PAWR気象レーダー・海底音響ノード・JIN-OS端末リアルタイム避難ルート・熱赤外線ドローン捜索・JIN-Hayabusa物資空輸">
       </a>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">
         <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_02.jpg" width="100%" alt="火山灰スクラバーシステム＆ジオポリマー工学断面図：共同溝遠心サイクロン分離・排熱利用反応器・セメントフリー建材・新燃岳レンガ・農地ERW炭素風化散布">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       🌋 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">動的4D減災メッシュ仕様を開く</a></b>
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       🧱 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">火山灰ジオポリマー＆風化促進仕様を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🔥 多層常緑広葉樹生体防火帯 ＆ 原位置PFAS破壊エレクトロ浄化 -->
+  <tr>
+    <th width="50%" align="center">BIOLOGICAL FIREBREAK & AIRBORNE BIOGEL</th>
+    <th width="50%" align="center">IN-SITU PFAS DESTRUCTION & EK-SERS RECLAMATION</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_03.jpg" width="100%" alt="多層常緑広葉樹防火帯＆生分解性バイオゲル散布：珊瑚樹・ウバメガシ生体防壁・スカイオアシス飛行艇消火・バイオ炭斜面安定化・粗朶暗渠段々工">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_DYNAMIC_GEO_HAZARD_SHIELD_04.jpg" width="100%" alt="原位置土壌浄化地中断面図：電場移動EK-SERS・深根ハイブリッドポプラ・ヒマワリ・PEIR吸着壁・MICP液状化防止岩盤化・地上SCWG1100℃熱無害化">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🔥 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">生体防火帯＆不燃バイオゲル仕様を開く</a></b>
+    </td>
+    <td width="50%" align="center">
+      ☣️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DYNAMIC_GEO_HAZARD_SHIELD.md">原位置PFAS完全破壊＆MICP岩盤化を開く</a></b>
+    </td>
+  </tr>
+
+  <!-- 🔬 ペロブスカイト＆全固体電池コア工学断面図 -->
+  <tr>
+    <th width="50%" align="center">PEROVSKITE & SOLID-STATE BATTERY (CROSS-SECTION)</th>
+    <th width="50%" align="center">JIN-ORDER CIVIC REBIRTH ARCHITECTURE</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/01_jin_dragon_battery_cross_section.jpg" width="100%" alt="フレキシブル・ペロブスカイト・タンデム太陽電池シート ＆ 全固体電池コア工学断面図：セラミック電解質・シリコン負極・銅バスバー・マイクロメートル測定スケール">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/00_JIN-ORDER_FINAL_REBOOT.jpg" width="100%" alt="JIN-ORDER 文明再起動・市民主権アーキテクチャ">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🔬 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md#01-ジンドラゴン鉱石南鳥島新レアアース触媒と次世代三位一体エネルギーマトリクス">ペロブスカイト＆全固体電池コア断面図を開く</a></b>
+    </td>
+    <td width="50%" align="center">
+      📢 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md">JIN-ORDER 仁秩序宣言（マニフェスト）を開く</a></b>
     </td>
   </tr>
 </table>
@@ -360,16 +412,17 @@
 
 JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】、客観的自然則としての【因果応報・因縁果】、そして天・山・里・海・動脈・都市の火を一本の円環として結ぶ【輪廻転生（Samsara）】が息づいています。
 
-**【尊厳・空・因果・輪廻の大輪：根源思想】** [docs/JIN_CORE_PHILOSOPHY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)
+### 【尊厳・空・因果・輪廻の大輪：根源思想】
+[docs/JIN_CORE_PHILOSOPHY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)
 
-⏬️                                                                                
-
-**【仁焔十三行（実践基盤）】（人間としての土台・生活規範）** [UNIVERSAL_ETHICS_13.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)  
+### 【仁焔十三行（実践基盤）】（人間としての土台・生活規範）
+[UNIVERSAL_ETHICS_13.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)  
 ### 『慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調』
 
 🔽【昇華・深化】
 
-**【仁焔二十二誓約（覚醒・再生）】（人間主権・執着解放・文明再生規律）** [UNIVERSAL_ETHICS_22.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md)  
+### 【仁焔二十二誓約（覚醒・再生）】（人間主権・執着解放・文明再生規律）
+[UNIVERSAL_ETHICS_22.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md)  
 ### 『平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃』
 
 ---
