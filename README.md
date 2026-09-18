@@ -671,7 +671,7 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ただし、**JIN-ORDERのデザイン、コンセプト、工学図面、土木仕様、および各種データの商用利用、公共事業委託、政策化、または別プロジェクトへの転用を希望する場合**は、必ず事前に以下の公式窓口までご連絡ください。ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。無断転用、中抜き、アイデア・ロンダリング、受託コンサルタントによる成果物偽装は固く禁じます。
 
 * 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`  
-* 📄 **規約全文:** [JIN-ORDER Global Humanity & Ethical Sovereign Dual License (V8.1 Canonical Edition)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)  
+* 📄 **規約全文:** [JIN-ORDER Global Humanity & Ethical Sovereign Dual License (V8.2 Canonical Edition)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)  
 * 🤝 **開拓知恵寄託指針:** [CONTRIBUTING.md (現場知恵合流・倫理SOP)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)  
 * 🚨 **不正・無断仕様化の告発:** [利権簒奪・政策ロンダリング 告発窓口 (audit_report.md)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/issues/new?template=audit_report.md)
 
