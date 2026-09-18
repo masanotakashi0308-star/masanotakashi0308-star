@@ -154,7 +154,7 @@
 [![PIONEER SOP](https://img.shields.io/badge/PIONEER--SOP-UNHCR_CSEB_&_Fascine-forestgreen.svg)](#)
 [![CONTRIBUTING](https://img.shields.io/badge/CONTRIBUTING-PIONEER_SOP-forestgreen.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)
 [![AUDIT DESK](https://img.shields.io/badge/AUDIT-REPORT_DESK-red.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/issues/new?template=audit_report.md)
-[![LICENSE](https://img.shields.io/badge/LICENSE-V8.1_DUAL_LICENSE-gold.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)
+[![LICENSE](https://img.shields.io/badge/LICENSE-V8.2_DUAL_LICENSE-gold.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)
 
 ![JIN-ORDER AMATERASU NEW DAWN](https://raw.githubusercontent.com/masanotakashi0308-star/masanotakashi0308-star/main/jin_order_amaterasu_new_dawn.jpg)
 
