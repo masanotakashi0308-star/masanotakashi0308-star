@@ -26,6 +26,26 @@
 > All base technologies, civil codes, and ecological defense mechanisms belong to the global commons under Tier A Commons (CC-BY-4.0). Any attempt at private patent monopolization, closed commercial capture, or unauthorized appropriation is invalid against these established prior art registries.
 
 ---
+## 🇺🇳 UN Partner Portal Submissions & Field Implementation Pipeline
+
+| Application ID | Project Title | Agency | Target Country | Modality / Sector | Status | Submitted Date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **95525** | JIN-IFP: Autonomous Oasis Cities for Refugee Self-Reliance and Climate Resilience ([LSU-CHAD-01 Specification](./specs/CHAD_BASIN_OFFGRID_REGENERATION.md)) | UNHCR | Chad | Unsolicited Concept Note<br>*(WASH, Self-reliance, Environment, Shelter)* | **Under Review** | 2026-08 |
+| **108498** | CALL FOR EXPRESSIONS OF INTEREST (CfeOI) - UNHCR Protection and Solutions Programme in Mozambique (Outcome Area 9: Housing and settlement solutions) | UNHCR | Mozambique | Open Selection (CFEI/HCR/MOZ/2026/014)<br>*(Shelter construction, Reconstruction, Disaster Preparedness)* | **Under Review** | 2026-09-05 (Updated: 2026-09-16) |
+
+### Strategic Execution Notes:
+- **Application ID 95525 (Chad Basin):** チャド湖周辺・難民定住地でのオフグリッド自立人道支援ユニット（LSU-チャド-01）。地下350m深層帯水層からのソーラー揚水、侵略的外来種テッポウウリ（Typha）の無煙炭化によるテラ・プレタ（Terra Preta）黒色土壌再生を実装。
+- **Application ID 108498 (Mozambique):** UNHCR Mozambique Multi-Country Office (MCO) への公式選定公募対応。JIN-IFP分散型物理インフラマトリクスを熱帯サイクロン常襲地域および避難民集積地（カボ・デルガード州 / ナンプラ州）へ即時展開。現地調達土ブロック（CSEB）製造と粗朶暗渠・一体型流況治水を標準化。
+- 📄 **UNHCR公式技術追補規格:** [docs/UNHCR_TECHNICAL_ADDENDUM_2026.md](./docs/UNHCR_TECHNICAL_ADDENDUM_2026.md)（チャド盆地・モザンビーク両案件へのECO-001〜FIN-005現場実装アドオン）
+- 📄 **ゼロ知識遠隔保守・ポカヨケ規格:** [docs/JIN-SPEC-OPS-004.md](./docs/JIN-SPEC-OPS-004.md)（ZK-PoM・単一M16規格・身体性ポカヨケ・労務搾取根絶）
+- 📄 **実物資源担保・人道決済仕様:** [docs/JIN-SPEC-FIN-005.md](./docs/JIN-SPEC-FIN-005.md)（HU/JU/FU/WU実物引換ペッグ・送金中抜きゼロ・焼却消却）
+- 📄 **人道暗号検証台帳規格:** [docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md](./docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)（ゼロ知識証明によるピンハネ根絶型多通貨人道フロー）
+- 📄 **水循環・溶存酸素再生仕様:** [docs/JIN-SPEC-ECO-001.md](./docs/JIN-SPEC-ECO-001.md)（Net-Positive DO放流・貧酸素水塊成層破壊）
+- 📄 **多重冗長化土木WASH仕様:** [docs/JIN-SPEC-WASH-002.md](./docs/JIN-SPEC-WASH-002.md)（管路切断耐性バイパス・階段状落差工・人工湿地）
+- 📄 **余剰電力調停プロトコル:** [docs/JIN-SPEC-PWR-003.md](./docs/JIN-SPEC-PWR-003.md)（Dump Load能動曝気・暗号計算動的バランシング）
+- 📄 **詳細ログ:** [JIN_UN_PARTNER_PORTAL_PIPELINE.md](./docs/JIN_UN_PARTNER_PORTAL_PIPELINE.md)
+
+---
 ## ⚡ 30秒でわかる JIN-ORDER（TL;DR）
 
 * **【What（何を目指すのか）】**  
