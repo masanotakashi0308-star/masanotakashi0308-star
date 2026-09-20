@@ -395,6 +395,131 @@
 
 ---
 
+## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (25大先端技術体系)
+
+全生命の生存基盤を守り抜く25大インフラ（エネルギー、地球工学、生体共生、主権計算、海洋防衛、人道再生、地域金融、統合医療）の詳細エンジニアリング仕様書。
+
+1. **生体臓器分散型コンピューティング（20W Organ-Decentralized Computing）＆ 身体主権防衛**: 人体代謝（約20W）を模倣した異種チップレット（大脳倫理・小脳物理・自律神経冷却・インメモリシナプス）。侵襲的サイボーグ化を拒絶し、都市地下バイオスウェル浸透水冷およびサヘル砂漠アースチューブによる自然共生インフラ。
+2. **ジン・ドラゴン次世代三位一体エネルギーマトリクス（Jin-Dragon Triad Energy Matrix）**: ペロブスカイト光半導体シート（脱インジウム・変換効率35%）× 全固体Jin-Battery（1,200Wh/kg・発火ゼロ・4分急速充電）× 海洋塩ナトリウムイオン蓄電（VMD排塩水資源化・低コスト定置型）。
+3. **水中自律計算 ＆ ケーブル哨戒ノード（SSCN-01 Subsea Sovereign Node）**: 沖縄トラフ1,500m深海配備。二重チタンGrade 5耐圧容器、DAS受動ソナー哨戒、受動的サーモサイフォン海流冷却（WUE=0.00・PUE=1.01）、PQC量子暗号通信、係留式ステルスマイクロブイ。
+4. **サヘル乾燥地帯オフグリッド人道再生（LSU-Chad-01 Terra Preta Matrix）**: 外来種テッポウウリ（Typha）無煙バイオ炭熱分解、テラ・プレタ黒色保水土壌改質、地下350m深層帯水層ソーラー揚水、多段階セラミックろ過、密閉貯水槽。
+5. **低温減圧膜蒸留（VMD海水淡水化）＆ 濃縮ブライン完全資源化（ZLD）**: AI排熱低温沸騰、造水電力<0.8kWh/m³、排塩水ゼロ海洋流出・ミネラル100%結晶回収。
+6. **上下水道管内インラインマイクロ水力 ＆ 超臨界水ガス化（SCWG）水素**: 管路過剰水圧の24時間ベースロード発電、下水汚泥・剪定枝の乾燥ゼロ超臨界水素化。
+7. **都市地下多用途共同溝統合型液浸コンピュート（JIN-Subterranean Duct Compute）＆ JIN-ZONING**: 下水熱交換ループ直結・WUEゼロ完全閉ループ、排熱100%地域カスケード熱供給、熱力学用途地域制。
+8. **宇宙太陽光発電（SSPS）温室一体型レクテナ受電**: 5.8GHzマイクロ波受電、透過型レクテナ屋根（光透過率70%）、昼夜天候不問ギガワット給電。
+9. **JIN-Lifeblood Express ＆ 光合成道路（PRS）＆ 酸素排出生体モビリティ（LMC）**: 磁気浮上リニア基礎同軸±500kV HVDC送電・水素輸送、道路表層-15℃冷却・NOx分解、車載光触媒純酸素排出、安全運転徳マイニング（PoSDV）。
+10. **現代版北前船（硬翼帆ウィンドアシスト内航ハイブリッド）**: 自動制御カーボン硬翼帆、浅海進入トリマラン船型、魚油BDFハイブリッド無炭素ピストン輸送。
+11. **河川上空ドローン法定航路（Skyway）＆ 水陸両用飛行艇（Sky Oasis）**: 一級河川上空50〜150m法定回廊、大型VTOLカーゴJIN-Hayabusa自律空輸、外洋着水対応人道飛行艇。
+12. **光分散音響センシング（DAS）全海底受動ソナー防衛網**: 海底光ファイバー二重利用、10⁻¹² strain高分解能音響探知、AUV自律修復。
+13. **沖縄第7鉱区 ＆ 沖縄トラフ深海熱水鉱床資源防衛（JIN-OAM / AUV自律採掘 / 閉鎖系二重管スラリーオンサイト揚泥）**
+14. **自律帯水層かん養・クローズドループ復水システム（JIN-SARP / TSMCチップ直接水冷＆エコリチャージ無酸素加圧注水＆計算廃熱融雪・温室カスケード＆IGS地下水脈3D透視＆SCADA物理サーキットブレーカー）**
+15. **海溝調和・海底地殻鍼灸ノード（JIN-OAM Node / IGS散乱場透視＆プレート歪み解放＆津波ゼロ次検知）**
+16. **古来源頭部土砂抑止・山腹崩壊防護工法（堂々川型石積砂留・松枝土砂多層混層固め・竹蛇籠積層・等高線しがらき工）**
+17. **海陸共生型酵素ケミカルリサイクル（JIN-CPC / みどり麹PETase酵素生合成＆籾殻炭モリブデン常圧湿気分解＆計算廃熱カスケード＆船内マイクロプラスチック連続消化）**
+18. **伝統田畑輪換・三毛作自給肥料循環体系（早生米×大豆輪換・大豆根粒菌窒素固定・額縁明渠・高畝・草木灰カリウム・刈敷）**
+19. **人間主権型・統合バイオ創薬プラットフォーム（JIN-IBP / ユーグレナ×みどり麹 ＆ 発酵生薬アグリコン吸収 ＆ AI精密標的抗菌Enterololin ＆ 次世代生菌薬LBP ＆ 包括医療食「孝弁」処方）**
+20. **砂漠砂改質・高強度骨材精製プラント（トヨタ精製連携 / 現地風成砂・浚渫土100%活用CSEBブロック）**
+21. **グリーンランド極北外気直接冷却（Free-Cooling / 氷河水力 / Koubenドーム排熱暖房）**
+22. **地銀・信金主導ローカル・ファクタリング（T+0即日売掛保証 / 実物生命資産担保台帳HU・GU・FU・JU・RU）**
+23. **次世代半導体製造（国内自立ファブ ＆ 2nm GAA / HBM4積層 / 3.5D CoWoS主権）**
+24. **量子暗号と分散型AIグリッド（ジン・ネット / BB84プロトコル / 耐EMP自律P2Pメッシュ）**
+25. **JIN-OS：新パラダイム統合司令端末（Benevolence Client / 宇宙衛星EnMAPハイパースペクトル＆自治体目視同期4D動的避難 / 920MHz Sub-GHz LoRaメッシュ / DTNバケツリレー / 光量子耐タンパー）**
+
+👉 **[25大技術体系カタログ（TECHNOLOGY_CATALOG.md）を開く](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md)**
+
+---
+
+## 🕊️ THE VOICE OF HEROES & SALVATION PIPELINE (開拓英雄の叫びと救済パイプライン)
+
+* 📜 **[JIN_OS_HUMANITARIAN_ZKP_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)**  
+  **ゼロ知識人道検証台帳（HV-ZKP V1.0）**：UNHCR/WFP連携・ピンハネ根絶・生体ID秘匿検証・Calorie/Hydration/Power実物担保規格。
+* 🇺🇳 **[JIN_UN_PARTNER_PORTAL_PIPELINE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_UN_PARTNER_PORTAL_PIPELINE.md)**  
+  **国連パートナーポータル（UNHCR）提出・現場実装パイプライン**：チャド（ID 95525: 自律オアシス都市構想・[LSU-チャド-01仕様連動](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/CHAD_BASIN_OFFGRID_REGENERATION.md)）およびモザンビーク（ID 108498: 耐久シェルター・流況治水）公式提出ログ・現場実証記録。
+* 📢 **[VOICE_OF_HEROES.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/VOICE_OF_HEROES.md)**  
+  ガザ、シリア、シリコンバレー、サヘルから届いた現場通信ログ。難民から「青洲兵」へと覚醒した開拓英雄たちの魂の記録。
+* 🛡️ **[PIONEER_FIELD_MANUAL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/PIONEER_FIELD_MANUAL.md)**  
+  **開拓英雄実務必携（現場SOPマニュアル V7.6）**：水脈調査、空き家改修、UNHCR公認CSEB圧縮土ブロック施工、オフグリッド電源立ち上げ、地域対話、必携装備チェックリスト。
+* 📱 **[JIN_OS_CLIENT_SPEC.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_OS_CLIENT_SPEC.md)**  
+  **個人主権クライアント端末仕様書 (V8.1 Canonical)**：UI画面遷移、宇宙衛星EnMAPハイパースペクトル＆自治体現場実査同期、4D動的避難ルーティング、920MHz帯Sub-GHz LoRaメッシュ、遅延耐性DTNバケツリレー、心のサロン（寂しさ買取）。
+* 🌑 **[THE_VOID_REPORT.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/THE_VOID_REPORT.md)**  
+  二極覇権がもたらしたアルゴリズム的虚無・精神的荒廃・特許フードによる生体家畜化の告発と、全生命救済の必然性レポート。
+* 🛡️ **[JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HUMANITARIAN_CORRIDOR_PROTOCOL.md)**  
+  紛争地における暗号化不可侵検証および自律型人道安全回廊プロトコル。
+* 🏥 **[JIN_HEALTH.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_HEALTH.md)**  
+  **全自動医療要塞・自律型生体防衛仕様**：ナノバブル公衆浴場、完全循環下水、薬膳Koubenによる生命主権。
+
+> **「銀狼の飢えと、仁の心が交わる時。今夜、世界は生まれ変わる。」**  
+> *The hunger of the Wolf meets the Heart of JIN. The world is reborn tonight.*
+
+---
+
+## 🌸 JIN-ORDER 根源思想：尊厳と空、そして輪廻の大輪（Dignity, Sunyata, Causality & Samsara）
+
+> ### 【過酷に『生』きることは、『死』ぬことより辛い！】
+>
+> **人は、生まれながらの「身分」・「人種」・「財産」によって『価値』が決まるものではない。**  
+>
+> **過酷に生き抜いた、その人間にしか描けない軌跡の中でこそ、真の「価値」が産まれるのであって、その「価値」は、一部の上級国民（貴族・エリート層）や「時の指導者」によって左右されるものではない！**  
+>
+> **国の指導者とは、五穀豊穣を願いながら、天下万民を笑顔にするために政（まつりごと）を司る者であり、単なる「民草」の代弁者（代表）に過ぎない。**  
+>
+> — *JIN-ORDER 民草主権根本誓約（Commander Pome-Mama）*
+
+---
+
+JIN-ORDERが実装する自律分散インフラの根底には、古代の智慧である【天上天下唯我独尊】と【色即是空・空即是色】、客観的自然則としての【因果応報・因縁果】、そして天・山・里・海・動脈・都市の火を一本の円環として結ぶ【輪廻転生（Samsara）】が息づいています。
+
+### 【尊厳・空・因果・輪廻の大輪：根源思想】
+[docs/JIN_CORE_PHILOSOPHY.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)
+
+### 【仁焔十三行（実践基盤）】（人間としての土台・生活規範）
+[UNIVERSAL_ETHICS_13.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)  
+### 『慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調』
+
+🔽【昇華・深化】
+
+### 【仁焔二十二誓約（覚醒・再生）】（人間主権・執着解放・文明再生規律）
+[UNIVERSAL_ETHICS_22.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md)  
+### 『平等・解脱・共生・中道・再生・慈悲・調和・共有・放棄・自由・癒し・正念・守護・叡智・悔悟・導引・布施・正業・継承・中立・無尽灯・涅槃』
+
+---
+
+👉 **[根源思想綱領全文を読む（JIN_CORE_PHILOSOPHY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**  
+👉 **[仁焔十三行（生活・徳目実践基盤）を開く（UNIVERSAL_ETHICS_13.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**  
+👉 **[仁焔二十二誓約（文明再生プロトコル）を開く（UNIVERSAL_ETHICS_22.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_22.md)**  
+
+---
+
+## 💖 GITHUB SPONSORS & CONTRIBUTIONS (支援・協働・参画の枠組み)
+
+一般社団法人JIN-ORDERは、特定の巨大テック企業や金融資本の思惑から完全に独立した「中立・恒久の市民防衛コモンズ」として運営されています。
+
+### 支援金（Sponsorship）の使途ビジョン
+いただいたスポンサーシップ・寄付は、以下の目的に厳格に充当されます：
+
+1. **思想・インフラ仕様書の恒久保存:** 耐量子・分散型ストレージによる知的資産の保護と改ざん防止
+2. **現場実証実験（PoC）の推進:** 地域食ハブ、粗朶暗渠、オフラインLoRaメッシュ網の資材調達・フィールド実証
+3. **市民監査・オープンガバナンス環境の維持:** 利権簒奪を防ぐ監査体制の確立と次世代への継承
+
+* 💖 **GitHub Sponsors でプロジェクトを支援する:** [Sponsor @masanotakashi0308-star](https://github.com/sponsors/masanotakashi0308-star)
+* 🤝 **開拓英雄として現場知恵を寄託する:** [CONTRIBUTING.md (知恵合流SOP)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)
+* 📩 **法人協働・共同実証のご相談:** `jin.reparation.cfo@gmail.com`
+
+---
+
+## ⚖️ LICENSE & AUDIT (ライセンスおよび遵守規定)
+
+本アーカイブの個人的な閲覧、非営利目的での共有（真実の探求と啓蒙）は歓迎します。  
+ただし、**JIN-ORDERのデザイン、コンセプト、工学図面、土木仕様、および各種データの商用利用、公共事業委託、政策化、または別プロジェクトへの転用を希望する場合**は、必ず事前に以下の公式窓口までご連絡ください。ライセンス契約および知的財産の活用審査は、JIN-ORDER CFO（最高財務責任者）が直接執り行います。無断転用、中抜き、アイデア・ロンダリング、受託コンサルタントによる成果物偽装は固く禁じます。
+
+* 📩 **JIN-ORDER Official Contact:** `jin.reparation.cfo@gmail.com`  
+* 📄 **規約全文:** [JIN-ORDER Dual License V8.3-A (Canonical Infrastructure Edition)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)  
+* 🛡️ **権利行使・監査方針:** [ENFORCEMENT-POLICY.md (不正利用・盗用に対する調査及び権利行使方針)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/governance/ENFORCEMENT-POLICY.md)  
+* 🤝 **開拓知恵寄託指針:** [CONTRIBUTING.md (現場知恵合流・倫理SOP)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONTRIBUTING.md)  
+* 🚨 **不正・無断仕様化の告発:** [利権簒奪・政策ロンダリング 告発窓口 (audit_report.md)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/issues/new?template=audit_report.md)
+
+---
+
 ## 🌸 BLOOM IN THE MUD
 
 > **「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ。」**  
