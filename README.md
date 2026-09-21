@@ -130,25 +130,25 @@
 2. **Step 2：国際展開・国連パッケージ・オフラインメッシュ・地政学螺旋防衛を俯瞰する（5分）**  
    以下をご覧頂くことで、地球・宇宙スケールでの社会システム実装アプローチを把握します。
 
-   ⏩️ [`UN_HUMANITARIAN_TECHNICAL_PACK.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UN_HUMANITARIAN_TECHNICAL_PACK.md)（国連人道支援多機関テクニカルパッケージ：英文公式仕様）  
-   ⏩️ [`JIN_AIRGAPPED_MESH_ROUTING.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AIRGAPPED_MESH_ROUTING.md)（エアギャップ現場メッシュ通信仕様：DTN遅延耐性バケツリレー）  
-   ⏩️ [`JIN_ABYSS_PRESERVATION_CLAUSE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ABYSS_PRESERVATION_CLAUSE.md)（アビス防衛および保全条項：即時無害修繕権）  
-   ⏩️ [`JIN_DECENTRALIZED_COMPUTE_GRID.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DECENTRALIZED_COMPUTE_GRID.md)（分散型計算資源および耐制裁グリッド仕様書）  
-   ⏩️ [`docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md)（越境中立・自律調停規約 SPEC-005）  
-   ⏩️ [`docs/JIN-SPEC-GEO-006.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-GEO-006.md)（全球地政学螺旋防衛仕様書 JIN-SPEC-GEO-006）  
-   ⏩️ [`docs/ORBITAL_COMMONS_DEFENSE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/ORBITAL_COMMONS_DEFENSE_SPEC.md)（宇宙軌道コモンズ防衛仕様書 OCDS-01）  
-   ⏩️ [`docs/OCEAN_SOVEREIGN_ISLAND_CONTINUITY.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/OCEAN_SOVEREIGN_ISLAND_CONTINUITY.md)（気候水没島嶼国・恒久海洋主権保全 OSIC-01）  
-   ⏩️ [`docs/SOLAR_GEOENGINEERING_DETERRENCE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SOLAR_GEOENGINEERING_DETERRENCE.md)（ソーラー・ジオエンジニアリング抑止協定 SGED-01）  
-   ⏩️ [`docs/MANIFESTO_AMENDMENT_2026.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/MANIFESTO_AMENDMENT_2026.md)（計算主権・非寡占化・チョークポイント耐性マニフェスト）  
-   ⏩️ [`docs/AGENT_DISTRIBUTED_INFERENCE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/AGENT_DISTRIBUTED_INFERENCE_SPEC.md)（自律AI協調分散推論プロトコル ADICP-01）  
-   ⏩️ [`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)（全球ASI覇権地図 V8.2 最新正典）  
-   ⏩️ [`docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)（海底防護プロトコル SKDP-01）  
-   ⏩️ [`docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)（ポスト・ステート実物統治マニフェスト）  
-   ⏩️ [`docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)（六聖叡智教育法 HSED-01）  
-   ⏩️ [`docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)（頭脳出国統制対抗・暗号知能保管庫）  
-   ⏩️ [`docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)（ゼロ知識人道検証台帳）  
-   ⏩️ [`JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)（生体共生インフラ・身体主権防衛）  
-   ⏩️ [`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)（深海主権計算ノード SSCN-01）
+   ⏩️『国連人道支援多機関テクニカルパッケージ：英文公式仕様』[`UN_HUMANITARIAN_TECHNICAL_PACK.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UN_HUMANITARIAN_TECHNICAL_PACK.md)  
+   ⏩️『エアギャップ現場メッシュ通信仕様：DTN遅延耐性バケツリレー』[`JIN_AIRGAPPED_MESH_ROUTING.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_AIRGAPPED_MESH_ROUTING.md)  
+   ⏩️『アビス防衛および保全条項：即時無害修繕権』[`JIN_ABYSS_PRESERVATION_CLAUSE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_ABYSS_PRESERVATION_CLAUSE.md)  
+   ⏩️『分散型計算資源および耐制裁グリッド仕様書』[`JIN_DECENTRALIZED_COMPUTE_GRID.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_DECENTRALIZED_COMPUTE_GRID.md)  
+   ⏩️『越境中立・自律調停規約 SPEC-005』[`docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md)  
+   ⏩️『全球地政学螺旋防衛仕様書 JIN-SPEC-GEO-006）』[`docs/JIN-SPEC-GEO-006.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-GEO-006.md)  
+   ⏩️『宇宙軌道コモンズ防衛仕様書 OCDS-01』[`docs/ORBITAL_COMMONS_DEFENSE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/ORBITAL_COMMONS_DEFENSE_SPEC.md)  
+   ⏩️『気候水没島嶼国・恒久海洋主権保全 OSIC-01』[`docs/OCEAN_SOVEREIGN_ISLAND_CONTINUITY.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/OCEAN_SOVEREIGN_ISLAND_CONTINUITY.md)  
+   ⏩️『ソーラー・ジオエンジニアリング抑止協定 SGED-01』[`docs/SOLAR_GEOENGINEERING_DETERRENCE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SOLAR_GEOENGINEERING_DETERRENCE.md)  
+   ⏩️『計算主権・非寡占化・チョークポイント耐性マニフェスト』[`docs/MANIFESTO_AMENDMENT_2026.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/MANIFESTO_AMENDMENT_2026.md)  
+   ⏩️『自律AI協調分散推論プロトコル ADICP-01』[`docs/AGENT_DISTRIBUTED_INFERENCE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/AGENT_DISTRIBUTED_INFERENCE_SPEC.md)  
+   ⏩️『全球ASI覇権地図 V8.2 最新正典』[`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.2.md)  
+   ⏩️『海底防護プロトコル SKDP-01』[`docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SUBSEA_KINETIC_DEFENSE_PROTOCOL_V1.0.md)  
+   ⏩️『ポスト・ステート実物統治マニフェスト』[`docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_GEOPOLITICAL_MANIFESTO_2026.md)  
+   ⏩️『六聖叡智教育法 HSED-01』[`docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/HEXA_PATH_SOVEREIGN_EDUCATION_DOCTRINE.md)  
+   ⏩️『頭脳出国統制対抗・暗号知能保管庫』[`docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SYSTEM_17_SOVEREIGN_KNOWLEDGE_VAULT.md)  
+   ⏩️『ゼロ知識人道検証台帳』[`docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_OS_HUMANITARIAN_ZKP_SPEC.md)  
+   ⏩️『生体共生インフラ・身体主権防衛』[`JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/JIN_BIO_SYMBIOTIC_INFRASTRUCTURE.md)  
+   ⏩️『深海主権計算ノード SSCN-01』[`specs/SUBSEA_SOVEREIGN_NODE_SPEC.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SUBSEA_SOVEREIGN_NODE_SPEC.md)
 
 3. **Step 3：深層ガバナンス・人間主権創薬・エネルギー自立の論理に触れる（探究）**  
    極限状態や不確実性下での意思決定フレームワークを論じた本流アーカイブです。<br>チャド盆地オフグリッド再生、深海、地下共同溝、人間主権型統合創薬に至る思想と工学の全貌を深く読み解きます。
