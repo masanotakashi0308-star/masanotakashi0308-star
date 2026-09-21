@@ -620,7 +620,7 @@
     </td>
   </tr>
 
-  <!-- 🌊 水生態基盤・溶存酸素再生（ECO-001） ＆ 🚰 多重冗長化土木WASH（WASH-002） -->
+  <!-- 🌊 水生態基盤・溶存酸素再生（ECO-001） ＆ 🚰 多重冗長化土木WASH（WASH-002） （修正済み：WASH_002_01.jpg） -->
   <tr>
     <th width="50%" align="center">REGENERATIVE ECO-HYDROLOGY & OXYGENATION (JIN-SPEC-ECO-001)</th>
     <th width="50%" align="center">FAULT-TOLERANT WASH & HYDRAULIC REDUNDANCY (JIN-SPEC-WASH-002)</th>
@@ -633,7 +633,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-WASH-002.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_SPEC_WASH-002_01.jpg" width="100%" alt="弾力性のある生態学的WASH水処理システム概要：階段的曝気カスケード、多孔質ブロック水路、人工植生浄化湿地、モジュラーHDPEバイパス管">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_SPEC_WASH_002_01.jpg" width="100%" alt="弾力性のある生態学的WASH水処理システム概要：階段的曝気カスケード、多孔質ブロック水路、人工植生浄化湿地、モジュラーHDPEバイパス管">
       </a>
     </td>
   </tr>
@@ -802,7 +802,7 @@
     </td>
   </tr>
 
-  <!-- ⚡ 極北SMR直結計算センター ＆ 二極コンピュート回廊対比（修正済み） -->
+  <!-- ⚡ 極北SMR直結計算センター ＆ 二極コンピュート回廊対比（修正済み：imgタグ復元） -->
   <tr>
     <th width="50%" align="center">SMR-INTEGRATED SOVEREIGN COMPUTE BUNKER (SUB-ARCTIC)</th>
     <th width="50%" align="center">BIPOLAR COMPUTE CORRIDORS (POLAR VS PETRO)</th>
@@ -984,7 +984,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (25大先端技術体系)
