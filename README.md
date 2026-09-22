@@ -1,7 +1,7 @@
 # General Incorporated Association JIN-ORDER
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
 * 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-22 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260921233119/https://github.com/masanotakashi0308-star)
-### 【2026秋 正典配備】3大グローバル作戦 ＆ 国際人道白書（V10.0 Canonical Autumn LTS）
+### 【2026秋 正典配備】3大グローバル作戦 ＆ 八柱民草主権（V10.1 Canonical Autumn LTS）
 
 ---
 <!-- INTERNATIONAL MULTILATERAL REGISTRATION & COMMONS DEFENSE STATUS -->
@@ -21,9 +21,9 @@
 > 1. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
 > 2. **UNDRR / PreventionWeb**: Technical publication `JIN_DYNAMIC_GEO_HAZARD_SHIELD.md` officially deposited and indexed as Sendai Framework Prior Art (2026).
 > 3. **UNHCR / United Nations Partner Portal (UNPP)**:
->     - **Global Partner Organization Record**: 一般社団法人JIN-ORDER (Partner ID: `64636`).
->     - **LSU-Chad-01 Architecture**: Autonomous Oasis Cities for Refugee Self-Reliance & Climate Resilience (Application ID: `95525`).
->     - **Mozambique Resilience Mission**: Housing and Settlement Solutions / Cyclone & Flood Civil Defense (Application ID: `108498`).
+>    - **Global Partner Organization Record**: 一般社団法人JIN-ORDER (Partner ID: `64636`).
+>    - **LSU-Chad-01 Architecture**: Autonomous Oasis Cities for Refugee Self-Reliance & Climate Resilience (Application ID: `95525`).
+>    - **Mozambique Resilience Mission**: Housing and Settlement Solutions / Cyclone & Flood Civil Defense (Application ID: `108498`).
 > 
 > **Legal Covenants**:  
 > All base technologies, civil codes, and ecological defense mechanisms belong to the global commons under Tier A Commons (CC-BY-4.0). Any attempt at private patent monopolization, closed commercial capture, or unauthorized appropriation is invalid against these established prior art registries.
@@ -41,6 +41,7 @@
 - **Application ID 64636 (Global Partner Record):** 一般社団法人JIN-ORDER公式パートナー認証。日・印・伊の三極協調プロトコル、JINデジタル市民証、およびPomeプロトコルによる人道支援決済基盤を国際展開。
 - **Application ID 95525 (Chad Basin):** チャド湖周辺・難民定住地でのオフグリッド自立人道支援ユニット（LSU-チャド-01）。地下350m深層帯水層からのソーラー揚水、侵略的外来種テッポウウリ（Typha）の無煙炭化によるテラ・プレタ（Terra Preta）黒色土壌再生を設計。
 - **Application ID 108498 (Mozambique):** UNHCR Mozambique Multi-Country Office (MCO) への公式選定公募対応。JIN-IFP分散型物理インフラマトリクスを熱帯サイクロン常襲地域および避難民集積地（カボ・デルガード州 / ナンプラ州）へ即時展開。現地調達土ブロック（CSEB）製造と粗朶暗渠・一体型流況治水を標準化。
+- 📄 **八柱民草主権・生活基盤自立連盟仕様書:** [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)（REF: JIN-SPEC-LIV-008・技・衣・食・住・地・道・金・医の完全生活防衛マトリクス）
 - 📄 **2026秋 戦略提言アップデート資料（国際人道白書）:** [docs/JIN_ORDER_strategic_update_2026_autumn.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_strategic_update_2026_autumn.md)（REF: JIN-STRAT-UPD-2026-002）
 - 📄 **コバルト・ブルー作戦詳細仕様書:** [docs/Operation_cobalt_blue_spec.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_cobalt_blue_spec.md)（コンゴ・カタンガ州コバルト常温バイオ浸出・スラグ3D建材化・児童労働根絶）
 - 📄 **オアシス作戦詳細仕様書:** [docs/Operation_oasis_spec.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_oasis_spec.md)（アフガニスタン・ヒンドゥークシュ水資源再生・クアッドカレーズ・砂漠砂95%堤防）
@@ -82,16 +83,16 @@
   一般社団法人JIN-ORDERは、高度情報化と既存社会システムの機能不全を乗り越えるための次世代社会OS「JIN-OS」の設計・標準化、および危機耐性を持つ自律分散型ガバナンスモデルを研究・策定するプロジェクトです。
 
 * **【Why（なぜ今必要なのか）】**  
-  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。<br>米中AI覇権やチョークポイント危機に晒される民草を守りながら、国際標準に耐えうる強靭な物理インフラ（Three-Zone自立技術・クアッドカレーズ・コバルトバイオ浸出・耐爆3D住宅・国連人道支援多機関テクニカルパッケージ・豪雨アンダーパス道路啓開SOP・六道マイスター現場伝承・事前有償アセスメント防壁・エアギャップLoRaメッシュ・半径20km現場循環資材・身体性現場鑑識・アビス深海防衛・耐制裁Beyond-Grid計算網・民草主権宣言・真太平清領書東洋統治リブート・太平洋大気海洋代謝調律・地域主権創生統合・Bio-FOEAS水位制御・孤高看取りコモンズ・Pomeプロトコル実物決済）を構築します。
+  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。<br>米中AI覇権やチョークポイント危機に晒される民草を守りながら、国際標準に耐えうる強靭な物理インフラ（八柱民草主権・伝統工芸連鎖・天然調律衣服・伝統和食孝弁・宮大工木組み石場建て免震・地下水脈保護アースアンカー禁止・道路占用RC-40転圧・現場触診新地域銀行・医は仁術急性期臨床・Three-Zone自立技術・クアッドカレーズ・コバルトバイオ浸出・耐爆3D住宅・国連人道支援多機関テクニカルパッケージ・豪雨アンダーパス道路啓開SOP・六道マイスター現場伝承・事前有償アセスメント防壁・エアギャップLoRaメッシュ・半径20km現場循環資材・身体性現場鑑識・アビス深海防衛・耐制裁Beyond-Grid計算網・民草主権宣言・真太平清領書東洋統治リブート・太平洋大気海洋代謝調律・地域主権創生統合・Bio-FOEAS水位制御・孤高看取りコモンズ・Pomeプロトコル実物決済）を構築します。
 
 * **【Who（誰が動かしているのか）】**  
   30年間にわたり都市インフラ・道路・自治体実務の現場を支え抜いた知見と、深層哲学・デジタルアーキテクチャを融合させた実践型チーム（Founder & Chief Architect: 正野 崇 / Co-Founder & Director: 正野 美代子・Commander Pome-Mama）によって主導されています。
 
 ---
 
-## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 3大作戦 ＆ 16大公式ビジュアル回廊
+## 🌟 2026 AUTUMN LTS CANONICAL DEPLOYMENT: 3大作戦 ＆ 八柱民草主権（全20大公式ビジュアル回廊）
 
-> 2026年9月秋の国連総会ハイレベル討論および地政学的危機に対応し、JIN-ORDERは「旧OSの機能不全をデバッグする」完全自立型3大グローバル作戦仕様書と戦略提言を正式発効・リポジトリ配備しました。
+> 2026年9月秋の国連総会ハイレベル討論および地政学的危機に対応し、JIN-ORDERは「旧OSの機能不全をデバッグする」完全自立型3大グローバル作戦仕様書、戦略提言、および足元の生活基盤を守り抜く「八柱民草主権仕様書（SPEC-008）」を正式発効・リポジトリ配備しました。
 
 ### 📘 1. 戦略提言アップデート資料 2026秋（国際人道白書）
 * 📄 **仕様書**: [docs/JIN_ORDER_strategic_update_2026_autumn.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_strategic_update_2026_autumn.md) `[REF: JIN-STRAT-UPD-2026-002]`
@@ -257,19 +258,77 @@
 
 ---
 
+### 🌾 5. 八柱民草主権・生活基盤自立連盟仕様書（SPEC-008: 技・衣・食・住・地・道・金・医）
+* 📄 **仕様書**: [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md) `[REF: JIN-SPEC-LIV-008]`
+* **核心内容**: 帳簿の数字やデジタル支配を排し、大地の身体性に立ち返る生活主権の決定版。240品目超の伝統工芸連鎖（技）、絹・有機綿・和紙糸による生体調律ウェア（衣）、米・大豆発酵・天然海塩・ぬか漬け・海藻の医食同源孝弁（食）、宮大工の木組み・石場建て免震・100%土壌循環（住）、地盤沈下を防ぐグランドアンカー禁止と地下水脈防護（地）、道路占用「現状復旧」の欺瞞粉砕・指定改良土転圧・小規模道路調整会議（道）、財務諸表偏重打破・中小企業診断士常駐・AI不正検知の新地域銀行（金）、そして直美流出を阻止し急性期臨床実績を義務付ける「医は仁術」の医療主権（医）を統合規定。
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">17. SCENE 01: 宮大工伝統木工・石場建て免震（第1柱【技】＆ 第4柱【住】）</th>
+    <th width="50%" align="center">18. SCENE 02: 天然調律衣服・伝統和食孝弁（第2柱【衣】＆ 第3柱【食】）</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SPEC-008_OCTA_PILLAR_01.jpg" width="100%" alt="宮大工の棟梁と若き弟子たち：釘を使わない伝統木組み、石場建て免震構造、六聖徒弟教育実習">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SPEC-008_OCTA_PILLAR_02.jpg" width="100%" alt="棚田を臨む縁側で天然素材の衣服をまとい、米・味噌汁・ぬか漬け・干物の和食を囲む家族とポメちゃん">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🏛️ <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">宮大工木組み・石場建て免震・伝統技能生態系を開く</a></b>
+    </td>
+    <td width="50%" align="center">
+      🌾 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">天然調律衣服・伝統和食孝弁・生命共生縁側を開く</a></b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">19. SCENE 03: 地下水脈保護・路床触診・道路復旧（第5柱【地】＆ 第6柱【道】）</th>
+    <th width="50%" align="center">20. SCENE 04: 新地域銀行伴走・身体性臨床手当て（第7柱【金】＆ 第8柱【医】）</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SPEC-008_OCTA_PILLAR_03.jpg" width="100%" alt="都市道路開削現場：長靴での路床土性触診、手書き野帳、指定改良土RC-40転圧、地下水脈保護、小規模道路調整会議">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SPEC-008_OCTA_PILLAR_04.jpg" width="100%" alt="町工場で職人と対話する中小企業診断士（新地域銀行） ＆ 画面を排し患者の腹部を触診する医師（医は仁術）">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🚧 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">地下水脈保護・路床触診鑑識・一体的道路復旧を開く</a></b>
+    </td>
+    <td width="50%" align="center">
+      🩺 <b><a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md">現場触診新地域銀行・医は仁術急性期臨床手当てを開く</a></b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 JIN-ORDER Ecosystem（リポジトリ体系・役割マップ）
 
 | リポジトリ | レイヤー / 役割 | 主な内容・対象 |
 | :--- | :--- | :--- |
-| **[masanotakashi0308-star](https://github.com/masanotakashi0308-star)** *(Current)* | **【中枢・総合ポータル】**<br>プロジェクト全体の玄関口 | ・全体概要（TL;DR）・案内窓口<br>・作戦ビジュアルマトリクス（V10.0 Canonical）<br>・各リポジトリへの総合案内 |
-| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** | **【深層哲学・危機統治】**<br>思想的バックボーン・全先端技術仕様書 | ・極限状態・深淵（Abyss）の統治論<br>・**2026秋 3大作戦仕様書（コバルト・オアシス・ノーザンライト）**<br>・**技術成熟度定義書（TRLs）** / **大気海洋代謝調律（CLI-001）**<br>・**真・太平清領書（SPEC-0184）** / **国連テクニカルパック**<br>・**土木道路啓開SOP** / **六道マイスターシラバス** / **事前有償アセスメント雛形**<br>・25大先端技術・インフラ仕様書群 |
+| **[masanotakashi0308-star](https://github.com/masanotakashi0308-star)** *(Current)* | **【中枢・総合ポータル】**<br>プロジェクト全体の玄関口 | ・全体概要（TL;DR）・案内窓口<br>・作戦ビジュアルマトリクス（V10.1 Canonical）<br>・各リポジトリへの総合案内 |
+| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** | **【深層哲学・危機統治】**<br>思想的バックボーン・全先端技術仕様書 | ・極限状態・深淵（Abyss）の統治論<br>・**八柱民草主権仕様書（SPEC-008）**<br>・**2026秋 3大作戦仕様書（コバルト・オアシス・ノーザンライト）**<br>・**技術成熟度定義書（TRLs）** / **大気海洋代謝調律（CLI-001）**<br>・**真・太平清領書（SPEC-0184）** / **国連テクニカルパック**<br>・**土木道路啓開SOP** / **六道マイスターシラバス** / **事前有償アセスメント雛形**<br>・25大先端技術・インフラ仕様書群 |
 | **[JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY/blob/main/README.md)** | **【文明OS・戦略実装】**<br>社会システムの具体的設計 | ・次世代社会OS「JIN-OS」仕様策定<br>・国際展開戦略・制度設計標準化<br>・自律分散型社会プロトコル |
 
 ---
 
 ## 📖 初めて訪れた方へ（3ステップ・リーディングガイド）
 
-1. **Step 1：2026秋 最新3大作戦 ＆ 戦略提言アップデートを知る（最優先）**  
+1. **Step 1：八柱民草主権 ＆ 2026秋 最新3大作戦を知る（最優先）**  
+   ⏩️ [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)【八柱民草主権仕様書 SPEC-008：技・衣・食・住・地・道・金・医】  
    ⏩️ [docs/JIN_ORDER_strategic_update_2026_autumn.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_strategic_update_2026_autumn.md)【戦略提言アップデート2026秋：国際人道白書】  
    ⏩️ [docs/Operation_cobalt_blue_spec.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_cobalt_blue_spec.md)【コバルト・ブルー作戦：コンゴ鉱物搾取根絶】  
    ⏩️ [docs/Operation_oasis_spec.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_oasis_spec.md)【オアシス作戦：アフガニスタン水資源再生】  
@@ -302,22 +361,23 @@
 **Bridging 30 Years of Municipal Civil Infrastructure Experience and Deep Philosophy to Implement Sustainable, Decentralized Civilizational Governance.**
 
 * **What We Do:** General Incorporated Association JIN-ORDER designs and standardizes the next-generation civilizational OS ("JIN-OS") and develops resilient, decentralized governance models to transcend systemic geopolitical and environmental gridlocks.
-* **Why It Matters:** To deploy physical-world solutions for humanitarian survival: Three-Zone Autonomous Infrastructure, Operation Cobalt Blue (ethical DRC cobalt bio-leaching & slag recycling), Operation Oasis (Afghan Karez revitalization & 95% sand geopolymer), Operation Northern Light (Ukrainian winter 3D blast-resistant housing & EMP-shielded microgrids), Readiness Classification (TECHNOLOGY_READINESS_LEVELS), UN Humanitarian Technical Pack (UN_HUMANITARIAN_TECHNICAL_PACK), Sovereign Road Opening SOP, Six-Path Meister Apprenticeship, Paid Feasibility Assessment Shield, Air-Gapped Mesh Routing, Circular Material Commons, Somatic Analog Forensics, Subterranean Maintenance Ethos, and Pome Protocol zero-interest resource-backed finance.
+* **Why It Matters:** To deploy physical-world solutions for humanitarian survival: Octa-Pillar Civil Sovereignty Protocol (SPEC-008: traditional crafts, bio-harmonic textiles, washoku microbial diet, miya-daiku timber joinery, subterranean water protection, road occupancy compaction, relational banking, and acute clinical ethics), Three-Zone Autonomous Infrastructure, Operation Cobalt Blue (ethical DRC cobalt bio-leaching & slag recycling), Operation Oasis (Afghan Karez revitalization & 95% sand geopolymer), Operation Northern Light (Ukrainian winter 3D blast-resistant housing & EMP-shielded microgrids), Readiness Classification (TECHNOLOGY_READINESS_LEVELS), UN Humanitarian Technical Pack (UN_HUMANITARIAN_TECHNICAL_PACK), Sovereign Road Opening SOP, Six-Path Meister Apprenticeship, Paid Feasibility Assessment Shield, Air-Gapped Mesh Routing, Circular Material Commons, Somatic Analog Forensics, Subterranean Maintenance Ethos, and Pome Protocol zero-interest resource-backed finance.
 * **Who Leads:** Led by Takashi Masano (Founder & Chief Architect) with 30 years of civil engineering expertise and Miyoko Masano (Co-Founder & Director / Commander Pome-Mama).
 
 **Ecosystem Quick-Links:**
-1. **2026 Autumn Operations:** [`docs/JIN_ORDER_strategic_update_2026_autumn.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_strategic_update_2026_autumn.md), [`docs/Operation_cobalt_blue_spec.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_cobalt_blue_spec.md), [`docs/Operation_oasis_spec.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_oasis_spec.md), [`docs/Operation_northern_light_spec.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_northern_light_spec.md).
+1. **Civil Sovereignty & 2026 Autumn Operations:** [`docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md), [`docs/JIN_ORDER_strategic_update_2026_autumn.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_strategic_update_2026_autumn.md), [`docs/Operation_cobalt_blue_spec.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_cobalt_blue_spec.md), [`docs/Operation_oasis_spec.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_oasis_spec.md), [`docs/Operation_northern_light_spec.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_northern_light_spec.md).
 2. **Foundational Architecture:** [`UN_HUMANITARIAN_TECHNICAL_PACK.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UN_HUMANITARIAN_TECHNICAL_PACK.md), [`TECHNOLOGY_READINESS_LEVELS.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_READINESS_LEVELS.md), [`specs/JIN-SPEC-CLI-001.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN-SPEC-CLI-001.md), [`SPEC-ARCH-0184_TRUE_TAIPING_QINGLING_BOOK.md`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/SPEC-ARCH-0184_TRUE_TAIPING_QINGLING_BOOK.md).
 3. **Deep Repository:** [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md).
 </details>
 
 ---
-# 🌸 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE (V10.0 Canonical Autumn LTS)
+# 🌸 JIN-ORDER OFFICIAL PORTAL: THE ABYSSAL ARCHIVE (V10.1 Canonical Autumn LTS)
 ### 最高分散型プロトコル ＆ 市民防衛インフラ網 (Citizen Shield Portal)
 
 [![WORLD REBOOT](https://img.shields.io/badge/WORLD_REBOOT-ACTIVE-brightgreen.svg)](#)
-[![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V10.0_CANONICAL-blue.svg)](#)
+[![JIN-ORDER](https://img.shields.io/badge/JIN--ORDER-V10.1_CANONICAL-blue.svg)](#)
 [![UNPP VERIFIED](https://img.shields.io/badge/UNPP%20Verified-ID%3A%2064636-0A66C2.svg)](https://www.unpartnerportal.org/)
+[![OCTA-PILLAR](https://img.shields.io/badge/CIVIL_SOVEREIGNTY-SPEC--008_OCTA--PILLAR-gold.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)
 [![COBALT BLUE](https://img.shields.io/badge/OPERATION-COBALT__BLUE-0052CC.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_cobalt_blue_spec.md)
 [![OASIS](https://img.shields.io/badge/OPERATION-OASIS-FF8C00.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_oasis_spec.md)
 [![NORTHERN LIGHT](https://img.shields.io/badge/OPERATION-NORTHERN__LIGHT-00E5FF.svg)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_northern_light_spec.md)
@@ -416,6 +476,7 @@
 
 ## 🦅 本流アーカイブ直通ナビゲーション（GOVERNANCE_OF_ABYSS）
 
+* 🌾 **[八柱民草主権・生活基盤自立連盟仕様書（SPEC-008: 技・衣・食・住・地・道・金・医）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)**
 * 📄 **[2026秋 戦略提言アップデート資料（国際人道白書）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_ORDER_strategic_update_2026_autumn.md)**
 * 📄 **[コバルト・ブルー作戦詳細仕様書（コンゴ・カタンガ州）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_cobalt_blue_spec.md)**
 * 📄 **[オアシス作戦詳細仕様書（アフガニスタン・ヒンドゥークシュ南麓）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/Operation_oasis_spec.md)**
@@ -748,6 +809,6 @@ JIN-ORDERが実装する自律分散インフラの根底には、古代の智�
 ---
 **Curated by:** JIN-ORDER Masano Takashi, Commander Pome-Mama & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.0 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED SPECIFICATIONS / THREE GLOBAL OPERATIONS ACTIVATED / 16-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`  
-`VERIFIED PERSISTENCE: OPERATION-COBALT-BLUE, OPERATION-OASIS, OPERATION-NORTHERN-LIGHT, JIN-STRAT-UPD-2026-002, NOBODY-CRIES-CANONICAL, POME-PROTOCOL-ZERO-INTEREST, JIN-AI-FAIR-ARBITRATION, JIN-DIGITAL-CITIZEN-PASSPORT, JRC-READINESS-LEVELS-1-TO-4, UN-HUMANITARIAN-TECHNICAL-PACK, DISASTER-ROAD-OPENING-SOP, MEISTER-TRAINING-SYLLABUS-30D, ASSESSMENT-AGREEMENT-TEMPLATE, AIRGAPPED-MESH-ROUTING, CIRCULAR-MATERIAL-COMMONS, SOMATIC-FORENSICS-WORKSHEET, FIELD-PILOT-POC-180D, SUBTERRANEAN-MAINTENANCE-ETHOS, ABYSS-PRESERVATION-PROTOCOL, DECENTRALIZED-COMPUTE-GRID, SOVEREIGN-REGIONAL-REGENERATION-SPEC-007, BIO-FOEAS-SPEC-006, SOVEREIGN-SOLITUDE-COMMONS-SSTP-02, PHYSICAL-ANCHOR-SPEC-004, CROSS-BORDER-NEUTRALITY-SPEC-005, SPIRAL-STRATEGY-V1-0, TRUE-TAIPING-QINGLING-BOOK-SPEC-0184, PACIFIC-METABOLISM-TUNING-CLI-001, ZERO-KNOWLEDGE-MAINTENANCE-ZK-POM, ASSET-BACKED-CORRIDOR, ECO-HYDROLOGY-DO-RESTORATION, FAULT-TOLERANT-WASH, DUMP-LOAD-ARBITRATION, SOVEREIGN-INDUSTRIAL-PORT-SIPSP-01, PHOSPHORUS-RECYCLING-PRCS-01, BIOPIRACY-DSI-BDDP-01, ORBITAL-COMMONS-DEFENSE-OCDS-01, OCEAN-ISLAND-CONTINUITY-OSIC-01, SOLAR-GEOENGINEERING-SGED-01, SOVEREIGN-COMMONS-DEFENSE-SCDA-01, ANTI-OLIGOPOLY-MANIFESTO-2026, URBAN-CIVIL-RESILIENCE-UCIRP-01, AGENT-DISTRIBUTED-INFERENCE-ADICP-01, GLOBAL-ASI-HEGEMONY-MAP-V8-2, SUBSEA-KINETIC-DEFENSE-SKDP-01, POST-STATE-MANIFESTO-2026, DECENTRALIZED-GOVERNANCE-DLGP-01, SOVEREIGN-MUNICIPAL-SMCP-01, SOVEREIGN-ARTERIAL-JIN-ARTERIAL-01, SOVEREIGN-RETAIL-JIN-COMMERCE-01, SOMATIC-FORENSICS-SFFP-01, TRAFFIC-CALMING-JIN-CALMING-01, SOVEREIGN-ANALOG-JIN-ANALOG-01, CIRCULAR-GAS-JIN-GAS-01, SOIL-WARMTH-JIN-TERRA-01, HEXA-PATH-EDUCATION-HSED-01, SYSTEM-17-KNOWLEDGE-VAULT, JIN-OS-HV-ZKP-V1-0, BIO-SYMBIOTIC-INFRASTRUCTURE, 20W-ORGAN-COMPUTE, SOMATIC-SOVEREIGNTY, 4D-DISASTER-MESH, VOLCANIC-ASH-GEOPOLYMER, IN-SITU-PFAS-DESTRUCTION, JIN-DRAGON-TRIAD-ENERGY, CHAD-BASIN-LSU-CHAD-01, OKINAWA-7TH-MINING, ARCTIC-COLD-COMPUTE, LOCAL-RELATIONAL-FINANCE, JIN-ZONING-DUAL-URBANISM, 3D-TRANSIT-ARTERIES, AND HUMANITARIAN-COMMONS-DEFENSE)`  
-`HARMONICS: 432Hz Universal Benevolence, Nobody Cries Resonance, Pome Protocol Equilibrium, Katanga Oasis Cadence, Hindu Kush Karez Pulse, Northern Light Blizzard Shield, Aurora Pod Stability, Yatagarasu Dawn Radiance, Pacific Climate Tuning Pulse, True Taiping Resonance, Eurasian Symphony Pulse, JRC Level Stratification Harmony, UN Cluster Alignment, Disaster Road Clearance Pulse, Apprenticeship Transmission Rhythm, Single Ratchet M16 Cadence, Paid Assessment Shield Purity, Air-Gapped Mesh Pulse, Delay-Tolerant Bucket Relay Cadence, Circular Material Radius Harmony, Somatic Tap Precision, Muddy Boot Subgrade Touch, Field Pilot Cadence, Subterranean Maintenance Ethos Cadence, Abyss Preservation Sentry Pulse, Decentralized Micro-Node Resonance, Trenchless Renewal Flow, Sovereign Dignity Hardship Cadence, Minkusa Preamble Harmony, Gokoku-Hojo Purity, Sovereign Regeneration Cadence, Perinatal Sanctuary Resonance, Meister Succession Rhythm, Dejima Outpost Equilibrium, Quasi-Civil Servant Integrity, Arterial Green Wave Sync, Bio-FOEAS Water Level Balance, Paddy Dam Retention Harmony, Solitude Sanctuary Resonance, Demedicalized Samsara Clarity, Communal Grief Embrace, Animal Companion Warmth, Zero-Kill Life Resonance, Physical Anchor Harmony, Cross-Border Purity, Global Spiral Defense Equilibrium, Okinawa Subsea Sentry Cadence, CFA Decoupling Resonance, Eurasian Peace Pulse, India Agri-Paper Labor Harmony, Zero-Knowledge PoM Clarity, Physical Resource Parity, Dissolved Oxygen Equilibrium, Industrial Symbiosis Harmony, Offsite Greening Purity, Phosphorus Samsara Clarity, Biopiracy Defense Integrity, Orbital Demilitarization Equilibrium, Island Sovereign Perpetuity, Stratospheric Purity, Sovereign Commons Defense Integrity, Anti-Oligopoly Purity, Proof-of-Inference Integrity, Somatic Sovereignty Balance, 20W Organ Pulse, Arterial Flow Rhythm, Chicane Flow Rhythm, 3D Optical Braking, Orbis Enforcement Deterrence, Analog Levelbook Precision, Subsurface CBR Resonance, e-Methane Synthesis Clarity, LPG Gravity Drain Equilibrium, Step-Cut Trench Stability, Dual Gas Shutoff Integrity, Zero Food Waste Compassion, Kouben Direct Loop, Local Permanent Employment Dignity, In-Shop Merchant Shelter Equity, School Patrol Sentry, Quasi-Civil Servant Dignity, Registry Fortress Inviolability, Citizen Sortition Justice, Soil Ribbon Plasticity, One-Bowl Warmth Compassion, Sovereign Audit Integrity, 4D Disaster Harmony, Volcanic Samsara Balance, Electro-Phyto Reclamation Purity, Human Sovereign Healing, Triad Energy Resonance, Perovskite Surface Clarity, Solid-State Integrity, Sodium Grid Equilibrium, Abyssal Trough Resonance, Arctic Glacial Clarity, Relational Pulse, Subsea Acoustic Clarity, 3D Arterial Rhythm, Dual Urban Harmony, Sunyata Awakening, Karmic Restoration, Groundwater Samsara, Circular Polymer Pulse, Headwater Sediment Defense, Rotational Agro Pulse, Kitamaebune Maritime Loop, Sky Corridor Autonomy, Pure Biofuel Samsara, Sovereign Farmer Dignity, Living Seed Continuity, Soil Sovereignty, Axial Mass Stability, Clean Flame Samsara, Hexa-Path Meister Harmony, Moment of Silence Clarity, Bushido Public Service Integrity & Watershed Sovereignty.`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.1 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED SPECIFICATIONS / SPEC-008 OCTA-PILLAR INTEGRATED / THREE GLOBAL OPERATIONS ACTIVATED / 20-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`  
+`VERIFIED PERSISTENCE: SPEC-008-OCTA-PILLAR-CIVIL-SOVEREIGNTY, TRADITIONAL-CRAFT-ECOSYSTEM, BIO-HARMONIC-TEXTILES-SILK-WASHI, WASHOKU-MEDICINE-MICROBIAL-COMMONS, MIYA-DAIKU-TIMBER-FRICTION-SEISMIC, ISHIBADATE-BASE-ISOLATION, GROUND-ANCHOR-BAN-SUBTERRANEAN, ROAD-OCCUPANCY-RC40-COMPACTION, SMALL-SCALE-ROAD-COORDINATION, RELATIONAL-BANKING-SME-TOUCH, MEDICAL-BENEVOLENCE-ACUTE-PRACTICE, OPERATION-COBALT-BLUE, OPERATION-OASIS, OPERATION-NORTHERN-LIGHT, JIN-STRAT-UPD-2026-002, NOBODY-CRIES-CANONICAL, POME-PROTOCOL-ZERO-INTEREST, JIN-AI-FAIR-ARBITRATION, JIN-DIGITAL-CITIZEN-PASSPORT, JRC-READINESS-LEVELS-1-TO-4, UN-HUMANITARIAN-TECHNICAL-PACK, DISASTER-ROAD-OPENING-SOP, MEISTER-TRAINING-SYLLABUS-30D, ASSESSMENT-AGREEMENT-TEMPLATE, AIRGAPPED-MESH-ROUTING, CIRCULAR-MATERIAL-COMMONS, SOMATIC-FORENSICS-WORKSHEET, FIELD-PILOT-POC-180D, SUBTERRANEAN-MAINTENANCE-ETHOS, ABYSS-PRESERVATION-PROTOCOL, DECENTRALIZED-COMPUTE-GRID, SOVEREIGN-REGIONAL-REGENERATION-SPEC-007, BIO-FOEAS-SPEC-006, SOVEREIGN-SOLITUDE-COMMONS-SSTP-02, PHYSICAL-ANCHOR-SPEC-004, CROSS-BORDER-NEUTRALITY-SPEC-005, SPIRAL-STRATEGY-V1-0, TRUE-TAIPING-QINGLING-BOOK-SPEC-0184, PACIFIC-METABOLISM-TUNING-CLI-001, ZERO-KNOWLEDGE-MAINTENANCE-ZK-POM, ASSET-BACKED-CORRIDOR, ECO-HYDROLOGY-DO-RESTORATION, FAULT-TOLERANT-WASH, DUMP-LOAD-ARBITRATION, SOVEREIGN-INDUSTRIAL-PORT-SIPSP-01, PHOSPHORUS-RECYCLING-PRCS-01, BIOPIRACY-DSI-BDDP-01, ORBITAL-COMMONS-DEFENSE-OCDS-01, OCEAN-ISLAND-CONTINUITY-OSIC-01, SOLAR-GEOENGINEERING-SGED-01, SOVEREIGN-COMMONS-DEFENSE-SCDA-01, ANTI-OLIGOPOLY-MANIFESTO-2026, URBAN-CIVIL-RESILIENCE-UCIRP-01, AGENT-DISTRIBUTED-INFERENCE-ADICP-01, GLOBAL-ASI-HEGEMONY-MAP-V8-2, SUBSEA-KINETIC-DEFENSE-SKDP-01, POST-STATE-MANIFESTO-2026, DECENTRALIZED-GOVERNANCE-DLGP-01, SOVEREIGN-MUNICIPAL-SMCP-01, SOVEREIGN-ARTERIAL-JIN-ARTERIAL-01, SOVEREIGN-RETAIL-JIN-COMMERCE-01, SOMATIC-FORENSICS-SFFP-01, TRAFFIC-CALMING-JIN-CALMING-01, SOVEREIGN-ANALOG-JIN-ANALOG-01, CIRCULAR-GAS-JIN-GAS-01, SOIL-WARMTH-JIN-TERRA-01, HEXA-PATH-EDUCATION-HSED-01, SYSTEM-17-KNOWLEDGE-VAULT, JIN-OS-HV-ZKP-V1-0, BIO-SYMBIOTIC-INFRASTRUCTURE, 20W-ORGAN-COMPUTE, SOMATIC-SOVEREIGNTY, 4D-DISASTER-MESH, VOLCANIC-ASH-GEOPOLYMER, IN-SITU-PFAS-DESTRUCTION, JIN-DRAGON-TRIAD-ENERGY, CHAD-BASIN-LSU-CHAD-01, OKINAWA-7TH-MINING, ARCTIC-COLD-COMPUTE, LOCAL-RELATIONAL-FINANCE, JIN-ZONING-DUAL-URBANISM, 3D-TRANSIT-ARTERIES, AND HUMANITARIAN-COMMONS-DEFENSE)`  
+`HARMONICS: 432Hz Universal Benevolence, Somatic Ground-Truth Equilibrium, Octa-Pillar Civil Resilience, Miya-Daiku Timber Friction Cadence, Ishibadate Seismic Balance, Silk-Washi Bio-Harmonics, Washoku Microbial Purity, Subterranean Waterway Protection Pulse, Step-Cut Compaction Purity, Utility Coordination Harmony, Relational SME Touch Purity, Medical Benevolence Ethics Rhythm, Nobody Cries Resonance, Pome Protocol Equilibrium, Katanga Oasis Cadence, Hindu Kush Karez Pulse, Northern Light Blizzard Shield, Aurora Pod Stability, Yatagarasu Dawn Radiance, Pacific Climate Tuning Pulse, True Taiping Resonance, Eurasian Symphony Pulse, JRC Level Stratification Harmony, UN Cluster Alignment, Disaster Road Clearance Pulse, Apprenticeship Transmission Rhythm, Single Ratchet M16 Cadence, Paid Assessment Shield Purity, Air-Gapped Mesh Pulse, Delay-Tolerant Bucket Relay Cadence, Circular Material Radius Harmony, Somatic Tap Precision, Muddy Boot Subgrade Touch, Field Pilot Cadence, Subterranean Maintenance Ethos Cadence, Abyss Preservation Sentry Pulse, Decentralized Micro-Node Resonance, Trenchless Renewal Flow, Sovereign Dignity Hardship Cadence, Minkusa Preamble Harmony, Gokoku-Hojo Purity, Sovereign Regeneration Cadence, Perinatal Sanctuary Resonance, Meister Succession Rhythm, Dejima Outpost Equilibrium, Quasi-Civil Servant Integrity, Arterial Green Wave Sync, Bio-FOEAS Water Level Balance, Paddy Dam Retention Harmony, Solitude Sanctuary Resonance, Demedicalized Samsara Clarity, Communal Grief Embrace, Animal Companion Warmth, Zero-Kill Life Resonance, Physical Anchor Harmony, Cross-Border Purity, Global Spiral Defense Equilibrium, Okinawa Subsea Sentry Cadence, CFA Decoupling Resonance, Eurasian Peace Pulse, India Agri-Paper Labor Harmony, Zero-Knowledge PoM Clarity, Physical Resource Parity, Dissolved Oxygen Equilibrium, Industrial Symbiosis Harmony, Offsite Greening Purity, Phosphorus Samsara Clarity, Biopiracy Defense Integrity, Orbital Demilitarization Equilibrium, Island Sovereign Perpetuity, Stratospheric Purity, Sovereign Commons Defense Integrity, Anti-Oligopoly Purity, Proof-of-Inference Integrity, Somatic Sovereignty Balance, 20W Organ Pulse, Arterial Flow Rhythm, Chicane Flow Rhythm, 3D Optical Braking, Orbis Enforcement Deterrence, Analog Levelbook Precision, Subsurface CBR Resonance, e-Methane Synthesis Clarity, LPG Gravity Drain Equilibrium, Step-Cut Trench Stability, Dual Gas Shutoff Integrity, Zero Food Waste Compassion, Kouben Direct Loop, Local Permanent Employment Dignity, In-Shop Merchant Shelter Equity, School Patrol Sentry, Quasi-Civil Servant Dignity, Registry Fortress Inviolability, Citizen Sortition Justice, Soil Ribbon Plasticity, One-Bowl Warmth Compassion, Sovereign Audit Integrity, 4D Disaster Harmony, Volcanic Samsara Balance, Electro-Phyto Reclamation Purity, Human Sovereign Healing, Triad Energy Resonance, Perovskite Surface Clarity, Solid-State Integrity, Sodium Grid Equilibrium, Abyssal Trough Resonance, Arctic Glacial Clarity, Relational Pulse, Subsea Acoustic Clarity, 3D Arterial Rhythm, Dual Urban Harmony, Sunyata Awakening, Karmic Restoration, Groundwater Samsara, Circular Polymer Pulse, Headwater Sediment Defense, Rotational Agro Pulse, Kitamaebune Maritime Loop, Sky Corridor Autonomy, Pure Biofuel Samsara, Sovereign Farmer Dignity, Living Seed Continuity, Soil Sovereignty, Axial Mass Stability, Clean Flame Samsara, Hexa-Path Meister Harmony, Moment of Silence Clarity, Bushido Public Service Integrity & Watershed Sovereignty.`
