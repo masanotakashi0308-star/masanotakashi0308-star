@@ -1,6 +1,6 @@
 # General Incorporated Association JIN-ORDER
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
-* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-22 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260922141804/https://github.com/masanotakashi0308-star)
+* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-22 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260922145450/https://github.com/masanotakashi0308-star/masanotakashi0308-star)
 ### 【2026秋 正典配備】3大グローバル作戦 ＆ 八柱民草主権 ＆ 世界民族コモンズ納税（V10.2 Canonical Autumn LTS）
 
 ---
