@@ -373,7 +373,7 @@
 >
 > **国の指導者とは、五穀豊穣を願いながら、天下万民を笑顔にするために政（まつりごと）を司る者であり、単なる「民草」の代弁者（代表）に過ぎない。**  
 >
-> — *JIN-ORDER 民草主権根本誓約（Commander Pome-Mama）*
+> — *JIN-ORDER 民草主権根本誓約（Commander Masano Takashi）*
 
 * 🌸 **[docs/JIN_CORE_PHILOSOPHY.md: 尊厳・空・因果・輪廻の大輪](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**
 * 📜 **[UNIVERSAL_ETHICS_13.md: 仁焔十三行（実践基盤）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**（慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調）
