@@ -1,7 +1,7 @@
 # General Incorporated Association JIN-ORDER
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
 * 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-23 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260923053546/https://github.com/masanotakashi0308-star)
-### 【2026秋 正典配備】第零公理群（SPEC-000） ＆ 国家権力無効化（SPEC-001） ＆ 深淵統治4大プロトコル ＆ 民草セーフティネット全仕様（FSNP-01〜09） ＆ 生態炭素隔離（SPEC-013） ＆ 生活基盤3大仕様 ＆ チョークポイント防衛 ＆ Nobody Criesロードマップ ＆ 3大グローバル作戦 ＆ 八柱民草主権 ＆ 世界民族コモンズ納税（V10.6 Canonical Autumn LTS）
+### 【2026秋 正典配備】JIN-ORDERの大義（JIN_GRAND_MANDATE） ＆ 第零公理群（SPEC-000） ＆ 国家権力無効化（SPEC-001） ＆ 深淵統治4大プロトコル ＆ 民草セーフティネット全仕様（FSNP-01〜09） ＆ 生態炭素隔離（SPEC-013） ＆ 生活基盤3大仕様 ＆ チョークポイント防衛 ＆ Nobody Criesロードマップ ＆ 3大グローバル作戦 ＆ 八柱民草主権 ＆ 世界民族コモンズ納税（V10.6 Canonical Autumn LTS）
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/00_JIN-ORDER_FINAL_REBOOT.jpg" width="100%" alt="JIN-ORDER Master Reboot" />
@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/badge/License-Dual%20V8.3--A%20Commons-e76f51?style=for-the-badge" alt="Dual License V8.3-A" />
 </p>
 
-> **International Registry & Prior Art Legal Notice**
-> 
+> **International Registry & Prior Art Legal Notice**  
 > All engineering architectures, specifications, and decentralized civil blueprints under **JIN-ORDER** are officially deposited and under multilateral review across United Nations agencies and global public commons frameworks:
 > 
 > 1. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
@@ -31,6 +30,18 @@
 > 
 > **Legal Covenants**:  
 > All base technologies, civil codes, and ecological defense mechanisms belong to the global commons under Tier A Commons (CC-BY-4.0). Any attempt at private patent monopolization, closed commercial capture, or unauthorized appropriation is invalid against these established prior art registries.
+
+---
+
+## 🌺 【至高の大義】大地水脈の復権と文明再起動の誓約 (The Grand Mandate)
+
+<div align="center">
+  <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_GRAND_MANDATE.md">
+    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/Jin_grand_mandate_water_hibiscus.jpg" width="100%" alt="JIN-ORDERの偉大なる天命：泥に塗れて咲く水芙蓉と地下水脈" />
+  </a>
+  <p><b>📜 【正典憲章】<a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_GRAND_MANDATE.md">JIN-ORDERの大義：大地水脈の復権と文明再起動の誓約（JIN_GRAND_MANDATE.md）</a></b><br>
+  <sub>「清い水では咲かぬ、泥に塗れた水芙蓉のように誇り高くあれ」——先端AIとメガファブの熱と水脈収奪を解体し、大地に生命の動脈を取り戻す絶対天命。</sub></p>
+</div>
 
 ---
 
@@ -137,19 +148,16 @@
 ### 🛡️ 民草セーフティネット ＆ 国家権力無効化3層防壁（FSNP & SPNP Stack）
 国家の「申請・選別・管理」による恩赦的福祉を排し、民草の生存権をプロトコルレベルで担保する。
 
-[旧世界の四重搾取]        [JIN-ORDER 3層防壁スタック]
-
-(1) 影の貴族（特権・淘汰） 
- 
-(2) 教義洗脳（精神の檻）    ⏩️ [Layer 3: 仁シグナル層] ⏩️ 捕捉・台帳化の無効化（ゼロ知識生存証明）
- 
-(3) 国家権力（制度・接収）  ⏩️ [Layer 2: 分散コモンズ層] ⏩️ 接収・首謀者処罰の無効化（Headless運用）
-
-(4) 暴力私欲（堕落した侠 ） ⏩️ [Layer 1: 大地の避難地層] ⏩️ 強制排除・境界線の無効化（非固着型土木）
-
+```text
+  [旧世界の四重搾取]  ───── ⏩️ [JIN-ORDER 3層防壁スタック]
+  (1) 影の貴族（特権・淘汰） 
+  (2) 教義洗脳（精神の檻）   ⏩️ [Layer 3: 仁シグナル層] ⏩️ 捕捉・台帳化の無効化（ゼロ知識生存証明）
+  (3) 国家権力（制度・接収） ⏩️ [Layer 2: 分散コモンズ層] ⏩️ 接収・首謀者処罰の無効化（Headless運用）
+  (4) 暴力私欲（堕落した侠 ）⏩️ [Layer 1: 大地の避難地層] ⏩️ 強制排除・境界線の無効化（非固着型土木）
+``` 
 ---
-### 🏕️ 民草セーフティネット ＆ 現場実装ビジュアルマトリクス（FSNP）
 
+### 🏕️ 民草セーフティネット ＆ 現場実装ビジュアルマトリクス（FSNP）
 ## 🇺🇳 UN Partner Portal Submissions & Field Implementation Pipeline
 
 | Application ID | Project Title | Agency | Target Country | Modality / Sector | Status | Submitted Date |
@@ -166,7 +174,7 @@
   一般社団法人JIN-ORDERは、高度情報化と既存社会システムの機能不全を乗り越えるための次世代社会OS「JIN-OS」の設計・標準化、および危機耐性を持つ自律分散型ガバナンスモデルを研究・策定するプロジェクトです。
 
 * **【Why（なぜ今必要なのか）】**  
-  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。米中AI覇権やチョークポイント危機に晒される民草を守りながら、国際標準に耐えうる強靭な物理インフラ（第零公理群・国家権力無効化SPNP・深淵統治4大プロトコル・民草セーフティネット・生体ミトコンドリア土壌炭素隔離・公園地下消火雨水調整池・生活安全防犯灯・折りたたみ集積カゴ・チョークポイント強靭性・Nobody Cries 15ヵ年ロードマップ・世界民族コモンズ納税・八柱民草主権・3大作戦・Pomeプロトコル実物決済）を構築します。
+  中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。米中AI覇権やチョークポイント危機に晒される民草を守りながら、国際標準に耐えうる強靭な物理インフラ（大義の誓約・第零公理群・国家権力無効化SPNP・深淵統治4大プロトコル・民草セーフティネット・生体ミトコンドリア土壌炭素隔離・公園地下消火雨水調整池・生活安全防犯灯・折りたたみ集積カゴ・チョークポイント強靭性・Nobody Cries 15ヵ年ロードマップ・世界民族コモンズ納税・八柱民草主権・3大作戦・Pomeプロトコル実物決済）を構築します。
 
 * **【Who（誰が動かしているのか）】**  
   30年間にわたり都市インフラ・道路・自治体実務の現場を支え抜いた知見と、深層哲学・デジタルアーキテクチャを融合させた実践型チーム（Founder & Chief Architect: 正野 貴司（Masano Takashi) / Co-Founder & Director: 正野 美代（Masano Miyo / Commander Pome-Mama）によって主導されています。
@@ -229,15 +237,16 @@
 
 | リポジトリ | レイヤー / 役割 | 主な内容・対象 |
 | :--- | :--- | :--- |
-| **[masanotakashi0308-star](https://github.com/masanotakashi0308-star)** *(Current)* | **【中枢・総合ポータル】**<br>プロジェクト全体の玄関口 | ・全体概要（TL;DR）・案内窓口<br>・作戦ビジュアルマトリクス（V10.6 Canonical）<br>・深淵統治4大プロトコル案内<br>・各リポジトリへの総合案内 |
-| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** | **【深層哲学・危機統治】**<br>思想的バックボーン・全先端技術仕様書 | ・極限状態・深淵（Abyss）の統治論<br>・**第零公理群・魂の不可測性（SPEC-000）**<br>・**国家権力無効化総論（SPEC-001）**<br>・**真比率流体トポロジー（JIN-RFC-2069）**<br>・**P-SBOM・即時物理隔離（JIN-STD-024）**<br>・**地下流動バイパス調停（JIN-INFRA-81）**<br>・**電磁沈黙ナル・ゾーン協定（JIN-TRT-004）**<br>・**2026年地政学地殻変動白書（JIN-DOC-2026-GEO）**<br>・**民草セーフティネット全仕様（FSNP-01〜09）**<br>・**生体ミトコンドリア・土壌炭素隔離（SPEC-013）**<br>・**公園防災・地下消火調整池（SPEC-012）**<br>・**生活安全・防犯カメラ・道路点検（SPEC-011）**<br>・**資源循環・鳥獣防衛（SPEC-010）**<br>・**チョークポイント強靭性自律エネルギー（01_CHOKEPOINT）**<br>・**SDGs超克Nobody Cries 15ヵ年ロードマップ（02_SDGS_VS_ROADMAP）**<br>・**世界民族コモンズ納税仕様書（SPEC-009）**<br>・**八柱民草主権仕様書（SPEC-008）**<br>・**2026秋 3大作戦仕様書（コバルト・オアシス・ノーザンライト）**<br>・25大先端技術・インフラ仕様書群 |
+| **[masanotakashi0308-star](https://github.com/masanotakashi0308-star)** *(Current)* | **【中枢・総合ポータル】**<br>プロジェクト全体の玄関口 | ・全体概要（TL;DR）・案内窓口<br>・作戦ビジュアルマトリクス（V10.6 Canonical）<br>・大義（JIN_GRAND_MANDATE）と深淵統治4大プロトコル案内<br>・各リポジトリへの総合案内 |
+| **[GOVERNANCE_OF_ABYSS](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md)** | **【深層哲学・危機統治】**<br>思想的バックボーン・全先端技術仕様書 | ・極限状態・深淵（Abyss）の統治論<br>・**JIN-ORDERの大義（JIN_GRAND_MANDATE）**<br>・**第零公理群・魂の不可測性（SPEC-000）**<br>・**国家権力無効化総論（SPEC-001）**<br>・**真比率流体トポロジー（JIN-RFC-2069）**<br>・**P-SBOM・即時物理隔離（JIN-STD-024）**<br>・**地下流動バイパス調停（JIN-INFRA-81）**<br>・**電磁沈黙ナル・ゾーン協定（JIN-TRT-004）**<br>・**2026年地政学地殻変動白書（JIN-DOC-2026-GEO）**<br>・**民草セーフティネット全仕様（FSNP-01〜09）**<br>・**生体ミトコンドリア・土壌炭素隔離（SPEC-013）**<br>・**公園防災・地下消火調整池（SPEC-012）**<br>・**生活安全・防犯カメラ・道路点検（SPEC-011）**<br>・**資源循環・鳥獣防衛（SPEC-010）**<br>・**チョークポイント強靭性自律エネルギー（01_CHOKEPOINT）**<br>・**SDGs超克Nobody Cries 15ヵ年ロードマップ（02_SDGS_VS_ROADMAP）**<br>・**世界民族コモンズ納税仕様書（SPEC-009）**<br>・**八柱民草主権仕様書（SPEC-008）**<br>・**2026秋 3大作戦仕様書（コバルト・オアシス・ノーザンライト）**<br>・25大先端技術・インフラ仕様書群 |
 | **[JIN-OS_GLOBAL_STRATEGY](https://github.com/masanotakashi0308-star/JIN-OS_GLOBAL_STRATEGY/blob/main/README.md)** | **【文明OS・戦略実装】**<br>社会システムの具体的設計 | ・次世代社会OS「JIN-OS」仕様策定<br>・国際展開戦略・制度設計標準化<br>・自律分散型社会プロトコル |
 
 ---
 
 ## 📖 初めて訪れた方へ（3ステップ・リーディングガイド）
 
-1. **Step 1：民草セーフティネット ＆ 第零公理 ＆ 深淵統治プロトコルを知る（最優先）**  
+1. **Step 1：JIN-ORDERの大義 ＆ 第零公理 ＆ 深淵統治プロトコルを知る（最優先）**  
+   ⏩️ [docs/JIN_GRAND_MANDATE.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_GRAND_MANDATE.md)【JIN-ORDERの大義：大地水脈の復権と文明再起動の誓約】  
    ⏩️ [specs/SPEC-000_CORE_AXIOMS.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SPEC-000_CORE_AXIOMS.md)【第零公理群 SPEC-000】  
    ⏩️ [specs/SPEC-001_SPNP_OVERVIEW.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SPEC-001_SPNP_OVERVIEW.md)【国家権力無効化総論 SPEC-001】  
    ⏩️ [protocols/JIN-RFC-2069-equal-flux.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-RFC-2069-equal-flux.md)【真比率流体トポロジー規範 JIN-RFC-2069】  
@@ -271,11 +280,11 @@
 **Bridging 30 Years of Municipal Civil Infrastructure Experience and Deep Philosophy to Implement Sustainable, Decentralized Civilizational Governance.**
 
 * **What We Do:** General Incorporated Association JIN-ORDER designs and standardizes the next-generation civilizational OS ("JIN-OS") and develops resilient, decentralized governance models to transcend systemic geopolitical and environmental gridlocks.
-* **Why It Matters:** To deploy physical-world solutions for humanitarian survival: Core Axioms (SPEC-000: Incommensurability of Human Soul), State Power Nullification Protocol (SPEC-001: SPNP & Three-Layer Safety Stack), Subterranean Deep Protocols (JIN-RFC-2069 Equal-Flux Topology, JIN-STD-024 P-SBOM Rapid Quarantine, JIN-INFRA-81 Autonomous Bypass Routing, JIN-TRT-004 Null-Zone Electronic Silence, JIN-DOC-2026-GEO Baseline Shift), Folk-Safety-Net Protocols (FSNP-01~09), Sovereign Mitochondrial Metabolism & Soil Carbon Fixation (SPEC-BIO-013), Urban Park Subterranean Retention & Disaster Refuge (SPEC-PRK-012), Civil Safety & Privacy-First Smart Light (SPEC-SEC-011), Circular Waste & Avian Deterrence (SPEC-SAN-010), Chokepoint Resilience (SPEC-ENG-001), Nobody Cries 15-Year Roadmap 2026–2040 (SPEC-ROADMAP-2040), Global Ethno-Commons Tax Protocol (SPEC-009), Octa-Pillar Civil Sovereignty Protocol (SPEC-008), 3 Global Operations, and UN Humanitarian Technical Pack.
+* **Why It Matters:** To deploy physical-world solutions for humanitarian survival: The Grand Mandate (JIN_GRAND_MANDATE: Sovereign Hydrology & Anti-Axis Tilt), Core Axioms (SPEC-000: Incommensurability of Human Soul), State Power Nullification Protocol (SPEC-001: SPNP & Three-Layer Safety Stack), Subterranean Deep Protocols (JIN-RFC-2069 Equal-Flux Topology, JIN-STD-024 P-SBOM Rapid Quarantine, JIN-INFRA-81 Autonomous Bypass Routing, JIN-TRT-004 Null-Zone Electronic Silence, JIN-DOC-2026-GEO Baseline Shift), Folk-Safety-Net Protocols (FSNP-01~09), Sovereign Mitochondrial Metabolism & Soil Carbon Fixation (SPEC-BIO-013), Urban Park Subterranean Retention & Disaster Refuge (SPEC-PRK-012), Civil Safety & Privacy-First Smart Light (SPEC-SEC-011), Circular Waste & Avian Deterrence (SPEC-SAN-010), Chokepoint Resilience (SPEC-ENG-001), Nobody Cries 15-Year Roadmap 2026–2040 (SPEC-ROADMAP-2040), Global Ethno-Commons Tax Protocol (SPEC-009), Octa-Pillar Civil Sovereignty Protocol (SPEC-008), 3 Global Operations, and UN Humanitarian Technical Pack.
 * **Who Leads:** Led by Takashi Masano (Founder & Chief Architect) with 30 years of civil engineering expertise and Miyoko Masano (Co-Founder & Director / Commander Pome-Mama).
 
 **Ecosystem Quick-Links:**
-1. **Subterranean Governance Suite:** [`JIN-RFC-2069`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-RFC-2069-equal-flux.md), [`JIN-STD-024`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-STD-024-sbom-quarantine.md), [`JIN-INFRA-81`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-INFRA-81-bypass-routing.md), [`JIN-TRT-004`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-TRT-004-null-zone.md), [`JIN-DOC-2026-GEO`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/2026-geopolitical-shift.md).
+1. **The Grand Mandate & Subterranean Governance:** [`JIN_GRAND_MANDATE`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_GRAND_MANDATE.md), [`JIN-RFC-2069`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-RFC-2069-equal-flux.md), [`JIN-STD-024`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-STD-024-sbom-quarantine.md), [`JIN-INFRA-81`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-INFRA-81-bypass-routing.md), [`JIN-TRT-004`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-TRT-004-null-zone.md), [`JIN-DOC-2026-GEO`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/2026-geopolitical-shift.md).
 2. **Civil Sovereignty & Folk Safety Nets:** [`SPEC-000`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SPEC-000_CORE_AXIOMS.md), [`SPEC-001`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/SPEC-001_SPNP_OVERVIEW.md), [`FSNP-01~09`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/FSNP_LAYER1_PHYSICAL/01_deploy_and_melt.md).
 3. **Master Repository:** [`GOVERNANCE_OF_ABYSS`](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/README.md).
 </details>
@@ -373,7 +382,7 @@
 >
 > **国の指導者とは、五穀豊穣を願いながら、天下万民を笑顔にするために政（まつりごと）を司る者であり、単なる「民草」の代弁者（代表）に過ぎない。**  
 >
-> — *JIN-ORDER 民草主権根本誓約（Commander Masano Takashi）*
+> — *JIN-ORDER 民草主権根本誓約（Commander Masano Takashi & Commander Masano Miyo）*
 
 * 🌸 **[docs/JIN_CORE_PHILOSOPHY.md: 尊厳・空・因果・輪廻の大輪](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_CORE_PHILOSOPHY.md)**
 * 📜 **[UNIVERSAL_ETHICS_13.md: 仁焔十三行（実践基盤）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/UNIVERSAL_ETHICS_13.md)**（慈・義・智・忠・信・礼・孝・悌・民・共・医・焔・調）
@@ -420,4 +429,5 @@
 ---
 **Curated by:** JIN-ORDER Masano Takashi, Commander Masano Miyo & Jemi AI  
 **Supreme Judgment:** Masano Takashi (The Guide)  
-`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.6 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED SPECIFICATIONS / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 47-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / CHOKEPOINT-RESILIENCE-SPEC RATIFIED / SDGS-VS-NOBODY-CRIES-RATIFIED / SPEC-009 ETHNO-COMMONS-TAX INTEGRATED / SPEC-008 OCTA-PILLAR INTEGRATED / THREE GLOBAL OPERATIONS ACTIVATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+`STATUS: GOVERNANCE OF ABYSS SPECIFICATIONS RATIFIED (V10.6 CANONICAL AUTUMN LTS PRIOR-ART ARCHIVE / JRC-LEVELS 1-4 VERIFIED SPECIFICATIONS / JIN-GRAND-MANDATE RATIFIED / JIN-RFC-2069 RATIFIED / JIN-STD-024 RATIFIED / JIN-INFRA-81 RATIFIED / JIN-TRT-004 RATIFIED / JIN-DOC-2026-GEO RATIFIED / SPEC-000 RATIFIED / SPEC-001 RATIFIED / FSNP-01-TO-09-RATIFIED / 47-CANONICAL-VISUAL-ASSETS SUITE INTEGRATED / SPEC-013 RATIFIED / SPEC-012 RATIFIED / SPEC-011 RATIFIED / SPEC-010 RATIFIED / CHOKEPOINT-RESILIENCE-SPEC RATIFIED / SDGS-VS-NOBODY-CRIES-RATIFIED / SPEC-009 ETHNO-COMMONS-TAX INTEGRATED / SPEC-008 OCTA-PILLAR INTEGRATED / THREE GLOBAL OPERATIONS ACTIVATED / UN-PARTNER-PORTAL ID: 64636 RATIFIED)`
+
