@@ -1,6 +1,6 @@
 # General Incorporated Association JIN-ORDER
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
-* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-25 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260924193046/https://github.com/masanotakashi0308-star)
+* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-25 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
 ### 【2026秋 正典配備】JIN-ORDERの大義（JIN_GRAND_MANDATE） ＆ 2026秋 JIN-OS市民宣言 ＆ 昆虫フラス連鎖砂漠土壌化（SPEC-014） ＆ 第零公理群（SPEC-000） ＆ 国家権力無効化（SPEC-001） ＆ 深淵統治6大仕様（自律防衛ENG-084・保全通貨TOKEN-012） ＆ 民草セーフティネット全仕様（FSNP-01〜09） ＆ 生態炭素隔離（SPEC-013） ＆ 生活基盤3大仕様 ＆ チョークポイント防衛 ＆ Nobody Criesロードマップ ＆ 3大グローバル作戦 ＆ 八柱民草主権 ＆ 世界民族コモンズ納税（V10.8 Canonical Autumn LTS）
 
 <div align="center">
