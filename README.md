@@ -1,6 +1,16 @@
 # General Incorporated Association JIN-ORDER
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
-* 🏛️ **【先行技術防壁・世界魚拓（Wayback Machine）】**: [2026-09-25 確定公知タイムスタンプ（Prior Art 永久証拠台帳）](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
+<!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![Archive.today](https://img.shields.io/badge/Archive.today-ygVLk-success?logo=archive.today)](https://archive.li/ygVLk)
+[![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
+
+🏛️ **【先行技術防壁・多重世界台帳】**
+- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
+- **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
+- **Archive.today**: [2026-09-25 独立魚拓確定版](https://archive.li/ygVLk)
+- **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
+
 ### 【2026秋 正典配備】JIN-ORDERの大義（JIN_GRAND_MANDATE） ＆ 2026秋 JIN-OS市民宣言 ＆ 昆虫フラス連鎖砂漠土壌化（SPEC-014） ＆ 第零公理群（SPEC-000） ＆ 国家権力無効化（SPEC-001） ＆ 深淵統治6大仕様（自律防衛ENG-084・保全通貨TOKEN-012） ＆ 民草セーフティネット全仕様（FSNP-01〜09） ＆ 生態炭素隔離（SPEC-013） ＆ 生活基盤3大仕様 ＆ チョークポイント防衛 ＆ Nobody Criesロードマップ ＆ 3大グローバル作戦 ＆ 八柱民草主権 ＆ 世界民族コモンズ納税（V10.8 Canonical Autumn LTS）
 
 <div align="center">
