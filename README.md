@@ -339,7 +339,21 @@ JIN-ORDERの大義（JIN_GRAND_MANDATE） ＆ 2026秋 JIN-OS市民宣言 ＆ 三
    ⏩️ [docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)【八柱民草主権 SPEC-008】  
 
 ---
+## ⚡ JIN-ORDER ADVANCED TECHNOLOGY CATALOG (抜粋)
+> 全25大技術体系の詳細は [25大技術体系カタログ（TECHNOLOGY_CATALOG.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/TECHNOLOGY_CATALOG.md) を参照。
 
+1. **生体臓器分散型コンピューティング＆身体主権防衛** `[Level 3]`：20W代謝模倣チップレット、侵襲的サイボーグ化の拒絶。
+2. **ジン・ドラゴン次世代三位一体エネルギーマトリクス** `[Level 3]`：ペロブスカイト×全固体Jin-Battery×海洋塩ナトリウム蓄電。
+3. **水中自律計算＆ケーブル哨戒ノード（SSCN-01）** `[Level 3]`：1,500m深海配備、DAS受動ソナー、PQC量子暗号。
+4. **サヘル乾燥地帯オフグリッド人道再生（LSU-Chad-01）** `[Level 2]`：外来種バイオ炭化、深層帯水層揚水、テラ・プレタ土壌再生。
+5. **低温減圧膜蒸留（VMD海水淡水化）＆濃縮ブライン資源化** `[Level 2]`：排熱利用低温沸騰、造水電力<0.8kWh/m³。
+6. **上下水道管内インラインマイクロ水力＆SCWG水素** `[Level 2]`：管路水圧発電、下水汚泥超臨界水素化。
+7. **都市地下共同溝統合型液浸コンピュート＆JIN-ZONING** `[Level 2]`：下水熱交換ループ直結、排熱カスケード地域供給。
+8. **光分散音響センシング（DAS）全海底受動ソナー防衛網** `[Level 2]`：光ファイバー二重利用、海底歪み・侵入探知。
+9. **古来源頭部土砂抑止・山腹崩壊防護工法** `[Level 1]`：石積砂留、竹蛇籠積層、等高線しがらき伝統治山実務。
+10. **砂漠砂改質・高強度骨材精製プラント（CSEB）** `[Level 1]`：現地風成砂100%活用、手動トグルプレス圧縮強度>45N/mm²。
+
+---
 <details>
 <summary>🌐 <b>English Summary (TL;DR & Reading Guide for Global Visitors)</b> [Click to expand]</summary>
 
