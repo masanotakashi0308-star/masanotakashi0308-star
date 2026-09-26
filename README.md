@@ -233,7 +233,7 @@ JIN-ORDERの大義（JIN_GRAND_MANDATE） ＆ 2026秋 JIN-OS市民宣言 ＆ 動
   中央集権的な統治の硬直化と、現場から遊離した抽象論の限界を打破するためです。米中AI覇権やチョークポイント危機、ハイブリッド戦による都市麻痺に晒される民草を守りながら、国際標準に耐えうる強靭な物理インフラ（大義の誓約・2026秋JIN-OS市民宣言・第零公理群・国家権力無効化SPNP・自律都市防衛ENG-084・市民インフラ保全PoCIトークノミクス・**動的広域減災シールドSPEC-017**・**三重円環地球再生SPEC-016**・**国連WIPO GREEN登録技術 生態共生水素還元製鉄SPEC-015**・**国連WIPO GREEN登録技術 昆虫フラス連鎖砂漠土壌化SPEC-014**・深淵統治仕様群・民草セーフティネット・生体ミトコンドリア土壌炭素隔離・公園地下消火雨水調整池・生活安全防犯灯・折りたたみ集積カゴ・チョークポイント強靭性・Nobody Cries 15ヵ年ロードマップ・世界民族コモンズ納税・八柱民草主権・3大作戦・Pomeプロトコル実物決済）を構築します。
 
 - **【Who（誰が動かしているのか）】**  
-  30年間にわたり都市インフラ・道路・自治体実務の現場を支え抜いた知見と、深層哲学・デジタルアーキテクチャを融合させた実践型チーム（Founder & Chief Architect: 正野 崇（Masano Takashi) / Co-Founder & Director: 正野 美代子（Masano Miyoko / Commander Pome-Mama）によって主導されています。
+  30年間にわたり都市インフラ・道路・自治体実務の現場を支え抜いた知見と、深層哲学・デジタルアーキテクチャを融合させた実践型チーム（Founder & Chief Architect: 正野 貴司（Masano Takashi) / Co-Founder & Director: 正野 美代（Masano Miyo / Commander Pome-Mama）によって主導されています。
 
 ---
 
@@ -292,11 +292,11 @@ JIN-ORDERの大義（JIN_GRAND_MANDATE） ＆ 2026秋 JIN-OS市民宣言 ＆ 動
 ### 🌐 13. 三重円環地球再生 ＆ 先端セラミックス熱力学的輪廻転生仕様書（SPEC-016）
 - 📄 **仕様書**: [docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md) `[REF: JIN-SPEC-IND-016]`
 - 🌐 **国連WIPO GREEN公式登録**: WIPO GREEN Technology ID: 179879 (Processing/Ready)
-- **核心内容**: 「エネルギーの循環＋人々の生活の循環＋自然環境の循環」の三重円環による地球再生[cite: 17, 18]。電炉排熱（800〜1,200℃）をSOEC高温水電解に直結し[cite: 16, 18]、サブナノゼオライト膜で下水バイオガスからCO2とメタンを高純度分離[cite: 16, 18]。ハニカムリアクターでオンサイトe-fuelを自給し[cite: 16, 17, 18]、NAS・全固体セラミックス蓄電で系統瞬低をゼロ化[cite: 16, 18]。先端技術と民草の日常が融合し、贅沢なき自然の笑顔を守り抜く文明仕様[cite: 17, 18]。
+- **核心内容**: 「エネルギーの循環＋人々の生活の循環＋自然環境の循環」の三重円環による地球再生。電炉排熱（800〜1,200℃）をSOEC高温水電解に直結し、サブナノゼオライト膜で下水バイオガスからCO2とメタンを高純度分離。ハニカムリアクターでオンサイトe-fuelを自給し、NAS・全固体セラミックス蓄電で系統瞬低をゼロ化。先端技術と民草の日常が融合し、贅沢なき自然の笑顔を守り抜く文明仕様。
 
 ### 🛡️ 14. 動的広域減災シールド ＆ 生体複合環境修復仕様書（SPEC-017）
 - 📄 **仕様書**: [docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md) `[REF: JIN-SPEC-ENV-017]`
-- **核心内容**: 孫子の兵法「水に常形なし」に基づく非線形減災体系[cite: 24]。EnMAP衛星・無人ヨット海面冷却による大洋気候調律（ラニーニャ・エルニーニョ緩和）[cite: 16, 17, 18]、4D統合災害検知[cite: 20]、火山灰スクラバー・セメントフリー新燃レンガ成型・農地炭素風化（ERWによる千年海洋炭素隔離）[cite: 20, 21, 24]、多層常緑広葉樹防火帯（サンゴジュ・厚皮ウバメガシ）＆海藻バイオジェル空中消火によるメガファイア阻止[cite: 22, 23, 24]、電場移動（EK-SERS）×植物×バイオ炭壁（PEIR）による深層重金属・PFAS完全熱無害化（1,100℃/SCWG）とファイトマイニング資源回収[cite: 23, 24]。
+- **核心内容**: 孫子の兵法「水に常形なし」に基づく非線形減災体系。EnMAP衛星・無人ヨット海面冷却による大洋気候調律（ラニーニャ・エルニーニョ緩和）、4D統合災害検知、火山灰スクラバー・セメントフリー新燃レンガ成型・農地炭素風化（ERWによる千年海洋炭素隔離）、多層常緑広葉樹防火帯（サンゴジュ・厚皮ウバメガシ）＆海藻バイオジェル空中消火によるメガファイア阻止、電場移動（EK-SERS）×植物×バイオ炭壁（PEIR）による深層重金属・PFAS完全熱無害化（1,100℃/SCWG）とファイトマイニング資源回収。
 
 ---
 
