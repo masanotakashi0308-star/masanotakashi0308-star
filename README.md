@@ -327,7 +327,7 @@ JIN-ORDERの大義（JIN_GRAND_MANDATE） ＆ 2026秋 JIN-OS市民宣言 ＆ 動
    ⏩️ [protocols/JIN-STD-024-sbom-quarantine.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-STD-024-sbom-quarantine.md)【P-SBOM即時物理隔離条項 JIN-STD-024】  
    ⏩️ [protocols/JIN-INFRA-81-bypass-routing.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/protocols/JIN-INFRA-81-bypass-routing.md)【地下流動バイパス調停条項 JIN-INFRA-81】  
    ⏩️ [docs/JIN-TRT-004-null-zone.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-TRT-004-null-zone.md)【電磁沈黙ナル・ゾーン協定 JIN-TRT-004】  
-   ⏩️ [docs/2026-geopolitical-shift.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/2026-geopolitical-shift.md)【2026年地政学地殻変動白書 JIN-DOC-2026-GEO】  
+   ⏩️ [docs/2026-geopolitical-shift.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-DOC-2026-GEO.md)【2026年地政学地殻変動白書 JIN-DOC-2026-GEO】  
 
 2. **Step 2：現場鑑識・循環土木・防災道路・生活安全を知る（3分）**  
    ⏩️ [specs/FSNP_LAYER1_PHYSICAL/01_deploy_and_melt.md](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/FSNP_LAYER1_PHYSICAL/01_deploy_and_melt.md)【非固着型可動シェルター仕様 FSNP-01】  
