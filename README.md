@@ -10,7 +10,7 @@
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-25 確定公知タイムスタンプ](https://web.archive.org/web/20260925090309/https://github.com/masanotakashi0308-star)
-- **Archive.today**: [2026-09-27 独立魚拓確定版 (ID: rZzTB)](https://archive.li/rZzTB)
+- **Archive.today**: [2026-09-28 独立魚拓確定版 (ID: rZzTB)](https://archive.li/rZzTB)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 ### 【2026秋 正典配備】
