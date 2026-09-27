@@ -52,8 +52,8 @@
 ---
 <!-- INTERNATIONAL MULTILATERAL REGISTRATION & COMMONS DEFENSE STATUS -->
 <p align="left">
-  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179871"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179871" /></a>[cite: 4]
-  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179878"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179878)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179878" /></a>[cite: 4]
+  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179871"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179871)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179871" /></a>
+  <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179878"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179878)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179878" /></a>
   <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179881"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179881)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179881" /></a>
   <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179882"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179882)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179882" /></a>
   <a href="https://wipogreen.wipo.int/wipogreen-database/articles/179883"><img src="https://img.shields.io/badge/WIPO%20GREEN-Registered%20(ID%3A%20179883)-2d6a4f?style=for-the-badge&logo=virustotal&logoColor=white" alt="WIPO GREEN 179883" /></a>
