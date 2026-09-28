@@ -4,10 +4,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22959426.svg)](https://doi.org/10.5281/zenodo.22959426)
 [![Archive.today](https://img.shields.io/badge/Archive.today-AfyTS-success?logo=archive.today)](https://archive.li/AfyTS)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
-[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(11%20Technologies%20IDs%3A%20179871~179896)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(15%20Technologies%20IDs%3A%20179871~179901)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 ### 🏛️ 【先行技術防壁・多重世界台帳】
-- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
 - **Wayback Machine**: [2026-09-29 確定公知タイムスタンプ](https://web.archive.org/web/20260928195015/https://github.com/masanotakashi0308-star )
 - **Archive.today**: [2026-09-29 独立魚拓確定版 (ID: AfyTS)](https://archive.li/AfyTS)
@@ -75,7 +75,11 @@
 >    * [`Technology ID: 179884`](https://wipogreen.wipo.int/wipogreen-database/articles/179884): `JIN-SPEC-HYDRO-018` (*Marine-Cascade Living Hydro-Battery Protocol*).
 >    * [`Technology ID: 179886`](https://wipogreen.wipo.int/wipogreen-database/articles/179886): `JIN-SPEC-OCEAN-019` (*Aero-Tidal Dual-Flux Harvesting & Abyssal Mooring Protocol*).
 >    * [`Technology ID: 179888`](https://wipogreen.wipo.int/wipogreen-database/articles/179888): `JIN-SPEC-GEO-020` (*Seismo-Harvesting, Geothermal Energy Generation & IGS Disaster Tomography Protocol*).
->    * [`Technology ID: 179896`](https://wipogreen.wipo.int/wipogreen-database/articles/179871): `JIN-SPEC-CIV-022` (*Revolutionary In-Situ Civic Concrete, Carbon-Sink Mortar & Subterranean Aquifer Preservation Protocol*).
+>    * [`Technology ID: 179896`](https://wipogreen.wipo.int/wipogreen-database/articles/179896): `JIN-SPEC-CIV-022` (*Revolutionary In-Situ Civic Concrete, Carbon-Sink Mortar & Subterranean Aquifer Preservation Protocol*).
+>    * [`Technology ID: 179898`](https://wipogreen.wipo.int/wipogreen-database/articles/179898): `JIN-SPEC-CIV-023` (*Sovereign Dynamic Fluvial Retention, Kasumi Levee Hydraulics & Submerged Isolation Resilience Protocol*).
+>    * [`Technology ID: 179899`](https://wipogreen.wipo.int/wipogreen-database/articles/179899): `JIN-SPEC-CIV-024` (*Sovereign Deep-Seated Landslide, River Choking & Emergency Siphon Dam-Breach Defense Protocol*).
+>    * [`Technology ID: 179900`](https://wipogreen.wipo.int/wipogreen-database/articles/179900): `JIN-SPEC-CIV-025` (*Sovereign Cryospheric Snow-Ice Disaster, Zero-Salt Pavement Preservation & Geothermal/Sewage-Heat Defense Protocol*).
+>    * [`Technology ID: 179901`](https://wipogreen.wipo.int/wipogreen-database/articles/179901): `JIN-SPEC-CIV-026` (*Sovereign Urban Firestorm Suppression, Sewer-Pressurized Mist Curtain & Post-Quake Debris Metabolic Recovery Protocol*).
 > 2. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
 > 3. **UNDRR / PreventionWeb**: Technical publication `JIN_DYNAMIC_GEO_HAZARD_SHIELD.md` officially deposited and indexed as Sendai Framework Prior Art (2026).
 > 4. **UNHCR / United Nations Partner Portal (UNPP)**:
