@@ -124,7 +124,7 @@
 <!-- SPEC-CCNP-088 大深度複合地下回廊 ヒーローバナー -->
 <div align="center">
   <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">
-    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/docs/assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg" width="100%" alt="SPEC-CCNP-088: 大深度複合地下回廊および不可侵調停プロトコル アイソメトリック断面図" />
+    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_03.jpg" width="100%" alt="SPEC-CCNP-088: 大深度複合地下回廊および不可侵調停プロトコル アイソメトリック断面図" />
   </a>
   <p><b>🚇 【2026最新大深度土木仕様】<a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">SPEC-CCNP-088：チョークポイント中立化 ＆ φ13.5m大深度複合地下回廊・IAAC調停仕様書</a></b><br>
   <sub>地上チョークポイント封鎖・AI軍事暴走を無力化。GL -48.50m洪積粘土層に、磁気浮上物流・極低温量子調停回線・180m³/s非開削更生排水トンネルを完全一体化した都市生命線。</sub></p>
@@ -152,7 +152,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">
-        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/docs/assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_01.jpg" width="100%" alt="超深層シールドトンネル技術図面 詳細断面図 (S=1:100)" />
+        <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION_01.jpg" width="100%" alt="超深層シールドトンネル技術図面 詳細断面図 (S=1:100)" />
       </a>
     </td>
   </tr>
