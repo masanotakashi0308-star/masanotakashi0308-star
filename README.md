@@ -2,15 +2,15 @@
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22959426.svg)](https://doi.org/10.5281/zenodo.22959426)
-[![Archive.today](https://img.shields.io/badge/Archive.today-AfyTS-success?logo=archive.today)](https://archive.li/AfyTS)
+[![Archive.today](https://img.shields.io/badge/Archive.today-J4f4P-success?logo=archive.today)](https://archive.li/J4f4P)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
-[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(15%20Technologies%20IDs%3A%20179871~179901)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+[![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(16%20Technologies%20IDs%3A%20179871~179936)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 ### 🏛️ 【先行技術防壁・多重世界台帳】
-- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
+- **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (ID: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済
-- **Wayback Machine**: [2026-09-29 確定公知タイムスタンプ](https://web.archive.org/web/20260928195015/https://github.com/masanotakashi0308-star)
-- **Archive.today**: [2026-09-29 独立魚拓確定版 (ID: AfyTS)](https://archive.li/AfyTS)
+- **Wayback Machine**: [2026-10-01 確定公知タイムスタンプ](https://web.archive.org/web/20261001152251/https://github.com/masanotakashi0308-star)
+- **Archive.today**: [2026-10-01 独立魚拓確定版 (ID: J4f4P)](https://archive.li/J4f4P)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 #### 【2026秋 正典配備】
@@ -82,6 +82,7 @@
 >    * [`Technology ID: 179899`](https://wipogreen.wipo.int/wipogreen-database/articles/179899): `JIN-SPEC-CIV-024` (*Sovereign Deep-Seated Landslide, River Choking & Emergency Siphon Dam-Breach Defense Protocol*).
 >    * [`Technology ID: 179900`](https://wipogreen.wipo.int/wipogreen-database/articles/179900): `JIN-SPEC-CIV-025` (*Sovereign Cryospheric Snow-Ice Disaster, Zero-Salt Pavement Preservation & Geothermal/Sewage-Heat Defense Protocol*).
 >    * [`Technology ID: 179901`](https://wipogreen.wipo.int/wipogreen-database/articles/179901): `JIN-SPEC-CIV-026` (*Sovereign Urban Firestorm Suppression, Sewer-Pressurized Mist Curtain & Post-Quake Debris Metabolic Recovery Protocol*).
+>    * [`Technology ID: 179936`](https://wipogreen.wipo.int/wipogreen-database/articles/179936): `JIN-SPEC-CIV-027` (*Sovereign advanced compute & civil conduit integration*).
 > 2. **Digital Public Goods Alliance (DPGA)**: Formally nominated and under technical review as an international communal public good (Application ID: `GID0094240`, Timestamp: 2026-09-16 07:28 UTC).
 > 3. **UNDRR / PreventionWeb**: Technical publication `JIN_DYNAMIC_GEO_HAZARD_SHIELD.md` officially deposited and indexed as Sendai Framework Prior Art (2026).
 > 4. **UNHCR / United Nations Partner Portal (UNPP)**:
