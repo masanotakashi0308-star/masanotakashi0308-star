@@ -3,16 +3,16 @@
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![Latest Release DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23111012.svg)](https://doi.org/10.5281/zenodo.23111012)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
-[![Portal DOI](https://img.shields.io/badge/Portal%20DOI-10.5281%2Fzenodo.22959426-darkblue)](https://doi.org/10.5281/zenodo.22959426)
-[![Archive.today](https://img.shields.io/badge/Archive.today-VSO6V-success?logo=archive.today)](https://archive.li/VSO6V)
+[![Portal DOI](https://img.shields.io/badge/Portal%20DOI-10.5281%2Fzenodo.23129267-darkblue)](https://doi.org/10.5281/zenodo.23129267)
+[![Archive.today](https://img.shields.io/badge/Archive.today-XLURL-success?logo=archive.today)](https://archive.li/XLURL)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(24%20Technologies%20IDs%3A%20179871~179968)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
 
 ### 🏛️ 【先行技術防壁・多重世界台帳】
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定・申請済 (全24技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966 / 179967 / 179968)](https://wipogreen.wipo.int/wipogreen-database/articles/179871)
-- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.23111012](https://doi.org/10.5281/zenodo.23111012) / Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158) / Portal DOI: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426)）
-- **Wayback Machine**: [2026-10-02 確定公知タイムスタンプ](https://web.archive.org/web/20261002212609/https://github.com/masanotakashi0308-star)
-- **Archive.today**: [2026-10-02 独立魚拓確定版 (ID:VSO6V)](https://archive.li/VSO6V)
+- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.23111012](https://doi.org/10.5281/zenodo.23111012) / Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158) / Portal DOI: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426) / Portal DOI:[10.5281/zenodo.23129267]( https://zenodo.org/records/23129267)）
+- **Wayback Machine**: [2026-10-04 確定公知タイムスタンプ](https://web.archive.org/web/20261004044136/https://github.com/masanotakashi0308-star)
+- **Archive.today**: [2026-10-04 独立魚拓確定版 (ID:XLURL)](https://archive.li/XLURL)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 #### 【2026秋 正典配備】
