@@ -1,7 +1,7 @@
 # General Incorporated Association JIN-ORDER
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
-[![Latest Release DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23148196.svg)](https://doi.org/10.5281/zenodo.22959426)
+[![Latest Release DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22959426.svg)](https://doi.org/10.5281/zenodo.22959426)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
 [![Archive.today](https://img.shields.io/badge/Archive.today-F4PuA-success?logo=archive.today)](https://archive.li/F4PuA)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
