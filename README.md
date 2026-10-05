@@ -1,7 +1,7 @@
 # General Incorporated Association JIN-ORDER
 > **現場の実務知と深層哲学を架橋し、持続可能な自律分散型ガバナンスを社会実装する文明アーキテクチャ**
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
-[![Latest Release DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22959426.svg)](https://doi.org/10.5281/zenodo.22959426)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23172804.svg)](https://doi.org/10.5281/zenodo.23172804)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
 [![Archive.today](https://img.shields.io/badge/Archive.today-F4PuA-success?logo=archive.today)](https://archive.li/F4PuA)
 [![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
@@ -9,7 +9,7 @@
 
 ### 🏛️ 【先行技術防壁・多重世界台帳】
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (全30技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966 / 179967 / 179968 / 179970 / 179971 / 179972 / 179973 / 179974 / 179978)](https://wipogreen.wipo.int/wipogreen-database/articles/179978)
-- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426) / Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)）
+- **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI:[10.5281/zenodo.23172804](https://doi.org/10.5281/zenodo.23172804) / Concept DOI:[10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158)）
 - **Wayback Machine**: [2026-10-05 確定公知タイムスタンプ](https://web.archive.org/web/20261005055259/https://github.com/masanotakashi0308-star)
 - **Archive.today**: [2026-10-05 独立魚拓確定版 (ID:F4PuA)](https://archive.li/F4PuA)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
