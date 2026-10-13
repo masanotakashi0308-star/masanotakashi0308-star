@@ -18,75 +18,74 @@
 #### 【2026秋 正典配備】全正典体系・階層別インデックス
 
 > **🏛️ 至高法規・根本統治・大義**
-> - **至高最高法規・仁焔世界大憲章 2040**（`CONSTITUTION.md`）
-> - **仁秩序大宣言 V8.0 大統合正典**（`MANIFESTO.md`：食とインフラの主権・民草の覚醒・FREE-FLOW原則）
-> - **全球ASI覇権地図 V8.3**（`docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md`：物理ハードキャップ・基盤層ゼロ・同盟負担転嫁暴露）
-> - **戦略警告白書 V2.0**（`docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md`：JIN-DOC-2026-WETWARE-ALERT 生体神経チップCL1兵器化、AI合成病原体、世界4大バイオ特区、浙江半導体血脈、日本解体・ブータンGMC脱出回廊暴露、第零公理防壁）
-> - **自治体エネルギー防衛及びインフラ共生モデル条例**（`docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md`）
-> - **全惑星・地域自立分散循環統合マスター仕様書**（`SPEC-000`）
-> - **JIN開拓地特別法**（`JIN_FRONTIER_LAW.md`：受入自治体ゼロ・バーデン共生第VII章追加）
-> - **二大終末リスク同時解体白書**（`JIN-DOC-2026-DISARM`）
-> - **自律不沈インフラ仕様群**（`JIN-SPEC-2026-001〜005` / `specs/README.md`）
-> - **自律分散司法OS・客観事実検証プロトコル**（`SPEC-031_JUSTICE_OS`）
-> - **世界民族コモンズ納税仕様書**（`SPEC-009`）
+> - **[至高最高法規・仁焔世界大憲章 2040（CONSTITUTION.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONSTITUTION.md)**
+> - **[仁秩序大宣言 V8.0 大統合正典（MANIFESTO.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)** <br>➡️　食とインフラの主権・民草の覚醒・FREE-FLOW原則
+> - **[全球ASI覇権地図 V8.3（docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)** <br>➡️　物理ハードキャップ・基盤層ゼロ・同盟負担転嫁暴露
+> - **[戦略警告白書 V2.0（docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md)** <br>➡️　生体神経チップCL1兵器化、AI合成病原体、世界4大バイオ特区、浙江半導体血脈、日本解体・ブータンGMC脱出回廊暴露、第零公理防壁
+> - **[自治体エネルギー防衛及びインフラ共生モデル条例（docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)**
+> - **[全惑星・地域自立分散循環統合マスター仕様書（SPEC-000）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**
+> - **[JIN開拓地特別法（JIN_FRONTIER_LAW.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_FRONTIER_LAW.md)** ➡️ 受入自治体ゼロ・バーデン共生第VII章追加）
+> - **[二大終末リスク同時解体白書（JIN-DOC-2026-DISARM）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_DOC_2026_DUAL_DISARMAMENT_DOCTRINE.md)**
+> - **[自律不沈インフラ仕様群（JIN-SPEC-2026-001〜005/specs/README.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/README.md)**
+> - **[自律分散司法OS・客観事実検証プロトコル（SPEC-031_JUSTICE_OS）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-031_JUSTICE_OS_TRUTH_VERIFICATION_PROTOCOL.md)**
+> - **[世界民族コモンズ納税仕様書（SPEC-009）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-009_GLOBAL_ETHNO_COMMONS_TAX_PROTOCOL.md)**
 
 > **🪐 宇宙・深海・恒久エネルギー・核融合**
-> - **閉鎖宇宙循環生命維持ECLSS**（`JIN-DOC-2026-SPACE` / WIPO ID: 180061）
-> - **宇宙ヘリウム3直接電磁誘導核融合＆IGS炉内トモグラフィ**（`SPEC-999` / WIPO ID: 179964）
-> - **超臨界荷電核変換＆IGSキャスク透視**（`SPEC-029` / WIPO ID: 179967）
-> - **宇宙惑星レゴリス自律土壌化＆テラ・プレタ創生**（`SPEC-030` / WIPO ID: 179968）
-> - **風・海流複合デュアル運動エネルギー変換**（`SPEC-019` / WIPO ID: 179886）
-> - **生体防潮オイスターリーフ＆深海海溝調停**（`SPEC-034` / WIPO ID: 179973）
-> - **沖縄トラフ深海基盤防衛ノード SSCN-01**（`GLOBAL_ASI_HEGEMONY_MAP V8.3`）
-> - **大深度複合地下回廊・IAAC調停**（`SPEC-CCNP-088`）
+> - **[閉鎖宇宙循環生命維持ECLSS（JIN-DOC-2026-SPACE）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_COSMIC_ECLSS_CLOSED_LOOP_ARCHITECTURE.md)**　➡️【WIPO ID: 180061】
+> - **[宇宙ヘリウム3直接電磁誘導核融合＆IGS炉内トモグラフィ（SPEC-999）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-999_COSMIC_HELIUM3_FUSION_CORE_CONTROL_PROTOCOL.md)**　➡️【WIPO ID: 179964】
+> - **[超臨界荷電核変換＆IGSキャスク透視（SPEC-029）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-029_BIO_ISOTHERMAL_OPTOELECTRONIC_NUCLEAR_TRANSMUTATION_PROTOCOL.md)**　➡️【WIPO ID: 179967】
+> - **[宇宙惑星レゴリス自律土壌化＆テラ・プレタ創生（SPEC-030）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-030_COSMIC_PLANETARY_REGOLITH_TERRA_PRETA_SOIL_METABOLISM_PROTOCOL.md)**　➡️【WIPO ID: 179968】
+> - **[風・海流複合デュアル運動エネルギー変換（SPEC-019）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-019_AERO_TIDAL_DUAL_FLUX_ABYSSAL_MOORING_PROTOCOL.md)**　➡️【WIPO ID: 179886】
+> - **[生体防潮オイスターリーフ＆深海海溝調停（SPEC-034）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-034_LIVING_BREAKWATERS_OYSTER_REEF_PROTOCOL.md)**　➡️【WIPO ID: 179973】
+> - **[沖縄トラフ深海基盤防衛ノード SSCN-01(GLOBAL_ASI_HEGEMONY_MAP V8.3)](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)**
+> - **[大深度複合地下回廊・IAAC調停（SPEC-CCNP-088）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md)**
 
 > **🧠 主権計算・光電融合・自律知能・耐量子暗号**
-> - **完全生体自律知能 Living Silicon＆極限10大物理ハードウェア**（`ANNEX-SPEC-027/028` / WIPO ID: 179978）
-> - **20W生体代謝型脳型チップレット＆地下動脈冷却**（`SPEC-027` / WIPO ID: 179936）
-> - **生体等温光電融合＆IGSナノ光路非破壊透視**（`SPEC-028` / WIPO ID: 179966）
-> - **人間主権型フィジカルAI＆匠暗黙知リザーバ進化マージ**（`SPEC-037` / WIPO ID: 180050）
-> - **物理現物資源担保分散台帳 J-PRL**（`SPEC-028_PROTOCOL_01`）
-> - **越境中立自律調停・キルスイッチ無効化**（`SPEC-005`）
-> - **物理アンカー規約・公道下アンカー禁止**（`SPEC-004`）
-> - **エネルギー拘束ルーティング・能動曝気調停**（`SPEC-003`）
+> - **[完全生体自律知能 Living Silicon＆極限10大物理ハードウェア（ANNEX-SPEC-027/028）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-027_028_ANNEX_DEEP_HARDWARE_SYNTHESIS.md)**　➡️【WIPO ID: 179978】
+> - **[20W生体代謝型脳型チップレット＆地下動脈冷却（SPEC-027）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-027_NEUROMORPHIC_CHIPLET_CIVIC_CONDUIT_PROTOCOL.md)**　➡️【WIPO ID: 179936】
+> - **[生体等温光電融合＆IGSナノ光路非破壊透視（SPEC-028）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-028_BIO_ISOTHERMAL_OPTOELECTRONIC_IGS_COMPUTE_PROTOCOL.md)**　➡️【WIPO ID: 179966】
+> - **[人間主権型フィジカルAI＆匠暗黙知リザーバ進化マージ（SPEC-037）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-037_HUMAN_SOVEREIGN_PHYSICAL_AI_RESERVOIR_MERGE_PROTOCOL.md)**　➡️【WIPO ID: 180050】
+> - **[物理現物資源担保分散台帳 J-PRL（SPEC-028_PROTOCOL_01）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-028_PROTOCOL_01_PHYSICAL_RESOURCE_LEDGER.md)**
+> - **[越境中立自律調停・キルスイッチ無効化（SPEC-005）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-005_CROSS_BORDER_NEUTRALITY_PROTOCOL.md)**
+> - **[物理アンカー規約・公道下アンカー禁止（SPEC-004）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)**
+> - **[エネルギー拘束ルーティング・能動曝気調停（SPEC-003）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-PWR-003.md)**　
 
 > **💧 水利・WASH・極限環境再生・サヘル自立**
-> - **サヘル自立オアシスインフラ現場配備**（`SPEC-030_LSU_CHAD_01` / WIPO ID: 179882）
-> - **溶存酸素純増放流・流域水理**（`SPEC-001` / WIPO ID: 179959）
-> - **多重冗長化WASH・3重リング配管**（`SPEC-002` / WIPO ID: 179960）
-> - **Bio-FOEAS農地水理・田んぼダム治水**（`SPEC-006` / WIPO ID: 179961）
-> - **沿岸連鎖水理蓄電・井川用水モデル**（`SPEC-018` / WIPO ID: 179884）
-> - **原位置PFAS完全無毒化＆電場生体ハイブリッド水脈解毒**（`SPEC-031` / WIPO ID: 179970）
-> - **公園防災地下調整池・消火水利**（`SPEC-012` / WIPO ID: 179883）
+> - **[サヘル自立オアシスインフラ現場配備（SPEC-030_LSU_CHAD_01）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-030_LSU_CHAD_01_AUTONOMOUS_INFRASTRUCTURE.md)**　➡️【WIPO ID: 179882】
+> - **[溶存酸素純増放流・流域水理（SPEC-001）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-ECO-001.md)**　➡️【WIPO ID: 179959】
+> - **[多重冗長化WASH・3重リング配管（SPEC-002）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-WASH-002.md)**　➡️【WIPO ID: 179960】
+> - **[Bio-FOEAS農地水理・田んぼダム治水（SPEC-006）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-006_BIO_FOEAS_WATERSHED_SOVEREIGNTY.md)**　➡️【WIPO ID: 179961】
+> - **[沿岸連鎖水理蓄電・井川用水モデル（SPEC-018）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-018_MARINE_CASCADE_LIVING_HYDRO_BATTERY_PROTOCOL.md)**　➡️【WIPO ID: 179884】
+> - **[原位置PFAS完全無毒化＆電場生体ハイブリッド水脈解毒（SPEC-031）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-031_IN_SITU_PFAS_WATERSHED_REMEDIATION_PROTOCOL.md)**　➡️【WIPO ID: 179970】
+> - **[公園防災地下調整池・消火水利（SPEC-012）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-012_SOVEREIGN_URPARK_DISASTER_REFUGE_PROTOCOL.md)**　➡️【WIPO ID: 179883】
 
 > **🌱 生態循環・物質代謝・触媒・土壌創生**
-> - **天然キラル生体触媒＆不斉合成統合**（`SPEC-038` / WIPO ID: 180051）
-> - **三重円環地球再生・セラミックス熱力学的輪廻**（`SPEC-016` / WIPO ID: 179879）
-> - **生態共生水素還元製鉄・バイオスラグ循環**（`SPEC-015` / WIPO ID: 179878）
-> - **昆虫フラス連鎖砂漠土壌化**（`SPEC-014` / WIPO ID: 179871）
-> - **生体ミトコンドリア炭素隔離**（`SPEC-013` / WIPO ID: 179881）
-> - **都心・地方二元型資源循環**（`SPEC-010` / WIPO ID: 179963）
-> - **都市風道コリドー＆常温VOC光触媒＆大気ナノプラ量子回収**（`SPEC-035` / WIPO ID: 179974）
-> - **火山降灰サイクロン分級＆排熱ジオポリマー＆ERW**（`SPEC-032` / WIPO ID: 179971）
+> - **[天然キラル生体触媒＆不斉合成統合（SPEC-038）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-038_NATURAL_CHIRAL_CATALYTIC_FRAMEWORK.md)**　➡️【WIPO ID: 180051】
+> - **[三重円環地球再生・セラミックス熱力学的輪廻（SPEC-016）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-016_TRI_CIRCULAR_PLANETARY_METABOLISM_PROTOCOL.md)**　➡️【WIPO ID: 179879】
+> - **[生態共生水素還元製鉄・バイオスラグ循環（SPEC-015）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-015_ECOLOGICAL_HYDROGEN_STEEL_CIRCULAR_PROTOCOL.md)**　➡️【WIPO ID: 179878】
+> - **[昆虫フラス連鎖砂漠土壌化（SPEC-014）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-014_TENEBRIONID_FRASS_SOIL_REGENERATION_PROTOCOL.md)**　➡️【WIPO ID: 179871】
+> - **[生体ミトコンドリア炭素隔離（SPEC-013）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-013_SOVEREIGN_MITOCHONDRIAL_CARBON_SEQUESTRATION_PROTOCOL.md)**　➡️【WIPO ID: 179881】
+> - **[都心・地方二元型資源循環（SPEC-010）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-010_URBAN_RURAL_CIRCULAR_SANITATION_PROTOCOL.md)**　➡️【WIPO ID: 179963】
+> - **[都市風道コリドー＆常温VOC光触媒＆大気ナノプラ量子回収（SPEC-035）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-035_URBAN_VENTILATION_VOC_NANOPLASTIC_PROTOCOL.md)**　➡️【WIPO ID: 179974】
+> - **[火山降灰サイクロン分級＆排熱ジオポリマー＆ERW（SPEC-032）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-032_VOLCANIC_ASH_GEOPOLYMER_ERW_PROTOCOL.md)**　➡️【WIPO ID: 179971】
 
 > **🛡️ 極限防災・地殻調停・民草主権・生活安全**
-> - **地球システム統合連鎖・複合災害遮断**（`SPEC-036` / WIPO ID: 180049：カスケード断層起点遮断・極地氷底火山＆AMOCサーキットブレーカー）
-> - **動的広域減災シールド**（`SPEC-017` / WIPO ID: 179880）
-> - **地殻歪み振動回収・深層地熱自立発電・IGS非破壊防災通信**（`SPEC-020` / WIPO ID: 179888）
-> - **深層崩壊・土砂ダム緊急サイフォン排水**（`SPEC-024` / WIPO ID: 179899）
-> - **大河川外水氾濫・動的霞堤・信玄堤治水**（`SPEC-023` / WIPO ID: 179898）
-> - **自律型不燃バイオ防壁＆多層生体防火コリドー**（`SPEC-033` / WIPO ID: 179972）
-> - **首都直下火災旋風破砕・震災瓦礫循環**（`SPEC-026` / WIPO ID: 179901）
-> - **豪雪雪氷極寒冷害・下水熱無散水消雪**（`SPEC-025` / WIPO ID: 179900）
-> - **熟練現場打ち新コンクリート新モルタル**（`SPEC-022` / WIPO ID: 179896）
-> - **地域社会多層防衛マトリクス**（`SPEC-021`）
-> - **公共道路防犯灯IGS・最短交番即応**（`SPEC-011-REV2`）
-> - **八柱民草主権・空家法・区分所有法・公的終活信託**（`SPEC-008-V11.0`）
-> - **地域主権創生SRRP・出島助産所・孝弁配送**（`SPEC-007`）
+> - **[地球システム統合連鎖・複合災害遮断（SPEC-036）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-036_EARTH_SYSTEM_MULTI_HAZARD_HARMONIZATION_PROTOCOL.md)**　➡️【WIPO ID: 180049】カスケード断層起点遮断・極地氷底火山＆AMOCサーキットブレーカー）
+> - **[動的広域減災シールド（SPEC-017）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-017_DYNAMIC_GEO_HAZARD_SHIELD_AND_BIO_REMEDIATION_PROTOCOL.md)**　➡️【WIPO ID: 179880】
+> - **[地殻歪み振動回収・深層地熱自立発電・IGS非破壊防災通信（SPEC-020）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-020_SEISMO_HARVEST_GEOTHERMAL_IGS_DISASTER_COMM_PROTOCOL.md)**　➡️【WIPO ID: 179888】
+> - **[深層崩壊・土砂ダム緊急サイフォン排水（SPEC-024）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-024_DEEP_LANDSLIDE_DAM_BREACH_DEFENSE_PROTOCOL.md)**　➡️【WIPO ID: 179899】
+> - **[大河川外水氾濫・動的霞堤・信玄堤治水（SPEC-023）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-023_DYNAMIC_FLUVIAL_RETENTION_KASUMI_LEVEE_PROTOCOL.md)**　➡️【WIPO ID: 179898】
+> - **[自律型不燃バイオ防壁＆多層生体防火コリドー（SPEC-033）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-033_AUTONOMOUS_WILDFIRE_SHIELD_BIO_CORRIDOR_PROTOCOL.md)**　➡️【WIPO ID: 179972】
+> - **[首都直下火災旋風破砕・震災瓦礫循環（SPEC-026）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-026_URBAN_FIRESTORM_AND_DEBRIS_CIRCULAR_PROTOCOL.md)**　➡️【WIPO ID: 179901】
+> - **[豪雪雪氷極寒冷害・下水熱無散水消雪（SPEC-025）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-025_CRYOSPHERIC_SNOW_ICE_DISASTER_DEFENSE_PROTOCOL.md)**　➡️【WIPO ID: 179900】
+> - **[熟練現場打ち新コンクリート新モルタル（SPEC-022）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-022_CIVIC_CONCRETE_CARBON_SINK_MORTAR_PROTOCOL.md)**　➡️【WIPO ID: 179896】
+> - **[地域社会多層防衛マトリクス（SPEC-021）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-021_CIVIC_COMMONS_LIFELINE_MATRIX.md)**
+> - **[公共道路防犯灯IGS・最短交番即応（SPEC-011-REV2）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-011_SOVEREIGN_CIVIL_SAFETY_DEFENSE_PROTOCOL.md)**　
+> - **[八柱民草主権・空家法・区分所有法・公的終活信託（SPEC-008-V11.0）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-008_OCTA_PILLAR_CIVIL_SOVEREIGNTY_PROTOCOL.md)**
+> - **[地域主権創生SRRP・出島助産所・孝弁配送（SPEC-007）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md)**
 
 > **📜 ライセンス及び規約**
-> - **JIN-ORDER Dual License V8.4-A**（V13.0 Canonical Autumn LTS 全41大正典仕様書・宇宙生命維持体系）
-
+> - **[JIN-ORDER Dual License V8.4-A](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/LICENSE.md)**（V13.0 Canonical Autumn LTS 全41大正典仕様書・宇宙生命維持体系）
 ---
 
 <!-- ======================================================== -->
