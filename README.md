@@ -19,9 +19,9 @@
 
 > **🏛️ 至高法規・根本統治・大義**
 > - **[至高最高法規・仁焔世界大憲章 2040（CONSTITUTION.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/CONSTITUTION.md)**
-> - **[仁秩序大宣言 V8.0 大統合正典（MANIFESTO.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)** <br>➡️　食とインフラの主権・民草の覚醒・FREE-FLOW原則
-> - **[全球ASI覇権地図 V8.3（docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)** <br>➡️　物理ハードキャップ・基盤層ゼロ・同盟負担転嫁暴露
-> - **[戦略警告白書 V2.0（docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md)** <br>➡️　生体神経チップCL1兵器化、AI合成病原体、世界4大バイオ特区、浙江半導体血脈、日本解体・ブータンGMC脱出回廊暴露、第零公理防壁
+> - **[仁秩序大宣言 V8.0 大統合正典（MANIFESTO.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/MANIFESTO.md)**　➡️食とインフラの主権・民草の覚醒・FREE-FLOW原則
+> - **[全球ASI覇権地図 V8.3（docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/GLOBAL_ASI_HEGEMONY_MAP_V8.3.md)**　➡️物理ハードキャップ・基盤層ゼロ・同盟負担転嫁暴露
+> - **[戦略警告白書 V2.0（docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN_STRATEGIC_WARNING_2026_WETWARE_HEGEMONY.md)**　➡️生体神経チップCL1兵器化、AI合成病原体、世界4大バイオ特区、浙江半導体血脈、日本解体・ブータンGMC脱出回廊暴露、第零公理防壁
 > - **[自治体エネルギー防衛及びインフラ共生モデル条例（docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/MUNICIPAL_ENERGY_DEFENSE_ORDINANCE_2026.md)**
 > - **[全惑星・地域自立分散循環統合マスター仕様書（SPEC-000）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**
 > - **[JIN開拓地特別法（JIN_FRONTIER_LAW.md）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/specs/JIN_FRONTIER_LAW.md)** ➡️ 受入自治体ゼロ・バーデン共生第VII章追加）
