@@ -136,29 +136,35 @@
   <sub>水理生態・素材代謝・耐検閲中立計算・民草主権の4層グランドトポロジーにより、中央集権の搾取と机上の空論を完全解体する不沈文明のグランドアーキテクチャ。</sub></p>
 </div>
 
+---
+
 <!-- JIN-LIVING-ROAD & DEEP INFRASTRUCTURE ヒーローカード群 -->
 <div align="center">
   <h2>🛣️ 【JIN-LIVING-ROAD & DEEP INFRASTRUCTURE】高機能・環境調和型舗装と非開削・地下立体インフラ網</h2>
   <p><b>Autonomous Ecological Artery, Self-Healing Bio-Pavement, and Subterranean Lifeline Matrix</b></p>
 
   <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md">
-    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/docs/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg" width="100%" alt="JIN-リビングロード：ペロブスカイト太陽電池・自己修復バイオ舗装・動的ワイヤレス充電を統合した自律型エコロジカル・アーテリー" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,150,0.25);" />
+    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/JIN_LIVING_ROAD_INFRASTRUCTURE.jpg" width="100%" alt="JIN-リビングロード：ペロブスカイト太陽電池・自己修復バイオ舗装・動的ワイヤレス充電を統合した自律型エコロジカル・アーテリー" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,200,150,0.25);" />
   </a>
   <p><b>🛣️ 【次世代環境調和型・自律道路網】<a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md">JIN-リビングロード：遮熱・自己修復バイオ舗装 ＆ ペロブスカイト創エネ・動的給電ループ</a></b><br>
   <sub>太陽光反射コーティング（Cool Pavement）と保水マイクロ空隙により路面温度上昇を10℃以上抑制[cite: 3]。太陽熱に反応するマイクロカプセル配合バイオアスファルトで微小クラックを自律修復し[cite: 3]、法面ペロブスカイト太陽電池と圧電式路盤で収穫した電力を全固体バッテリー・水循環ステーション・緊急避難所へ直結供給する長寿命道路アーキテクチャ。</sub></p>
 </div>
 
+---
+
 <div align="center">
   <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">
-    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/docs/assets/Rord_Overview_Concept_Diagram.jpg" width="100%" alt="超高機能・防災型リビングロード＆地下トンネルシステム断面図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,180,255,0.25);" />
+    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/Rord_Overview_Concept_Diagram.jpg" width="100%" alt="超高機能・防災型リビングロード＆地下トンネルシステム断面図" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,180,255,0.25);" />
   </a>
   <p><b>🚇 【地中空洞化防止・非開削メンテナンス体系】<a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-CCNP-088_DEEP_INFRA_ARBITRATION.md">アンチパイピング地盤防護・発光バイオグラウト非開削充填 ＆ IGS非破壊構造診断</a></b><br>
   <sub>高透水性ジオテキスタイルメンブレンによる土砂流出（パイピング）防止と、φ20mmマイクロノズルからのバイオグラウト非開削注入により、道路を掘り返さずに地下空洞・陥没リスクを根絶[cite: 1, 2]。伝統土木（粗朶暗渠・しがらき工・打音触診）の身体知と、高周波電磁波・弾性波による3D非破壊透視（デジタルツイン予防保全）を融合した現場直結の施工標準[cite: 1, 2, 3]。</sub></p>
 </div>
 
+---
+
 <div align="center">
   <a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md">
-    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/docs/assets/SPEC_007_REGENERATION_PROTOCOL_03.jpg" width="100%" alt="ふれあいケアプラザ・せせらぎカフェ：保護犬セラピードッグと多世代交流・フィールド土木エンジニアが共生する緑道空間" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(100,220,120,0.25);" />
+    <img src="https://raw.githubusercontent.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/main/assets/SPEC_007_REGENERATION_PROTOCOL_03.jpg" width="100%" alt="ふれあいケアプラザ・せせらぎカフェ：保護犬セラピードッグと多世代交流・フィールド土木エンジニアが共生する緑道空間" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(100,220,120,0.25);" />
   </a>
   <p><b>🌿 【せせらぎ緑道・多世代ケアと動物共生の街づくり】<a href="https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md">ふれあいケアプラザ・せせらぎカフェ ＆ 地域工務店・土木技術継承プロジェクト（SPEC-007 / SPEC-021）</a></b><br>
   <sub>強靭なインフラとエッジコンピューティング・ノードを地下と緑道に調和させ、地上にはせせらぎの水音と木陰の歩行者空間を復権[cite: 4, 5, 6, 7]。保護犬・保護猫が「登録セラピーアニマル」として活躍し、コミュニティ・ナースや熟練・若手の土木技術者、多世代の住民が自然に集う、誰も独りにしない地域共生コモンズ[cite: 9, 10]。</sub></p>
