@@ -20,7 +20,7 @@
 ## 🌐 【2026年10月 国際情勢緊急声明】IMF・IRENA・国連最新報告に見る『JIN-OS』の先見性と構造的整合性
 ### Structural Alignment of "JIN-OS" with the October 2026 IMF, IRENA, and UN Global Reports
 
-2026年10月中旬、国際通貨基金（IMF）、国際再生可能エネルギー機関（IRENA）、および国連経済社会局（UN DESA）が相次いで発表したグローバルレポートは、一般社団法人JIN-ORDERが『GOVERNANCE_OF_ABYSS（V13.1）』および『JIN-OS_GLOBAL_STRATEGY』において先行定義・公知登録してきた**「反・計算租界（Anti-Compute Enclave）」「基盤層ゼロ（Substrate Zero）」「都市土木・水・熱・計算の完全自律循環アーキテクチャ」**の正当性を、国際マクロ統計の側から完全に裏付けるものとなりました。
+2026年10月中旬、国際通貨基金（IMF）、国際再生可能エネルギー機関（IRENA）、および国連経済社会局（UN DESA）が相次いで発表したグローバルレポートは、一般社団法人JIN-ORDERが『GOVERNANCE_OF_ABYSS（V13.1）』および『JIN-OS_GLOBAL_STRATEGY』において先行定義・公知登録してきた 「反・計算租界（Anti-Compute Enclave）」「基盤層ゼロ（Substrate Zero）」「都市土木・水・熱・計算の完全自律循環アーキテクチャ」 の正当性を、国際マクロ統計の側から完全に裏付けるものとなりました。
 
 1. **IMFの警告（2026年10月15日 *"The World Can’t Afford to Get AI Wrong"*）との整合性**
    - **国際情勢の危機：** IMFは、AIへの投資規模がかつての鉄道網や電力網の構築時を超える歴史的水準に達する一方、電力供給網の逼迫（系統共食い）や水資源偏在が世界経済の重大リスクになっていると警告しました。同時開催された「2026 OCP Global Summit（10月12日〜15日）」でも、AIデータセンターの熱限界と冷却水枯渇が最大のボトルネックとして露呈しています。
@@ -28,11 +28,11 @@
 
 2. **IRENAの提言（2026年10月13日 *"Accelerating Electrification Powered by Renewable Energy"*）との整合性**
    - **国際情勢の危機：** IRENAは2035年に向けた電化と再生可能エネルギー拡大の加速を提唱しましたが、欧州・英国をはじめ世界各地では中央集権型送電網の容量不足と莫大な調整コスト（出力抑制の矛盾）、および排出権取引（ETS）を巡る経済対立が深刻化しています。
-   - **JIN-OSの先行回答：** 金融的カーボンクレジットのマネーゲームを排し、**[物理現物資源担保分散台帳 J-PRL（SPEC-028_PROTOCOL_01）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-028_PROTOCOL_01_PHYSICAL_RESOURCE_LEDGER.md)**と**[エネルギー拘束ルーティング（SPEC-003）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-PWR-003.md)**、**[JIN-リビングロード（SPEC-004）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)**を結合。道路法第32条多用途共同溝・上下水道・地熱・海流発電を地域単位で直結し、巨大送電網への依存をゼロにする現場完結型マイクログリッドを定義済みです。
+   - **JIN-OSの先行回答：** 金融的カーボンクレジットのマネーゲームを排し、[物理現物資源担保分散台帳 J-PRL（SPEC-028_PROTOCOL_01）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-028_PROTOCOL_01_PHYSICAL_RESOURCE_LEDGER.md)と[エネルギー拘束ルーティング（SPEC-003）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/JIN-SPEC-PWR-003.md)、[JIN-リビングロード（SPEC-004）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-004_PHYSICAL_ANCHOR_PROTOCOL.md)を結合。道路法第32条多用途共同溝・上下水道・地熱・海流発電を地域単位で直結し、巨大送電網への依存をゼロにする現場完結型マイクログリッドを定義済みです。
 
 3. **国連『世界社会報告書 2026』（2026年10月15日 UN DESA *"New Economics of Social Inclusion"*）との整合性**
    - **国際情勢の危機：** 国連は、デジタル化とグリーン移行において物理的・社会的インフラの設計が伴わなければ、脆弱な地域や市民（民草）が取り残され、基礎インフラの喪失と格差が加速すると警告しました。
-   - **JIN-OSの先行回答：** **[全惑星・地域自立分散循環統合マスター仕様書（SPEC-000）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)**、**[地域主権創生SRRP（SPEC-007）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md)**、および**[サヘル自立オアシスインフラ（SPEC-030_LSU_CHAD_01 / WIPO: 179882）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-030_LSU_CHAD_01_AUTONOMOUS_INFRASTRUCTURE.md)**により、基礎自治体の生活道路網（非開削メンテナンス・路盤復元）から難民キャンプの自立オアシス化まで、誰も取り残さない物理インフラ標準をWIPO GREEN（全34技術群）およびCERN Zenodo（国際DOI）にて人類共有の先行技術（Prior Art）として無償開放しています。
+   - **JIN-OSの先行回答：** [全惑星・地域自立分散循環統合マスター仕様書（SPEC-000）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-000_PLANETARY_SOVEREIGN_CIRCULAR_SYNTHESIS.md)、[地域主権創生SRRP（SPEC-007）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-007_SOVEREIGN_REGIONAL_REGENERATION_PROTOCOL.md)、および[サヘル自立オアシスインフラ（SPEC-030_LSU_CHAD_01 / WIPO: 179882）](https://github.com/JIN-ORDER-OFFICIAL/GOVERNANCE_OF_ABYSS/blob/main/docs/SPEC-030_LSU_CHAD_01_AUTONOMOUS_INFRASTRUCTURE.md)により、基礎自治体の生活道路網（非開削メンテナンス・路盤復元）から難民キャンプの自立オアシス化まで、誰も取り残さない物理インフラ標準をWIPO GREEN（全34技術群）およびCERN Zenodo（国際DOI）にて人類共有の先行技術（Prior Art）として無償開放しています。
 
 <details>
 <summary>🌐 <b>[English Official Statement] Structural Alignment with October 2026 IMF, IRENA & UN Reports</b> (Click to expand)</summary>
