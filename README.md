@@ -4,8 +4,8 @@
 <!-- 国際識別子・世界魚拓 鉄壁防壁ヘッダー -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24423495.svg)](https://doi.org/10.5281/zenodo.24423495)
 [![Concept DOI](https://img.shields.io/badge/Concept%20DOI-10.5281%2Fzenodo.22958158-blue)](https://doi.org/10.5281/zenodo.22958158)
-[![Archive.today](https://img.shields.io/badge/Archive.today-05UOa-success?logo=archive.today)](https://archive.li/05UOa)
-[![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](https://archive.softwareheritage.org/)
+[![Archive.today](https://img.shields.io/badge/Archive.today-rAco5-success?logo=archive.today)](https://archive.li/rAco5)
+[![Software Heritage](https://img.shields.io/badge/SWH-Archived-red)](web/20261122003605/https://github.com/masanotakashi0308-star)
 [![WIPO GREEN](https://img.shields.io/badge/WIPO%20GREEN-Registered%20(34%20Technologies%20IDs%3A%20179871~180061)-2d6a4f?logo=virustotal&logoColor=white)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)
 [![Corporate Number](https://img.shields.io/badge/Japan%20Corporate%20No.-7020005017485-0b3d91)](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=7020005017485)
 
@@ -13,8 +13,8 @@
 - **公的法人格（日本国法務省・国税庁）**: **一般社団法人JIN-ORDER（General Incorporated Association JIN-ORDER）** — 2026年11月5日 設立登記申請受理 ／ **2026年11月20日 横浜地方法務局 設立登記完了・国税庁 法人番号公表済（法人番号：`7020005017485` ／ 本店：神奈川県横浜市神奈川区西寺尾2丁目7番7号）**
 - **WIPO GREEN (国連世界知的所有権機関)**: [国際持続可能技術台帳 登録確定済 (全34技術群 IDs: 179871 / 179878 / 179879 / 179880 / 179881 / 179882 / 179883 / 179884 / 179886 / 179888 / 179896 / 179898 / 179899 / 179900 / 179901 / 179936 / 179959 / 179960 / 179961 / 179963 / 179964 / 179966 / 179967 / 179968 / 179970 / 179971 / 179972 / 179973 / 179974 / 179978 / 180049 / 180050 / 180051 / 180061 ＋ SPEC-040 ＆ SPEC-039 Prior Art ＆ SPEC-036 V2.0 ＆ SPEC-033 V12.3 統合)](https://wipogreen.wipo.int/wipogreen-database/articles/180061)
 - **CERN Zenodo (国際DOI)**: 永久研究識別子取得済（Latest Release DOI: [10.5281/zenodo.24423495](https://doi.org/10.5281/zenodo.24423495) / Master Concept DOI: [10.5281/zenodo.22958158](https://doi.org/10.5281/zenodo.22958158) / Portal DOI: [10.5281/zenodo.22959426](https://doi.org/10.5281/zenodo.22959426)）
-- **Wayback Machine**: [2026-10-29 確定公知タイムスタンプ](https://web.archive.org/web/20261029114235/https://github.com/masanotakashi0308-star)
-- **Archive.today**: [2026-10-29 独立魚拓確定版 (ID:05UOa)](https://archive.li/05UOa)
+- **Wayback Machine**: [2026-11-22 確定公知タイムスタンプ](web/20261122003605/https://github.com/masanotakashi0308-star)
+- **Archive.today**: [2026-11-22 独立魚拓確定版 (ID:rAco5)](https://archive.li/rAco5)
 - **Software Heritage**: ユネスコ公認デジタル遺産台帳登録済
 
 ---
